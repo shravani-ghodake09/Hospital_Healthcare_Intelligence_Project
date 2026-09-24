@@ -1,0 +1,1001 @@
+Patient_ID,Admission_Date,Discharge_Date,Department,Doctor,Gender,Age,Patient_Type,Diagnosis,Treatment,Admission_Type,Length_of_Stay,Room_Type,Billing_Amount,Insurance,Payment_Method,Patient_Rating,Outcome
+P1001,2025-12-15,2025-12-19,Gynecology,Dr. Nair,Male,18,Emergency,Anemia,Minor Procedure,Elective,4,General,15769.99,No,Cash,3.6,Recovered
+P1002,2025-01-22,2025-02-03,Emergency,Dr. Khan,Male,31,Emergency,Chest Pain,Surgery,Emergency,12,ICU,160228.4,Yes,Insurance,5.0,Under Treatment
+P1003,2025-05-11,2025-05-20,Oncology,Dr. Chavan,Male,36,OPD,Lymphoma,Surgery,Elective,9,General,34164.19,Yes,Insurance,4.7,Follow-up
+P1004,2025-07-25,2025-07-31,Orthopedics,Dr. Deshmukh,Female,73,OPD,Arthritis,Chemotherapy,Emergency,6,Semi-Private,37386.0,Yes,UPI,3.3,Under Treatment
+P1005,2025-08-03,2025-08-12,ENT,Dr. Bansal,Male,51,OPD,Sinusitis,Surgery,Elective,9,General,34991.03,Yes,Insurance,4.4,Follow-up
+P1006,2025-09-18,2025-09-20,Cardiology,Dr. Sharma,Female,59,OPD,Chest Pain,Observation,Elective,2,General,6075.03,Yes,Cash,4.9,Transferred
+P1007,2025-08-15,2025-08-24,Cardiology,Dr. Sharma,Male,49,Emergency,Heart Disease,Therapy,Elective,9,Private,51345.64,Yes,Insurance,4.1,Recovered
+P1008,2025-08-10,2025-08-23,Pediatrics,Dr. Iyer,Male,39,Emergency,Infection,Observation,Elective,13,General,25998.48,Yes,Insurance,4.2,Follow-up
+P1009,2025-10-13,2025-10-22,Pediatrics,Dr. Iyer,Female,35,OPD,Fever,Medication,Emergency,9,Private,44766.08,No,Credit Card,4.1,Recovered
+P1010,2025-11-03,2025-11-07,Cardiology,Dr. Mehta,Male,17,Emergency,Heart Disease,Medication,Emergency,4,General,8981.45,No,Debit Card,3.3,Follow-up
+P1011,2025-04-23,2025-04-24,General Medicine,Dr. Verma,Male,40,OPD,Diabetes,Medication,Emergency,1,General,3013.88,Yes,Insurance,4.8,Recovered
+P1012,2025-10-07,2025-10-16,Dermatology,Dr. Kulkarni,Female,57,OPD,Psoriasis,Medication,Elective,9,General,19047.93,Yes,Insurance,4.6,Recovered
+P1013,2025-05-27,2025-06-07,Orthopedics,Dr. Deshmukh,Male,39,Emergency,Arthritis,Medication,Emergency,11,General,21340.4,Yes,UPI,3.3,Recovered
+P1014,2025-03-01,2025-03-12,Oncology,Dr. Reddy,Female,56,Emergency,Lymphoma,Minor Procedure,Elective,11,General,26541.17,Yes,Debit Card,4.9,Recovered
+P1015,2025-04-14,2025-04-16,ENT,Dr. Bansal,Male,47,OPD,Ear Infection,Chemotherapy,Emergency,2,Semi-Private,27142.78,Yes,Debit Card,3.3,Recovered
+P1016,2025-05-15,2025-05-21,Pediatrics,Dr. Iyer,Female,57,OPD,Dehydration,Therapy,Emergency,6,General,16392.61,Yes,Cash,4.0,Recovered
+P1017,2025-10-13,2025-10-14,General Medicine,Dr. Verma,Female,34,OPD,Viral Infection,Therapy,Elective,1,General,6904.32,No,UPI,3.9,Under Treatment
+P1018,2025-07-07,2025-07-10,Orthopedics,Dr. Patil,Male,56,OPD,Joint Pain,Medication,Emergency,3,General,6962.14,Yes,UPI,3.2,Recovered
+P1019,2025-09-30,2025-10-02,Emergency,Dr. Thomas,Female,50,OPD,Chest Pain,Therapy,Emergency,2,Private,16634.71,No,UPI,3.6,Transferred
+P1020,2025-11-18,2025-11-24,Neurology,Dr. Kapoor,Male,39,OPD,Migraine,Chemotherapy,Elective,6,Semi-Private,39433.68,Yes,Insurance,4.8,Recovered
+P1021,2025-09-21,2025-09-24,Cardiology,Dr. Mehta,Male,27,OPD,Arrhythmia,Chemotherapy,Emergency,3,Semi-Private,31259.75,No,Cash,3.9,Recovered
+P1022,2025-12-12,2025-12-17,Emergency,Dr. Khan,Male,32,Emergency,Chest Pain,Observation,Elective,5,General,10881.32,No,Credit Card,2.9,Follow-up
+P1023,2025-08-25,2025-09-06,ENT,Dr. Mishra,Female,49,Emergency,Sinusitis,Therapy,Elective,12,Semi-Private,42481.62,Yes,Insurance,3.5,Recovered
+P1024,2025-07-23,2025-08-06,Pediatrics,Dr. Joshi,Male,36,Emergency,Infection,Medication,Elective,14,General,25471.95,Yes,Insurance,4.1,Recovered
+P1025,2025-05-27,2025-05-28,Emergency,Dr. Khan,Female,22,OPD,Breathing Difficulty,Surgery,Elective,1,Private,23554.52,No,Debit Card,2.7,Follow-up
+P1026,2025-06-28,2025-06-30,Cardiology,Dr. Mehta,Male,67,OPD,Hypertension,Surgery,Elective,2,General,20213.38,Yes,Insurance,5.0,Follow-up
+P1027,2025-04-25,2025-04-30,Neurology,Dr. Kapoor,Male,61,Emergency,Neuropathy,Medication,Emergency,5,ICU,62543.06,Yes,Insurance,5.0,Follow-up
+P1028,2025-04-06,2025-04-13,Pediatrics,Dr. Iyer,Male,75,Emergency,Dehydration,Minor Procedure,Elective,7,Private,38052.09,Yes,UPI,3.9,Recovered
+P1029,2025-06-26,2025-06-29,Orthopedics,Dr. Patil,Female,33,Emergency,Arthritis,Observation,Elective,3,Semi-Private,11680.83,Yes,Insurance,4.8,Recovered
+P1030,2025-05-31,2025-06-05,General Medicine,Dr. Verma,Male,84,OPD,Fever,Chemotherapy,Emergency,5,Private,47495.52,Yes,Credit Card,3.6,Recovered
+P1031,2025-01-07,2025-01-13,Dermatology,Dr. Kulkarni,Female,59,OPD,Acne,Minor Procedure,Emergency,6,ICU,77719.56,Yes,Insurance,3.5,Follow-up
+P1032,2025-06-16,2025-06-18,Dermatology,Dr. Kulkarni,Male,37,OPD,Eczema,Minor Procedure,Elective,2,Semi-Private,12387.26,Yes,Insurance,3.4,Follow-up
+P1033,2025-07-10,2025-07-15,Oncology,Dr. Reddy,Female,1,OPD,Lymphoma,Minor Procedure,Emergency,5,General,16371.27,No,Debit Card,4.1,Under Treatment
+P1034,2025-02-16,2025-02-22,Neurology,Dr. Rao,Male,26,OPD,Migraine,Chemotherapy,Elective,6,General,32666.88,No,Credit Card,4.7,Follow-up
+P1035,2025-05-02,2025-05-13,ENT,Dr. Mishra,Female,62,Emergency,Sinusitis,Observation,Elective,11,Semi-Private,32327.84,Yes,Insurance,4.4,Recovered
+P1036,2025-09-10,2025-09-18,Orthopedics,Dr. Patil,Male,61,OPD,Back Pain,Surgery,Elective,8,Private,59679.52,Yes,Insurance,3.7,Recovered
+P1037,2025-09-24,2025-10-01,Cardiology,Dr. Sharma,Male,39,OPD,Chest Pain,Minor Procedure,Emergency,7,Private,42485.38,No,Credit Card,4.2,Recovered
+P1038,2025-06-14,2025-06-15,General Medicine,Dr. Singh,Male,45,OPD,Fever,Chemotherapy,Emergency,1,ICU,35272.54,Yes,Insurance,5.0,Recovered
+P1039,2025-02-08,2025-02-13,ENT,Dr. Bansal,Female,44,OPD,Sinusitis,Observation,Elective,5,General,12361.52,No,Cash,4.5,Follow-up
+P1040,2025-04-13,2025-04-27,Orthopedics,Dr. Deshmukh,Female,69,Emergency,Arthritis,Surgery,Emergency,14,Semi-Private,61802.83,Yes,Cash,4.1,Recovered
+P1041,2025-04-16,2025-04-21,Gynecology,Dr. Gupta,Female,7,OPD,PCOS,Chemotherapy,Elective,5,General,30933.34,Yes,Insurance,4.3,Recovered
+P1042,2025-01-08,2025-01-19,Dermatology,Dr. Shah,Male,1,Emergency,Psoriasis,Therapy,Elective,11,Semi-Private,36521.4,Yes,Insurance,3.6,Recovered
+P1043,2025-05-13,2025-05-22,Cardiology,Dr. Sharma,Male,43,OPD,Chest Pain,Surgery,Emergency,9,Semi-Private,42260.64,No,Debit Card,3.9,Follow-up
+P1044,2025-12-21,2025-12-31,Cardiology,Dr. Mehta,Male,37,Emergency,Arrhythmia,Chemotherapy,Emergency,10,Private,72691.87,Yes,UPI,4.2,Recovered
+P1045,2025-10-21,2025-10-28,Neurology,Dr. Rao,Female,26,OPD,Epilepsy,Medication,Emergency,7,General,11693.3,Yes,Insurance,3.8,Recovered
+P1046,2025-04-19,2025-04-22,Oncology,Dr. Reddy,Female,1,OPD,Lung Cancer,Medication,Elective,3,General,3903.47,Yes,Debit Card,4.7,Under Treatment
+P1047,2025-10-16,2025-10-30,General Medicine,Dr. Verma,Female,37,Emergency,Viral Infection,Chemotherapy,Emergency,14,General,44466.46,No,Credit Card,4.1,Under Treatment
+P1048,2025-04-28,2025-05-09,Dermatology,Dr. Kulkarni,Male,60,Emergency,Eczema,Surgery,Emergency,11,Semi-Private,51768.7,Yes,UPI,3.4,Recovered
+P1049,2025-03-31,2025-04-06,Cardiology,Dr. Sharma,Male,57,OPD,Chest Pain,Medication,Emergency,6,General,11612.96,Yes,Insurance,3.6,Follow-up
+P1050,2025-09-22,2025-09-27,Cardiology,Dr. Mehta,Male,57,OPD,Chest Pain,Medication,Elective,5,Private,25189.91,No,UPI,3.1,Under Treatment
+P1051,2025-03-01,2025-03-06,Dermatology,Dr. Kulkarni,Female,30,OPD,Psoriasis,Minor Procedure,Emergency,5,General,15705.99,No,UPI,4.6,Recovered
+P1052,2025-11-24,2025-12-01,ENT,Dr. Bansal,Male,35,OPD,Sinusitis,Medication,Emergency,7,General,14224.2,Yes,Insurance,2.4,Recovered
+P1053,2025-02-08,2025-02-09,ENT,Dr. Mishra,Female,12,Emergency,Hearing Problem,Minor Procedure,Elective,1,Semi-Private,10372.5,No,Debit Card,4.7,Recovered
+P1054,2025-03-27,2025-03-31,Pediatrics,Dr. Joshi,Female,56,OPD,Fever,Chemotherapy,Elective,4,Semi-Private,32777.66,Yes,Insurance,5.0,Recovered
+P1055,2025-04-05,2025-04-13,Neurology,Dr. Kapoor,Female,56,OPD,Epilepsy,Surgery,Elective,8,Semi-Private,43881.11,Yes,Insurance,4.1,Recovered
+P1056,2025-11-12,2025-11-20,ENT,Dr. Mishra,Female,90,OPD,Hearing Problem,Minor Procedure,Emergency,8,Semi-Private,28390.27,No,Credit Card,5.0,Follow-up
+P1057,2025-10-24,2025-11-02,ENT,Dr. Mishra,Male,90,OPD,Tonsillitis,Minor Procedure,Elective,9,General,22828.74,No,UPI,3.3,Recovered
+P1058,2025-07-29,2025-08-01,Dermatology,Dr. Kulkarni,Female,8,OPD,Psoriasis,Observation,Elective,3,General,6038.04,Yes,Insurance,4.6,Recovered
+P1059,2025-02-18,2025-02-25,Neurology,Dr. Rao,Female,36,Emergency,Epilepsy,Medication,Elective,7,Semi-Private,20472.17,Yes,Credit Card,3.6,Recovered
+P1060,2025-10-13,2025-10-15,Cardiology,Dr. Sharma,Male,64,OPD,Heart Disease,Surgery,Elective,2,Semi-Private,23572.16,Yes,Insurance,4.2,Recovered
+P1061,2025-12-25,2025-12-27,Gynecology,Dr. Nair,Male,43,OPD,Anemia,Observation,Emergency,2,Private,12641.82,Yes,Insurance,3.5,Recovered
+P1062,2025-02-23,2025-02-26,ENT,Dr. Bansal,Male,29,Emergency,Sinusitis,Surgery,Elective,3,General,21368.08,No,Debit Card,3.4,Recovered
+P1063,2025-09-20,2025-10-01,Emergency,Dr. Khan,Male,69,OPD,Chest Pain,Observation,Elective,11,General,22449.9,Yes,Insurance,4.5,Recovered
+P1064,2025-08-14,2025-08-22,Oncology,Dr. Chavan,Female,13,OPD,Lung Cancer,Medication,Emergency,8,ICU,99534.17,Yes,Insurance,2.1,Follow-up
+P1065,2025-08-25,2025-08-27,Neurology,Dr. Rao,Female,21,OPD,Stroke,Minor Procedure,Emergency,2,General,11824.76,Yes,Cash,4.0,Recovered
+P1066,2025-06-02,2025-06-11,General Medicine,Dr. Verma,Male,69,OPD,Fever,Minor Procedure,Elective,9,General,24198.57,No,UPI,4.7,Recovered
+P1067,2025-07-09,2025-07-14,Cardiology,Dr. Mehta,Male,52,OPD,Hypertension,Therapy,Emergency,5,Private,28629.11,Yes,Credit Card,4.4,Recovered
+P1068,2025-09-03,2025-09-06,ENT,Dr. Mishra,Female,6,Emergency,Hearing Problem,Observation,Elective,3,Semi-Private,8472.53,Yes,Insurance,4.7,Follow-up
+P1069,2025-03-14,2025-03-17,General Medicine,Dr. Singh,Female,81,Emergency,Diabetes,Therapy,Elective,3,General,9843.28,Yes,UPI,2.8,Recovered
+P1070,2025-01-17,2025-01-25,Cardiology,Dr. Mehta,Male,64,OPD,Arrhythmia,Therapy,Elective,8,Semi-Private,29500.71,No,Cash,4.3,Recovered
+P1071,2025-09-25,2025-10-05,Oncology,Dr. Reddy,Male,50,Emergency,Lung Cancer,Chemotherapy,Elective,10,General,40249.23,Yes,Credit Card,4.0,Transferred
+P1072,2025-04-13,2025-04-15,Gynecology,Dr. Gupta,Male,55,Emergency,Hormonal Disorder,Minor Procedure,Elective,2,Private,17733.01,Yes,Insurance,2.7,Follow-up
+P1073,2025-12-15,2025-12-17,Pediatrics,Dr. Joshi,Female,1,OPD,Asthma,Therapy,Elective,2,General,8975.45,No,Cash,4.4,Recovered
+P1074,2025-01-29,2025-02-07,Pediatrics,Dr. Iyer,Male,38,OPD,Dehydration,Observation,Elective,9,Private,45452.84,Yes,Insurance,4.6,Recovered
+P1075,2025-06-07,2025-06-08,ENT,Dr. Mishra,Male,10,OPD,Ear Infection,Medication,Elective,1,General,3363.96,Yes,Cash,4.7,Under Treatment
+P1076,2025-06-02,2025-06-07,Neurology,Dr. Rao,Female,37,OPD,Neuropathy,Chemotherapy,Emergency,5,Private,46500.96,Yes,Insurance,3.9,Under Treatment
+P1077,2025-09-19,2025-09-22,ENT,Dr. Mishra,Female,43,OPD,Ear Infection,Minor Procedure,Elective,3,Private,19200.2,No,Debit Card,3.9,Follow-up
+P1078,2025-11-25,2025-12-04,Oncology,Dr. Chavan,Male,60,OPD,Breast Cancer,Therapy,Elective,9,General,21352.2,No,UPI,4.8,Recovered
+P1079,2025-05-04,2025-05-09,Neurology,Dr. Kapoor,Female,41,OPD,Migraine,Minor Procedure,Emergency,5,ICU,68153.47,Yes,UPI,4.8,Recovered
+P1080,2025-02-09,2025-02-10,Neurology,Dr. Rao,Female,48,OPD,Neuropathy,Observation,Emergency,1,General,3681.37,Yes,Insurance,3.6,Recovered
+P1081,2025-08-23,2025-08-25,General Medicine,Dr. Verma,Male,31,OPD,Viral Infection,Observation,Elective,2,Private,12266.67,Yes,Insurance,4.6,Under Treatment
+P1082,2025-12-26,2025-12-29,Cardiology,Dr. Sharma,Female,12,Emergency,Hypertension,Chemotherapy,Elective,3,Private,35577.5,Yes,Credit Card,3.7,Follow-up
+P1083,2025-07-15,2025-07-23,Dermatology,Dr. Shah,Female,57,Emergency,Acne,Surgery,Elective,8,General,33572.28,No,Debit Card,3.6,Follow-up
+P1084,2025-01-07,2025-01-18,Pediatrics,Dr. Joshi,Male,80,Emergency,Infection,Therapy,Elective,11,Semi-Private,36024.16,Yes,Insurance,3.9,Follow-up
+P1085,2025-10-15,2025-10-28,Pediatrics,Dr. Joshi,Male,16,Emergency,Asthma,Observation,Elective,13,ICU,158546.95,Yes,Insurance,2.9,Under Treatment
+P1086,2025-02-27,2025-03-08,Cardiology,Dr. Mehta,Male,28,OPD,Chest Pain,Medication,Emergency,9,Private,44341.1,Yes,Insurance,4.1,Recovered
+P1087,2025-01-08,2025-01-11,General Medicine,Dr. Singh,Female,54,OPD,Hypertension,Observation,Elective,3,General,8494.98,Yes,Insurance,5.0,Recovered
+P1088,2025-06-15,2025-06-17,Oncology,Dr. Reddy,Female,72,Emergency,Lung Cancer,Minor Procedure,Emergency,2,Private,15457.23,Yes,Insurance,2.3,Recovered
+P1089,2025-10-16,2025-10-22,Oncology,Dr. Chavan,Male,60,OPD,Breast Cancer,Medication,Elective,6,Semi-Private,19815.22,No,UPI,4.0,Transferred
+P1090,2025-03-18,2025-04-01,Cardiology,Dr. Sharma,Female,26,Emergency,Heart Disease,Surgery,Emergency,14,Semi-Private,61679.23,No,UPI,4.6,Recovered
+P1091,2025-03-14,2025-03-28,Dermatology,Dr. Shah,Female,55,Emergency,Skin Allergy,Observation,Elective,14,Semi-Private,43972.18,Yes,Debit Card,4.9,Recovered
+P1092,2025-05-07,2025-05-14,Orthopedics,Dr. Deshmukh,Male,45,OPD,Arthritis,Observation,Elective,7,Semi-Private,22075.89,Yes,Insurance,2.6,Follow-up
+P1093,2025-11-05,2025-11-08,Gynecology,Dr. Gupta,Female,76,OPD,PCOS,Medication,Elective,3,General,6723.59,Yes,Insurance,3.1,Transferred
+P1094,2025-12-16,2025-12-20,Cardiology,Dr. Sharma,Female,34,OPD,Arrhythmia,Observation,Elective,4,Semi-Private,13008.65,Yes,Insurance,4.1,Recovered
+P1095,2025-03-07,2025-03-08,Pediatrics,Dr. Joshi,Male,24,OPD,Fever,Minor Procedure,Elective,1,General,6164.35,No,Debit Card,5.0,Recovered
+P1096,2025-10-20,2025-10-28,Neurology,Dr. Kapoor,Female,67,OPD,Stroke,Minor Procedure,Elective,8,Semi-Private,29565.07,No,Credit Card,3.2,Under Treatment
+P1097,2025-06-12,2025-06-15,Neurology,Dr. Rao,Male,32,OPD,Epilepsy,Therapy,Emergency,3,General,10315.8,Yes,Insurance,3.4,Recovered
+P1098,2025-06-20,2025-06-25,ENT,Dr. Bansal,Female,50,OPD,Hearing Problem,Medication,Emergency,5,General,10235.19,Yes,Debit Card,4.9,Transferred
+P1099,2025-11-30,2025-12-01,Pediatrics,Dr. Iyer,Male,39,Emergency,Infection,Medication,Elective,1,Semi-Private,2558.05,No,Debit Card,4.6,Recovered
+P1100,2025-10-21,2025-10-31,Neurology,Dr. Kapoor,Male,48,Emergency,Neuropathy,Surgery,Emergency,10,Private,67135.05,Yes,Insurance,4.3,Recovered
+P1101,2025-06-24,2025-07-02,Dermatology,Dr. Kulkarni,Female,45,OPD,Eczema,Surgery,Elective,8,Private,58437.95,No,Credit Card,4.1,Follow-up
+P1102,2025-10-14,2025-10-16,Orthopedics,Dr. Deshmukh,Male,50,OPD,Fracture,Chemotherapy,Emergency,2,ICU,45685.64,Yes,Cash,3.6,Recovered
+P1103,2025-04-12,2025-04-23,Neurology,Dr. Rao,Male,53,Emergency,Epilepsy,Minor Procedure,Elective,11,General,26641.41,Yes,Insurance,4.8,Recovered
+P1104,2025-11-12,2025-11-18,General Medicine,Dr. Singh,Female,12,OPD,Diabetes,Observation,Elective,6,General,12303.34,Yes,UPI,5.0,Recovered
+P1105,2025-10-31,2025-11-07,ENT,Dr. Bansal,Male,43,OPD,Hearing Problem,Therapy,Elective,7,Private,38082.33,No,Credit Card,4.9,Recovered
+P1106,2025-05-04,2025-05-10,General Medicine,Dr. Verma,Male,43,OPD,Viral Infection,Minor Procedure,Elective,6,General,19259.01,Yes,Insurance,4.2,Under Treatment
+P1107,2025-05-16,2025-05-27,Orthopedics,Dr. Patil,Female,22,Emergency,Arthritis,Chemotherapy,Elective,11,General,42928.93,No,Credit Card,5.0,Recovered
+P1108,2025-10-25,2025-11-06,Emergency,Dr. Thomas,Female,46,OPD,Chest Pain,Medication,Elective,12,General,25455.26,No,Credit Card,4.3,Follow-up
+P1109,2025-05-01,2025-05-05,Emergency,Dr. Thomas,Male,17,OPD,Breathing Difficulty,Therapy,Elective,4,General,10868.51,No,UPI,3.6,Recovered
+P1110,2025-06-24,2025-06-30,General Medicine,Dr. Singh,Male,50,Emergency,Viral Infection,Medication,Elective,6,General,12270.49,No,Debit Card,3.2,Recovered
+P1111,2025-09-11,2025-09-12,Oncology,Dr. Reddy,Female,75,Emergency,Lung Cancer,Medication,Emergency,1,General,3707.52,Yes,Debit Card,4.4,Recovered
+P1112,2025-08-20,2025-08-26,Pediatrics,Dr. Iyer,Male,74,OPD,Dehydration,Therapy,Elective,6,General,15580.54,Yes,Insurance,2.9,Transferred
+P1113,2025-03-08,2025-03-09,Neurology,Dr. Kapoor,Male,66,OPD,Neuropathy,Chemotherapy,Emergency,1,ICU,32548.43,Yes,Insurance,3.4,Under Treatment
+P1114,2025-11-07,2025-11-08,Oncology,Dr. Chavan,Male,45,OPD,Leukemia,Observation,Emergency,1,General,1989.22,No,Credit Card,3.8,Under Treatment
+P1115,2025-09-05,2025-09-10,ENT,Dr. Mishra,Female,88,OPD,Hearing Problem,Medication,Elective,5,Private,26271.98,No,UPI,3.5,Recovered
+P1116,2025-09-06,2025-09-10,Neurology,Dr. Rao,Female,18,OPD,Stroke,Surgery,Emergency,4,Private,38098.2,Yes,Credit Card,3.9,Recovered
+P1117,2025-06-07,2025-06-09,ENT,Dr. Mishra,Male,53,OPD,Sinusitis,Surgery,Emergency,2,General,20973.12,No,UPI,4.8,Recovered
+P1118,2025-10-16,2025-10-20,Dermatology,Dr. Shah,Female,51,OPD,Skin Allergy,Chemotherapy,Elective,4,Semi-Private,33268.59,Yes,Insurance,3.9,Recovered
+P1119,2025-03-20,2025-03-22,Oncology,Dr. Chavan,Male,40,OPD,Leukemia,Observation,Elective,2,General,5683.8,No,Debit Card,4.4,Follow-up
+P1120,2025-10-14,2025-10-25,Orthopedics,Dr. Deshmukh,Female,16,Emergency,Fracture,Chemotherapy,Elective,11,Private,75523.07,Yes,Insurance,3.8,Recovered
+P1121,2025-09-20,2025-09-24,Orthopedics,Dr. Patil,Male,45,OPD,Fracture,Observation,Emergency,4,General,8703.66,No,UPI,3.3,Transferred
+P1122,2025-01-07,2025-01-12,Orthopedics,Dr. Patil,Male,37,OPD,Fracture,Chemotherapy,Elective,5,General,30344.51,Yes,Insurance,4.3,Recovered
+P1123,2025-01-13,2025-01-18,Cardiology,Dr. Mehta,Male,41,Emergency,Hypertension,Therapy,Emergency,5,Private,30195.15,Yes,Insurance,3.7,Follow-up
+P1124,2025-08-15,2025-08-16,ENT,Dr. Mishra,Female,24,OPD,Ear Infection,Surgery,Emergency,1,ICU,29762.63,No,Cash,3.7,Under Treatment
+P1125,2025-10-04,2025-10-11,ENT,Dr. Mishra,Male,23,OPD,Tonsillitis,Observation,Elective,7,Semi-Private,19905.79,Yes,Cash,3.6,Recovered
+P1126,2025-02-12,2025-02-16,Gynecology,Dr. Nair,Male,40,OPD,Hormonal Disorder,Minor Procedure,Elective,4,Private,27440.5,Yes,Insurance,3.5,Follow-up
+P1127,2025-09-18,2025-09-19,Orthopedics,Dr. Deshmukh,Male,39,OPD,Joint Pain,Observation,Elective,1,General,2439.02,No,Cash,3.9,Under Treatment
+P1128,2025-07-09,2025-07-15,Gynecology,Dr. Nair,Female,39,OPD,Hormonal Disorder,Surgery,Emergency,6,Semi-Private,36645.96,No,Debit Card,4.8,Recovered
+P1129,2025-07-02,2025-07-06,Cardiology,Dr. Mehta,Female,1,Emergency,Heart Disease,Chemotherapy,Emergency,4,General,30369.11,Yes,Debit Card,4.5,Recovered
+P1130,2025-05-29,2025-06-05,Neurology,Dr. Kapoor,Female,34,OPD,Stroke,Chemotherapy,Elective,7,General,33605.84,Yes,Insurance,4.6,Recovered
+P1131,2025-09-15,2025-09-28,Neurology,Dr. Kapoor,Male,31,Emergency,Epilepsy,Observation,Elective,13,General,25603.64,No,Cash,2.7,Recovered
+P1132,2025-04-18,2025-04-26,Gynecology,Dr. Gupta,Male,43,OPD,Hormonal Disorder,Surgery,Elective,8,General,31373.39,No,Cash,3.6,Transferred
+P1133,2025-01-10,2025-01-14,Neurology,Dr. Rao,Female,72,OPD,Migraine,Observation,Elective,4,General,9834.23,No,UPI,4.6,Follow-up
+P1134,2025-08-11,2025-08-15,Orthopedics,Dr. Deshmukh,Male,57,Emergency,Arthritis,Minor Procedure,Elective,4,Private,26472.69,No,Credit Card,3.4,Recovered
+P1135,2025-07-21,2025-07-28,Gynecology,Dr. Gupta,Female,30,OPD,Anemia,Minor Procedure,Emergency,7,Private,44069.84,Yes,Insurance,5.0,Recovered
+P1136,2025-11-01,2025-11-07,Orthopedics,Dr. Deshmukh,Female,73,OPD,Fracture,Chemotherapy,Emergency,6,General,31429.97,No,Credit Card,3.9,Recovered
+P1137,2025-05-26,2025-05-27,Gynecology,Dr. Gupta,Male,54,OPD,Hormonal Disorder,Minor Procedure,Emergency,1,General,8637.9,No,Debit Card,4.4,Under Treatment
+P1138,2025-05-17,2025-05-20,Gynecology,Dr. Gupta,Female,23,OPD,PCOS,Surgery,Emergency,3,General,23914.57,Yes,Cash,4.1,Follow-up
+P1139,2025-02-04,2025-02-08,Orthopedics,Dr. Deshmukh,Male,34,OPD,Fracture,Minor Procedure,Elective,4,General,13682.13,Yes,UPI,4.1,Recovered
+P1140,2025-07-01,2025-07-05,Oncology,Dr. Chavan,Male,44,Emergency,Leukemia,Medication,Emergency,4,General,9063.6,Yes,Insurance,3.5,Under Treatment
+P1141,2025-04-16,2025-04-25,Dermatology,Dr. Shah,Male,45,OPD,Skin Allergy,Surgery,Emergency,9,General,33996.9,Yes,UPI,4.2,Recovered
+P1142,2025-06-03,2025-06-05,Gynecology,Dr. Gupta,Male,43,OPD,PCOS,Minor Procedure,Emergency,2,General,8000.21,No,Cash,5.0,Under Treatment
+P1143,2025-06-10,2025-06-23,Oncology,Dr. Reddy,Male,54,Emergency,Breast Cancer,Minor Procedure,Emergency,13,Private,70460.51,No,Cash,4.2,Recovered
+P1144,2025-04-08,2025-04-10,Dermatology,Dr. Shah,Female,70,OPD,Eczema,Medication,Emergency,2,General,5142.99,No,Credit Card,5.0,Recovered
+P1145,2025-10-21,2025-10-25,ENT,Dr. Mishra,Female,29,OPD,Ear Infection,Observation,Elective,4,Semi-Private,12540.97,Yes,UPI,3.7,Under Treatment
+P1146,2025-02-27,2025-03-02,ENT,Dr. Bansal,Female,28,OPD,Sinusitis,Chemotherapy,Elective,3,Private,37358.5,Yes,Insurance,3.5,Follow-up
+P1147,2025-07-16,2025-07-21,Neurology,Dr. Kapoor,Female,5,OPD,Migraine,Minor Procedure,Emergency,5,General,15240.78,No,Credit Card,4.0,Recovered
+P1148,2025-09-25,2025-10-06,Pediatrics,Dr. Iyer,Male,59,Emergency,Infection,Surgery,Elective,11,ICU,148853.85,Yes,Insurance,4.3,Recovered
+P1149,2025-09-03,2025-09-08,Dermatology,Dr. Kulkarni,Male,24,OPD,Psoriasis,Minor Procedure,Emergency,5,Private,32370.86,Yes,UPI,3.2,Recovered
+P1150,2025-05-11,2025-05-16,Oncology,Dr. Chavan,Female,36,OPD,Lung Cancer,Chemotherapy,Elective,5,ICU,82332.05,Yes,Insurance,4.5,Recovered
+P1151,2025-08-14,2025-08-15,ENT,Dr. Bansal,Female,9,OPD,Hearing Problem,Chemotherapy,Elective,1,General,23993.88,Yes,Insurance,5.0,Follow-up
+P1152,2025-09-30,2025-10-04,Dermatology,Dr. Kulkarni,Male,35,OPD,Psoriasis,Medication,Elective,4,Private,21363.47,Yes,Insurance,3.3,Under Treatment
+P1153,2025-12-09,2025-12-18,Gynecology,Dr. Nair,Male,35,Emergency,Anemia,Therapy,Emergency,9,General,21219.27,No,UPI,3.9,Follow-up
+P1154,2025-04-25,2025-05-03,Neurology,Dr. Rao,Male,48,OPD,Epilepsy,Surgery,Elective,8,General,32114.07,Yes,Insurance,3.3,Follow-up
+P1155,2025-10-08,2025-10-17,Pediatrics,Dr. Iyer,Female,52,OPD,Dehydration,Chemotherapy,Emergency,9,General,39261.7,No,Debit Card,3.5,Recovered
+P1156,2025-11-13,2025-11-22,General Medicine,Dr. Singh,Male,83,Emergency,Hypertension,Observation,Emergency,9,Private,47286.73,Yes,Insurance,5.0,Recovered
+P1157,2025-01-02,2025-01-05,ENT,Dr. Bansal,Male,39,OPD,Hearing Problem,Observation,Elective,3,General,6697.41,No,Cash,3.5,Follow-up
+P1158,2025-06-21,2025-06-22,Orthopedics,Dr. Deshmukh,Male,42,Emergency,Fracture,Therapy,Emergency,1,General,3056.12,No,Debit Card,4.5,Recovered
+P1159,2025-05-27,2025-05-31,Oncology,Dr. Reddy,Female,74,OPD,Breast Cancer,Therapy,Elective,4,Semi-Private,18077.9,Yes,Insurance,3.4,Recovered
+P1160,2025-09-14,2025-09-27,Oncology,Dr. Chavan,Female,23,Emergency,Breast Cancer,Medication,Elective,13,Semi-Private,39535.77,Yes,Insurance,2.6,Recovered
+P1161,2025-08-25,2025-08-29,Orthopedics,Dr. Deshmukh,Male,65,OPD,Arthritis,Therapy,Elective,4,General,11845.34,Yes,Cash,3.7,Recovered
+P1162,2025-09-22,2025-09-29,Oncology,Dr. Reddy,Male,15,OPD,Lymphoma,Therapy,Emergency,7,Semi-Private,24649.91,Yes,UPI,2.9,Recovered
+P1163,2025-04-19,2025-04-23,ENT,Dr. Mishra,Male,32,OPD,Tonsillitis,Medication,Emergency,4,Semi-Private,12976.15,Yes,Insurance,2.5,Recovered
+P1164,2025-03-25,2025-04-03,ENT,Dr. Mishra,Male,27,OPD,Tonsillitis,Surgery,Elective,9,Semi-Private,45248.07,No,Cash,4.5,Transferred
+P1165,2025-06-04,2025-06-11,Pediatrics,Dr. Iyer,Female,53,OPD,Infection,Medication,Elective,7,Semi-Private,22901.05,Yes,Insurance,2.6,Follow-up
+P1166,2025-10-21,2025-10-28,Oncology,Dr. Reddy,Female,56,OPD,Lymphoma,Minor Procedure,Elective,7,Semi-Private,28670.96,No,UPI,3.8,Follow-up
+P1167,2025-03-04,2025-03-09,Oncology,Dr. Chavan,Female,40,Emergency,Leukemia,Observation,Elective,5,Semi-Private,16085.27,Yes,Credit Card,4.9,Recovered
+P1168,2025-10-21,2025-10-27,Cardiology,Dr. Mehta,Female,69,OPD,Arrhythmia,Observation,Elective,6,Semi-Private,19533.54,No,Cash,4.3,Recovered
+P1169,2025-06-04,2025-06-18,Emergency,Dr. Khan,Female,6,Emergency,Chest Pain,Minor Procedure,Elective,14,General,29458.83,No,Cash,3.9,Transferred
+P1170,2025-10-01,2025-10-05,Pediatrics,Dr. Iyer,Male,46,OPD,Infection,Chemotherapy,Elective,4,General,27767.29,No,UPI,4.1,Recovered
+P1171,2025-12-31,2026-01-01,Neurology,Dr. Rao,Female,5,OPD,Migraine,Surgery,Elective,1,Semi-Private,20348.79,No,Cash,4.0,Recovered
+P1172,2025-05-05,2025-05-06,ENT,Dr. Mishra,Male,51,OPD,Hearing Problem,Minor Procedure,Elective,1,Private,10772.24,Yes,Insurance,5.0,Follow-up
+P1173,2025-10-11,2025-10-17,ENT,Dr. Mishra,Female,75,OPD,Sinusitis,Observation,Elective,6,General,14174.29,No,Debit Card,4.1,Recovered
+P1174,2025-01-12,2025-01-16,Emergency,Dr. Thomas,Female,34,OPD,Breathing Difficulty,Observation,Elective,4,Private,20413.12,Yes,Insurance,3.5,Follow-up
+P1175,2025-08-30,2025-09-06,Oncology,Dr. Reddy,Male,1,OPD,Leukemia,Observation,Elective,7,ICU,83445.07,Yes,Insurance,3.9,Transferred
+P1176,2025-05-27,2025-06-09,ENT,Dr. Mishra,Male,64,Emergency,Sinusitis,Chemotherapy,Emergency,13,ICU,179348.94,Yes,Insurance,4.7,Follow-up
+P1177,2025-11-16,2025-11-19,Emergency,Dr. Khan,Female,29,Emergency,Severe Fever,Chemotherapy,Emergency,3,ICU,59034.87,No,Cash,3.9,Follow-up
+P1178,2025-05-21,2025-05-25,General Medicine,Dr. Singh,Female,34,OPD,Diabetes,Medication,Elective,4,Private,19648.21,Yes,Insurance,4.7,Follow-up
+P1179,2025-03-16,2025-03-26,Dermatology,Dr. Kulkarni,Female,4,Emergency,Acne,Surgery,Emergency,10,General,36255.95,Yes,Insurance,4.7,Recovered
+P1180,2025-10-22,2025-10-28,Neurology,Dr. Rao,Female,66,OPD,Stroke,Therapy,Emergency,6,General,15394.68,Yes,Insurance,4.0,Recovered
+P1181,2025-10-02,2025-10-10,General Medicine,Dr. Verma,Female,42,OPD,Fever,Observation,Emergency,8,Semi-Private,26704.45,No,UPI,4.6,Follow-up
+P1182,2025-12-01,2025-12-08,ENT,Dr. Mishra,Male,22,OPD,Tonsillitis,Surgery,Elective,7,General,29971.09,No,Debit Card,4.1,Follow-up
+P1183,2025-08-29,2025-09-04,Oncology,Dr. Chavan,Male,61,OPD,Lymphoma,Medication,Emergency,6,General,10360.56,No,Cash,4.1,Transferred
+P1184,2025-04-10,2025-04-13,Pediatrics,Dr. Joshi,Male,20,OPD,Fever,Observation,Elective,3,General,7785.7,No,UPI,4.1,Transferred
+P1185,2025-06-24,2025-07-03,Gynecology,Dr. Nair,Female,45,Emergency,Anemia,Observation,Elective,9,General,17782.04,Yes,Debit Card,2.3,Transferred
+P1186,2025-10-30,2025-11-06,Orthopedics,Dr. Patil,Male,41,Emergency,Joint Pain,Observation,Elective,7,Private,35502.6,Yes,Credit Card,5.0,Transferred
+P1187,2025-04-10,2025-04-16,Dermatology,Dr. Shah,Male,27,OPD,Skin Allergy,Therapy,Elective,6,Semi-Private,21998.44,Yes,UPI,3.4,Recovered
+P1188,2025-02-18,2025-03-04,Oncology,Dr. Reddy,Female,45,Emergency,Leukemia,Surgery,Elective,14,General,42938.36,No,UPI,2.2,Recovered
+P1189,2025-09-25,2025-09-29,Cardiology,Dr. Mehta,Female,52,OPD,Heart Disease,Medication,Emergency,4,Semi-Private,12749.98,Yes,Insurance,3.5,Recovered
+P1190,2025-06-11,2025-06-18,Oncology,Dr. Reddy,Female,44,Emergency,Breast Cancer,Medication,Elective,7,Semi-Private,21997.71,Yes,Insurance,4.0,Transferred
+P1191,2025-06-09,2025-06-18,Oncology,Dr. Chavan,Female,37,OPD,Leukemia,Therapy,Elective,9,ICU,114287.84,Yes,Insurance,4.1,Recovered
+P1192,2025-04-29,2025-05-05,ENT,Dr. Mishra,Female,33,OPD,Tonsillitis,Observation,Elective,6,General,12706.58,Yes,Insurance,3.3,Follow-up
+P1193,2025-09-24,2025-10-03,Orthopedics,Dr. Deshmukh,Male,64,OPD,Joint Pain,Chemotherapy,Elective,9,Private,67621.05,No,UPI,4.3,Recovered
+P1194,2025-09-05,2025-09-15,Oncology,Dr. Reddy,Male,45,Emergency,Lung Cancer,Minor Procedure,Elective,10,Semi-Private,35783.53,Yes,Insurance,5.0,Recovered
+P1195,2025-01-06,2025-01-09,Orthopedics,Dr. Deshmukh,Female,33,OPD,Fracture,Observation,Emergency,3,Semi-Private,11206.26,Yes,UPI,2.9,Recovered
+P1196,2025-11-07,2025-11-20,Orthopedics,Dr. Deshmukh,Female,51,Emergency,Joint Pain,Therapy,Emergency,13,Private,70131.17,No,Credit Card,3.9,Under Treatment
+P1197,2025-05-21,2025-05-25,ENT,Dr. Mishra,Male,20,OPD,Tonsillitis,Therapy,Elective,4,Semi-Private,15600.23,No,UPI,4.8,Follow-up
+P1198,2025-09-12,2025-09-18,Emergency,Dr. Thomas,Female,48,OPD,Breathing Difficulty,Therapy,Emergency,6,General,14344.6,Yes,Insurance,4.2,Recovered
+P1199,2025-09-04,2025-09-05,ENT,Dr. Mishra,Male,15,OPD,Ear Infection,Therapy,Elective,1,General,4376.09,Yes,Insurance,2.7,Transferred
+P1200,2025-02-27,2025-03-08,Cardiology,Dr. Sharma,Male,74,OPD,Heart Disease,Therapy,Elective,9,General,20211.56,Yes,Insurance,4.5,Under Treatment
+P1201,2025-09-13,2025-09-21,General Medicine,Dr. Verma,Male,74,OPD,Diabetes,Surgery,Elective,8,General,32525.23,No,Credit Card,3.7,Recovered
+P1202,2025-02-10,2025-02-21,ENT,Dr. Bansal,Female,1,Emergency,Hearing Problem,Medication,Elective,11,General,19515.99,No,Cash,3.9,Follow-up
+P1203,2025-01-24,2025-01-29,Pediatrics,Dr. Joshi,Male,1,OPD,Dehydration,Minor Procedure,Elective,5,General,16497.37,Yes,Insurance,3.5,Recovered
+P1204,2025-05-18,2025-05-21,Oncology,Dr. Chavan,Male,44,Emergency,Breast Cancer,Therapy,Emergency,3,General,10874.33,Yes,Insurance,4.9,Recovered
+P1205,2025-11-10,2025-11-16,Gynecology,Dr. Gupta,Female,59,Emergency,PCOS,Therapy,Emergency,6,General,15995.57,Yes,UPI,5.0,Recovered
+P1206,2025-07-21,2025-07-31,Emergency,Dr. Khan,Female,61,Emergency,Accident Injury,Therapy,Emergency,10,Semi-Private,35664.47,Yes,Credit Card,4.6,Recovered
+P1207,2025-07-10,2025-07-17,Cardiology,Dr. Sharma,Male,63,OPD,Heart Disease,Surgery,Emergency,7,Private,54194.64,Yes,Insurance,4.4,Recovered
+P1208,2025-03-04,2025-03-05,Cardiology,Dr. Mehta,Male,19,OPD,Chest Pain,Medication,Elective,1,General,2121.02,Yes,Debit Card,4.2,Follow-up
+P1209,2025-09-27,2025-10-05,Cardiology,Dr. Sharma,Female,43,OPD,Hypertension,Medication,Emergency,8,General,18708.03,Yes,UPI,4.3,Follow-up
+P1210,2025-05-31,2025-06-08,Pediatrics,Dr. Joshi,Male,35,Emergency,Fever,Chemotherapy,Elective,8,ICU,117556.87,No,Credit Card,4.1,Recovered
+P1211,2025-11-27,2025-12-05,General Medicine,Dr. Singh,Female,39,Emergency,Fever,Chemotherapy,Elective,8,Private,62843.54,Yes,Insurance,3.2,Recovered
+P1212,2025-10-16,2025-10-22,Gynecology,Dr. Gupta,Male,66,OPD,Anemia,Therapy,Elective,6,Semi-Private,21891.51,No,Debit Card,2.8,Under Treatment
+P1213,2025-03-03,2025-03-14,Emergency,Dr. Khan,Female,72,OPD,Breathing Difficulty,Medication,Emergency,11,Semi-Private,33063.97,Yes,Insurance,5.0,Follow-up
+P1214,2025-03-15,2025-03-21,ENT,Dr. Mishra,Male,44,OPD,Tonsillitis,Minor Procedure,Emergency,6,General,18598.3,Yes,Credit Card,4.9,Recovered
+P1215,2025-11-19,2025-11-21,Neurology,Dr. Rao,Female,80,OPD,Migraine,Observation,Elective,2,Private,10829.78,No,UPI,5.0,Recovered
+P1216,2025-02-17,2025-03-02,Orthopedics,Dr. Deshmukh,Female,22,Emergency,Arthritis,Medication,Elective,13,General,23807.46,Yes,Insurance,2.9,Under Treatment
+P1217,2025-03-14,2025-03-18,Pediatrics,Dr. Iyer,Male,24,OPD,Fever,Medication,Emergency,4,General,7830.89,No,UPI,5.0,Follow-up
+P1218,2025-02-08,2025-02-17,ENT,Dr. Mishra,Female,52,Emergency,Hearing Problem,Medication,Elective,9,General,19046.02,Yes,Credit Card,3.8,Recovered
+P1219,2025-04-04,2025-04-07,Neurology,Dr. Rao,Male,51,OPD,Epilepsy,Chemotherapy,Elective,3,Semi-Private,31566.4,No,Debit Card,3.7,Recovered
+P1220,2025-10-22,2025-10-30,Oncology,Dr. Reddy,Female,71,Emergency,Breast Cancer,Surgery,Emergency,8,Private,57272.97,Yes,Credit Card,5.0,Recovered
+P1221,2025-12-01,2025-12-08,General Medicine,Dr. Verma,Male,32,Emergency,Diabetes,Chemotherapy,Elective,7,General,32471.79,Yes,Credit Card,4.7,Recovered
+P1222,2025-04-12,2025-04-17,Oncology,Dr. Chavan,Male,21,Emergency,Breast Cancer,Observation,Emergency,5,Private,25666.77,No,Credit Card,4.2,Recovered
+P1223,2025-05-20,2025-06-02,Pediatrics,Dr. Joshi,Male,1,Emergency,Asthma,Medication,Elective,13,General,24839.4,No,Debit Card,4.4,Recovered
+P1224,2025-10-22,2025-11-04,Emergency,Dr. Thomas,Male,66,Emergency,Accident Injury,Therapy,Emergency,13,Semi-Private,43110.92,Yes,UPI,4.6,Recovered
+P1225,2025-08-02,2025-08-03,Oncology,Dr. Chavan,Female,73,Emergency,Leukemia,Minor Procedure,Elective,1,Private,10233.37,No,Cash,4.1,Recovered
+P1226,2025-07-28,2025-07-31,Cardiology,Dr. Mehta,Male,76,OPD,Heart Disease,Surgery,Elective,3,General,21746.86,Yes,Insurance,3.6,Recovered
+P1227,2025-03-13,2025-03-14,ENT,Dr. Bansal,Male,52,OPD,Ear Infection,Surgery,Elective,1,General,20239.88,Yes,Insurance,3.7,Under Treatment
+P1228,2025-09-02,2025-09-09,Cardiology,Dr. Mehta,Female,43,Emergency,Arrhythmia,Medication,Emergency,7,General,13445.89,No,Credit Card,3.0,Recovered
+P1229,2025-03-03,2025-03-12,Cardiology,Dr. Mehta,Male,90,OPD,Chest Pain,Surgery,Emergency,9,Private,61665.64,No,Debit Card,4.3,Transferred
+P1230,2025-12-30,2026-01-01,Orthopedics,Dr. Patil,Female,49,Emergency,Fracture,Therapy,Elective,2,General,10209.1,Yes,Insurance,3.2,Recovered
+P1231,2025-08-12,2025-08-13,Neurology,Dr. Kapoor,Male,53,Emergency,Neuropathy,Medication,Elective,1,General,1701.46,Yes,Credit Card,4.0,Recovered
+P1232,2025-02-28,2025-03-02,ENT,Dr. Mishra,Female,30,OPD,Hearing Problem,Surgery,Emergency,2,Semi-Private,24718.55,Yes,Insurance,4.5,Recovered
+P1233,2025-05-16,2025-05-19,Oncology,Dr. Chavan,Female,1,OPD,Lung Cancer,Medication,Elective,3,Semi-Private,10165.56,No,Cash,5.0,Recovered
+P1234,2025-08-03,2025-08-08,Dermatology,Dr. Shah,Female,19,OPD,Skin Allergy,Minor Procedure,Elective,5,Semi-Private,19814.6,Yes,Insurance,4.7,Recovered
+P1235,2025-02-09,2025-02-11,Oncology,Dr. Chavan,Male,49,OPD,Leukemia,Medication,Elective,2,General,5186.72,Yes,Insurance,3.9,Recovered
+P1236,2025-08-27,2025-09-01,Oncology,Dr. Chavan,Male,52,OPD,Breast Cancer,Minor Procedure,Elective,5,Semi-Private,22017.81,Yes,Insurance,3.1,Follow-up
+P1237,2025-10-06,2025-10-11,Pediatrics,Dr. Joshi,Male,56,OPD,Dehydration,Medication,Elective,5,General,10779.61,Yes,Credit Card,4.3,Transferred
+P1238,2025-08-05,2025-08-11,Dermatology,Dr. Kulkarni,Female,64,OPD,Psoriasis,Minor Procedure,Elective,6,General,15951.25,No,Cash,4.1,Recovered
+P1239,2025-05-20,2025-06-02,Pediatrics,Dr. Iyer,Male,49,Emergency,Infection,Minor Procedure,Elective,13,General,29778.87,Yes,Insurance,4.2,Recovered
+P1240,2025-10-18,2025-10-25,General Medicine,Dr. Singh,Female,70,Emergency,Fever,Observation,Emergency,7,Private,37660.11,Yes,Insurance,4.2,Recovered
+P1241,2025-03-09,2025-03-16,Oncology,Dr. Chavan,Male,77,OPD,Breast Cancer,Therapy,Elective,7,ICU,87909.43,No,Credit Card,5.0,Recovered
+P1242,2025-09-25,2025-09-27,General Medicine,Dr. Verma,Female,69,OPD,Hypertension,Medication,Elective,2,General,6755.1,No,Debit Card,4.0,Follow-up
+P1243,2025-07-01,2025-07-07,Oncology,Dr. Chavan,Male,66,Emergency,Lymphoma,Chemotherapy,Emergency,6,Semi-Private,42022.02,Yes,UPI,5.0,Follow-up
+P1244,2025-01-20,2025-01-22,Dermatology,Dr. Shah,Female,59,OPD,Eczema,Minor Procedure,Elective,2,Semi-Private,11496.82,Yes,UPI,4.2,Recovered
+P1245,2025-01-08,2025-01-19,Pediatrics,Dr. Joshi,Male,46,Emergency,Dehydration,Chemotherapy,Emergency,11,General,42686.19,No,Credit Card,3.3,Follow-up
+P1246,2025-06-28,2025-07-06,Oncology,Dr. Reddy,Male,71,Emergency,Leukemia,Medication,Elective,8,ICU,96180.28,No,UPI,3.9,Under Treatment
+P1247,2025-09-30,2025-10-02,Cardiology,Dr. Mehta,Female,37,OPD,Chest Pain,Surgery,Elective,2,Semi-Private,23104.11,Yes,Debit Card,3.8,Under Treatment
+P1248,2025-10-23,2025-10-31,Oncology,Dr. Reddy,Male,37,Emergency,Lymphoma,Chemotherapy,Emergency,8,General,38043.11,Yes,Debit Card,3.2,Recovered
+P1249,2025-10-09,2025-10-11,General Medicine,Dr. Singh,Male,59,OPD,Hypertension,Chemotherapy,Emergency,2,Private,31543.71,No,UPI,3.7,Recovered
+P1250,2025-05-08,2025-05-09,ENT,Dr. Bansal,Female,48,Emergency,Hearing Problem,Medication,Elective,1,Semi-Private,2763.25,Yes,UPI,3.0,Recovered
+P1251,2025-06-25,2025-06-26,Oncology,Dr. Reddy,Male,20,OPD,Leukemia,Minor Procedure,Elective,1,Private,11706.97,No,UPI,4.0,Follow-up
+P1252,2025-07-30,2025-08-08,Dermatology,Dr. Shah,Female,13,OPD,Eczema,Observation,Emergency,9,Semi-Private,30784.96,No,Cash,5.0,Recovered
+P1253,2025-05-12,2025-05-17,Dermatology,Dr. Shah,Male,24,OPD,Eczema,Observation,Elective,5,General,11654.35,Yes,Insurance,3.6,Under Treatment
+P1254,2025-09-04,2025-09-07,ENT,Dr. Mishra,Female,58,OPD,Hearing Problem,Surgery,Emergency,3,Private,32362.54,Yes,Cash,4.3,Follow-up
+P1255,2025-10-14,2025-10-16,Oncology,Dr. Reddy,Male,25,Emergency,Breast Cancer,Surgery,Elective,2,General,20535.98,Yes,Insurance,4.3,Recovered
+P1256,2025-02-27,2025-03-09,ENT,Dr. Bansal,Male,8,Emergency,Ear Infection,Therapy,Elective,10,Private,55390.58,Yes,Insurance,4.7,Recovered
+P1257,2025-07-29,2025-08-03,Dermatology,Dr. Shah,Female,38,OPD,Eczema,Minor Procedure,Elective,5,Private,31728.77,Yes,Insurance,4.5,Recovered
+P1258,2025-06-29,2025-07-11,General Medicine,Dr. Singh,Male,19,Emergency,Fever,Medication,Elective,12,General,22699.01,Yes,Insurance,3.4,Recovered
+P1259,2025-04-17,2025-04-22,Cardiology,Dr. Mehta,Male,31,OPD,Hypertension,Surgery,Emergency,5,Semi-Private,33430.14,No,UPI,3.0,Follow-up
+P1260,2025-11-06,2025-11-11,Orthopedics,Dr. Deshmukh,Male,20,Emergency,Back Pain,Medication,Emergency,5,ICU,62250.14,No,Credit Card,5.0,Follow-up
+P1261,2025-01-28,2025-02-01,ENT,Dr. Mishra,Female,48,OPD,Sinusitis,Observation,Elective,4,Semi-Private,14140.08,Yes,Insurance,5.0,Recovered
+P1262,2025-07-03,2025-07-11,ENT,Dr. Bansal,Female,35,OPD,Hearing Problem,Medication,Emergency,8,ICU,96203.28,Yes,Insurance,3.6,Follow-up
+P1263,2025-05-22,2025-05-25,ENT,Dr. Bansal,Male,15,OPD,Tonsillitis,Minor Procedure,Elective,3,Private,22024.57,Yes,Insurance,4.4,Recovered
+P1264,2025-12-17,2025-12-23,Neurology,Dr. Kapoor,Female,19,OPD,Epilepsy,Medication,Elective,6,General,13067.7,Yes,Insurance,3.8,Recovered
+P1265,2025-10-21,2025-10-26,Cardiology,Dr. Mehta,Male,50,OPD,Hypertension,Medication,Elective,5,General,9027.14,Yes,Insurance,4.0,Recovered
+P1266,2025-08-02,2025-08-06,Orthopedics,Dr. Deshmukh,Female,36,OPD,Arthritis,Medication,Elective,4,General,7710.39,No,Cash,4.1,Recovered
+P1267,2025-02-25,2025-02-28,General Medicine,Dr. Verma,Female,48,Emergency,Diabetes,Observation,Elective,3,Semi-Private,10232.32,Yes,Insurance,4.2,Recovered
+P1268,2025-08-08,2025-08-15,Dermatology,Dr. Kulkarni,Male,17,OPD,Eczema,Surgery,Emergency,7,General,29308.2,Yes,Insurance,4.2,Follow-up
+P1269,2025-12-01,2025-12-11,Emergency,Dr. Khan,Male,16,OPD,Accident Injury,Chemotherapy,Elective,10,General,38323.46,No,Debit Card,4.9,Recovered
+P1270,2025-05-23,2025-05-29,ENT,Dr. Mishra,Male,40,OPD,Tonsillitis,Therapy,Emergency,6,Semi-Private,23268.48,Yes,Insurance,4.1,Recovered
+P1271,2025-07-17,2025-07-24,Dermatology,Dr. Kulkarni,Female,52,OPD,Acne,Observation,Elective,7,Semi-Private,22246.47,No,Credit Card,3.6,Recovered
+P1272,2025-06-12,2025-06-13,Pediatrics,Dr. Iyer,Female,46,OPD,Dehydration,Minor Procedure,Elective,1,Private,9716.86,No,Credit Card,2.7,Follow-up
+P1273,2025-08-27,2025-09-02,General Medicine,Dr. Verma,Female,33,Emergency,Diabetes,Therapy,Elective,6,General,14654.21,No,Credit Card,4.2,Follow-up
+P1274,2025-10-13,2025-10-15,Orthopedics,Dr. Patil,Male,55,OPD,Fracture,Observation,Elective,2,Private,11805.11,Yes,UPI,3.7,Recovered
+P1275,2025-05-26,2025-05-29,Emergency,Dr. Thomas,Female,51,Emergency,Breathing Difficulty,Therapy,Elective,3,Private,19163.31,No,Debit Card,3.9,Follow-up
+P1276,2025-08-02,2025-08-05,General Medicine,Dr. Verma,Male,50,OPD,Hypertension,Therapy,Elective,3,ICU,38376.65,Yes,Insurance,3.6,Recovered
+P1277,2025-03-24,2025-04-01,Emergency,Dr. Thomas,Male,59,OPD,Breathing Difficulty,Minor Procedure,Elective,8,General,20392.38,No,UPI,4.7,Recovered
+P1278,2025-01-25,2025-01-30,Oncology,Dr. Reddy,Female,64,OPD,Lung Cancer,Therapy,Elective,5,Private,28414.13,No,Credit Card,3.3,Recovered
+P1279,2025-10-25,2025-10-31,Oncology,Dr. Reddy,Male,38,OPD,Breast Cancer,Surgery,Emergency,6,Private,47969.01,Yes,Insurance,3.3,Recovered
+P1280,2025-05-10,2025-05-18,Dermatology,Dr. Shah,Male,70,Emergency,Psoriasis,Chemotherapy,Elective,8,General,35560.01,Yes,Insurance,3.3,Recovered
+P1281,2025-11-21,2025-12-01,ENT,Dr. Mishra,Male,44,Emergency,Ear Infection,Chemotherapy,Emergency,10,Semi-Private,51395.3,No,Cash,2.6,Recovered
+P1282,2025-10-02,2025-10-15,Pediatrics,Dr. Iyer,Male,28,Emergency,Infection,Observation,Emergency,13,General,26937.71,Yes,Insurance,3.4,Recovered
+P1283,2025-01-30,2025-02-03,Pediatrics,Dr. Joshi,Male,52,OPD,Dehydration,Observation,Elective,4,General,7334.63,Yes,Insurance,4.6,Follow-up
+P1284,2025-01-09,2025-01-14,Pediatrics,Dr. Iyer,Male,48,OPD,Dehydration,Chemotherapy,Emergency,5,General,31726.27,Yes,Cash,4.8,Recovered
+P1285,2025-04-05,2025-04-12,Orthopedics,Dr. Patil,Female,11,OPD,Joint Pain,Chemotherapy,Elective,7,ICU,103743.99,No,Cash,4.4,Recovered
+P1286,2025-08-13,2025-08-20,Cardiology,Dr. Sharma,Male,90,OPD,Arrhythmia,Surgery,Emergency,7,General,30434.34,No,Debit Card,3.8,Recovered
+P1287,2025-01-12,2025-01-22,Orthopedics,Dr. Deshmukh,Female,21,Emergency,Fracture,Observation,Elective,10,General,19087.23,No,Cash,3.1,Follow-up
+P1288,2025-07-04,2025-07-13,Dermatology,Dr. Shah,Male,57,OPD,Skin Allergy,Surgery,Emergency,9,ICU,124714.98,Yes,Insurance,5.0,Recovered
+P1289,2025-06-08,2025-06-13,ENT,Dr. Mishra,Female,49,OPD,Sinusitis,Minor Procedure,Emergency,5,Semi-Private,22537.99,Yes,Debit Card,4.1,Under Treatment
+P1290,2025-07-25,2025-07-29,Dermatology,Dr. Shah,Female,39,OPD,Acne,Medication,Elective,4,Semi-Private,12518.41,Yes,Insurance,4.1,Under Treatment
+P1291,2025-04-14,2025-04-27,General Medicine,Dr. Singh,Male,43,Emergency,Diabetes,Chemotherapy,Elective,13,General,45142.99,Yes,Insurance,3.5,Recovered
+P1292,2025-09-13,2025-09-14,ENT,Dr. Mishra,Male,47,OPD,Sinusitis,Therapy,Emergency,1,Semi-Private,9098.63,Yes,Insurance,4.2,Recovered
+P1293,2025-11-21,2025-11-29,Neurology,Dr. Rao,Male,36,OPD,Neuropathy,Chemotherapy,Emergency,8,General,35657.11,Yes,Insurance,3.9,Recovered
+P1294,2025-04-21,2025-04-24,General Medicine,Dr. Verma,Female,61,Emergency,Fever,Minor Procedure,Elective,3,General,13478.46,No,Cash,4.5,Follow-up
+P1295,2025-06-16,2025-06-22,Oncology,Dr. Chavan,Male,56,OPD,Breast Cancer,Medication,Elective,6,General,13327.33,Yes,Credit Card,3.8,Under Treatment
+P1296,2025-01-26,2025-02-02,Orthopedics,Dr. Deshmukh,Male,37,Emergency,Joint Pain,Therapy,Emergency,7,ICU,88410.9,Yes,Insurance,3.9,Under Treatment
+P1297,2025-10-02,2025-10-06,Neurology,Dr. Kapoor,Male,60,OPD,Epilepsy,Therapy,Emergency,4,Private,22645.12,Yes,Insurance,3.0,Follow-up
+P1298,2025-04-27,2025-05-03,Orthopedics,Dr. Patil,Female,39,OPD,Fracture,Medication,Elective,6,General,13311.07,No,Debit Card,3.6,Recovered
+P1299,2025-08-03,2025-08-04,Dermatology,Dr. Kulkarni,Male,5,OPD,Eczema,Therapy,Emergency,1,Semi-Private,8632.28,Yes,Cash,4.2,Recovered
+P1300,2025-03-05,2025-03-12,General Medicine,Dr. Singh,Female,41,OPD,Viral Infection,Surgery,Emergency,7,Semi-Private,38316.42,No,Cash,3.5,Recovered
+P1301,2025-08-18,2025-08-24,Neurology,Dr. Kapoor,Female,51,OPD,Migraine,Therapy,Emergency,6,General,14186.99,Yes,Insurance,4.1,Recovered
+P1302,2025-10-19,2025-10-21,Orthopedics,Dr. Deshmukh,Male,62,OPD,Joint Pain,Medication,Emergency,2,General,4133.97,No,Credit Card,3.2,Recovered
+P1303,2025-02-08,2025-02-12,Cardiology,Dr. Sharma,Female,66,OPD,Heart Disease,Surgery,Elective,4,Private,38380.58,Yes,Cash,3.3,Recovered
+P1304,2025-03-27,2025-03-28,ENT,Dr. Bansal,Female,9,OPD,Sinusitis,Medication,Elective,1,General,1790.08,No,UPI,3.7,Recovered
+P1305,2025-06-21,2025-07-02,Pediatrics,Dr. Iyer,Male,37,Emergency,Asthma,Observation,Elective,11,General,22268.93,Yes,Insurance,4.0,Recovered
+P1306,2025-06-21,2025-06-28,Neurology,Dr. Rao,Male,7,OPD,Migraine,Therapy,Elective,7,Semi-Private,23954.03,Yes,Insurance,4.2,Recovered
+P1307,2025-07-16,2025-07-19,Gynecology,Dr. Nair,Male,55,OPD,Anemia,Therapy,Elective,3,General,8530.79,Yes,Insurance,3.9,Recovered
+P1308,2025-03-08,2025-03-13,Orthopedics,Dr. Deshmukh,Female,30,OPD,Back Pain,Therapy,Elective,5,General,12881.99,Yes,Insurance,3.8,Under Treatment
+P1309,2025-04-12,2025-04-20,Gynecology,Dr. Gupta,Female,1,OPD,Anemia,Chemotherapy,Elective,8,General,38021.8,Yes,Insurance,2.9,Recovered
+P1310,2025-01-25,2025-02-06,Dermatology,Dr. Shah,Female,44,Emergency,Skin Allergy,Therapy,Emergency,12,General,25535.21,Yes,Insurance,5.0,Follow-up
+P1311,2025-03-09,2025-03-22,Cardiology,Dr. Mehta,Female,44,Emergency,Arrhythmia,Chemotherapy,Emergency,13,General,46008.91,Yes,Insurance,4.4,Recovered
+P1312,2025-06-24,2025-06-27,Neurology,Dr. Rao,Female,62,OPD,Epilepsy,Therapy,Emergency,3,ICU,40407.17,Yes,UPI,5.0,Follow-up
+P1313,2025-08-02,2025-08-05,Gynecology,Dr. Nair,Female,66,Emergency,Hormonal Disorder,Medication,Elective,3,Semi-Private,8747.87,Yes,Insurance,3.6,Follow-up
+P1314,2025-11-06,2025-11-14,Gynecology,Dr. Nair,Male,83,Emergency,Hormonal Disorder,Chemotherapy,Elective,8,General,35151.45,No,Cash,3.9,Recovered
+P1315,2025-05-31,2025-06-05,Dermatology,Dr. Shah,Male,56,Emergency,Psoriasis,Medication,Elective,5,Semi-Private,17790.18,Yes,Insurance,4.5,Recovered
+P1316,2025-05-15,2025-05-28,Emergency,Dr. Khan,Female,25,OPD,Chest Pain,Minor Procedure,Elective,13,General,29194.77,Yes,Insurance,3.3,Recovered
+P1317,2025-04-27,2025-05-10,Dermatology,Dr. Kulkarni,Male,30,Emergency,Eczema,Medication,Elective,13,Private,64631.65,Yes,Insurance,3.4,Follow-up
+P1318,2025-12-10,2025-12-12,Cardiology,Dr. Sharma,Female,40,OPD,Hypertension,Medication,Elective,2,Private,8958.62,Yes,Credit Card,4.6,Recovered
+P1319,2025-12-02,2025-12-11,Emergency,Dr. Thomas,Female,52,Emergency,Accident Injury,Chemotherapy,Emergency,9,General,35998.23,Yes,Insurance,3.0,Recovered
+P1320,2025-11-25,2025-11-29,Pediatrics,Dr. Iyer,Female,43,OPD,Fever,Medication,Emergency,4,General,9187.33,Yes,Insurance,4.9,Follow-up
+P1321,2025-04-03,2025-04-12,Neurology,Dr. Kapoor,Female,22,OPD,Epilepsy,Chemotherapy,Elective,9,General,39408.56,Yes,UPI,4.0,Follow-up
+P1322,2025-03-14,2025-03-21,Emergency,Dr. Khan,Female,65,OPD,Breathing Difficulty,Minor Procedure,Emergency,7,General,17417.04,Yes,Credit Card,3.8,Follow-up
+P1323,2025-12-25,2025-12-28,Emergency,Dr. Thomas,Male,22,OPD,Severe Fever,Minor Procedure,Elective,3,General,10950.04,Yes,Insurance,4.3,Recovered
+P1324,2025-07-02,2025-07-03,Orthopedics,Dr. Deshmukh,Female,52,Emergency,Back Pain,Therapy,Elective,1,General,5326.8,Yes,Insurance,3.2,Follow-up
+P1325,2025-09-30,2025-10-07,Emergency,Dr. Thomas,Male,50,Emergency,Severe Fever,Surgery,Elective,7,Private,53660.96,Yes,Insurance,3.2,Recovered
+P1326,2025-10-11,2025-10-17,Neurology,Dr. Kapoor,Female,56,OPD,Epilepsy,Minor Procedure,Elective,6,Semi-Private,23528.95,No,Debit Card,4.5,Follow-up
+P1327,2025-04-19,2025-04-27,Gynecology,Dr. Gupta,Male,19,OPD,Anemia,Minor Procedure,Elective,8,Private,46984.19,No,Debit Card,3.8,Recovered
+P1328,2025-06-27,2025-07-02,Emergency,Dr. Khan,Male,62,OPD,Chest Pain,Therapy,Elective,5,ICU,65961.83,No,Credit Card,4.7,Recovered
+P1329,2025-01-24,2025-01-28,Cardiology,Dr. Sharma,Male,20,Emergency,Heart Disease,Surgery,Elective,4,General,23757.1,No,UPI,3.9,Follow-up
+P1330,2025-08-29,2025-09-11,Pediatrics,Dr. Joshi,Male,48,Emergency,Dehydration,Medication,Emergency,13,Semi-Private,39536.62,Yes,Credit Card,3.3,Recovered
+P1331,2025-07-28,2025-08-02,Dermatology,Dr. Shah,Male,1,OPD,Acne,Therapy,Elective,5,Private,32061.96,No,Cash,3.7,Recovered
+P1332,2025-03-26,2025-03-31,Pediatrics,Dr. Iyer,Male,28,OPD,Infection,Minor Procedure,Elective,5,ICU,65555.3,Yes,Insurance,3.1,Recovered
+P1333,2025-12-29,2025-12-31,Oncology,Dr. Chavan,Female,27,OPD,Leukemia,Medication,Elective,2,Private,11425.54,Yes,Debit Card,2.5,Recovered
+P1334,2025-10-11,2025-10-18,Cardiology,Dr. Mehta,Female,45,Emergency,Heart Disease,Surgery,Elective,7,Private,52887.58,Yes,Insurance,3.4,Follow-up
+P1335,2025-07-08,2025-07-15,Gynecology,Dr. Gupta,Male,37,OPD,Anemia,Surgery,Elective,7,Private,54805.06,Yes,Insurance,4.2,Recovered
+P1336,2025-07-03,2025-07-09,Emergency,Dr. Thomas,Female,30,OPD,Chest Pain,Medication,Emergency,6,General,11882.47,Yes,Insurance,3.1,Recovered
+P1337,2025-03-03,2025-03-05,Orthopedics,Dr. Deshmukh,Male,41,OPD,Arthritis,Medication,Elective,2,General,5499.21,Yes,Insurance,4.3,Recovered
+P1338,2025-02-26,2025-03-11,ENT,Dr. Bansal,Male,30,Emergency,Sinusitis,Minor Procedure,Elective,13,General,28635.77,Yes,Insurance,4.3,Recovered
+P1339,2025-06-17,2025-06-22,Dermatology,Dr. Kulkarni,Male,42,Emergency,Acne,Observation,Emergency,5,General,12010.66,Yes,Insurance,4.7,Recovered
+P1340,2025-01-02,2025-01-11,Orthopedics,Dr. Deshmukh,Male,1,Emergency,Joint Pain,Chemotherapy,Emergency,9,Semi-Private,48735.23,Yes,Insurance,3.5,Recovered
+P1341,2025-01-23,2025-02-01,Gynecology,Dr. Nair,Male,39,Emergency,Hormonal Disorder,Therapy,Elective,9,Private,49994.53,Yes,Debit Card,4.0,Follow-up
+P1342,2025-02-04,2025-02-11,Emergency,Dr. Khan,Female,45,OPD,Accident Injury,Medication,Emergency,7,Private,34300.73,No,Credit Card,3.2,Follow-up
+P1343,2025-01-10,2025-01-20,Gynecology,Dr. Gupta,Male,33,Emergency,PCOS,Therapy,Elective,10,Semi-Private,35918.11,No,Debit Card,3.3,Follow-up
+P1344,2025-11-16,2025-11-23,Cardiology,Dr. Mehta,Female,70,OPD,Chest Pain,Surgery,Elective,7,General,30757.05,Yes,Insurance,3.5,Transferred
+P1345,2025-04-11,2025-04-19,Oncology,Dr. Reddy,Female,46,OPD,Lymphoma,Medication,Emergency,8,Private,39111.55,Yes,Insurance,3.7,Under Treatment
+P1346,2025-11-02,2025-11-09,General Medicine,Dr. Singh,Male,27,OPD,Diabetes,Surgery,Emergency,7,General,29283.16,Yes,UPI,3.0,Follow-up
+P1347,2025-12-04,2025-12-09,Pediatrics,Dr. Iyer,Male,29,OPD,Infection,Observation,Elective,5,Private,26632.44,Yes,Insurance,3.2,Follow-up
+P1348,2025-05-11,2025-05-12,General Medicine,Dr. Singh,Male,59,OPD,Hypertension,Observation,Elective,1,General,2828.34,No,Cash,4.7,Follow-up
+P1349,2025-04-28,2025-05-04,General Medicine,Dr. Singh,Female,50,OPD,Diabetes,Medication,Elective,6,Semi-Private,19255.57,Yes,Debit Card,3.7,Follow-up
+P1350,2025-03-31,2025-04-04,Emergency,Dr. Thomas,Male,89,OPD,Accident Injury,Therapy,Elective,4,Semi-Private,15763.19,Yes,Insurance,4.7,Under Treatment
+P1351,2025-09-26,2025-10-05,Cardiology,Dr. Mehta,Female,44,OPD,Arrhythmia,Surgery,Elective,9,General,36707.21,Yes,Insurance,4.3,Transferred
+P1352,2025-07-02,2025-07-04,Orthopedics,Dr. Deshmukh,Female,29,OPD,Arthritis,Therapy,Elective,2,ICU,28934.14,Yes,Insurance,4.8,Recovered
+P1353,2025-03-12,2025-03-17,ENT,Dr. Mishra,Male,51,OPD,Hearing Problem,Therapy,Elective,5,General,13042.11,Yes,Insurance,4.2,Follow-up
+P1354,2025-01-17,2025-01-25,Dermatology,Dr. Shah,Male,78,OPD,Psoriasis,Surgery,Elective,8,Private,56862.62,Yes,Insurance,4.4,Recovered
+P1355,2025-06-18,2025-06-20,Neurology,Dr. Rao,Male,53,OPD,Neuropathy,Observation,Emergency,2,General,5752.15,Yes,Cash,3.4,Recovered
+P1356,2025-05-20,2025-05-25,Oncology,Dr. Reddy,Male,53,OPD,Lymphoma,Observation,Elective,5,Private,28808.13,Yes,Insurance,3.5,Recovered
+P1357,2025-12-08,2025-12-14,General Medicine,Dr. Verma,Female,1,OPD,Fever,Minor Procedure,Emergency,6,General,16834.15,No,UPI,4.1,Recovered
+P1358,2025-09-23,2025-09-30,Orthopedics,Dr. Patil,Female,31,OPD,Fracture,Chemotherapy,Emergency,7,Semi-Private,42141.92,Yes,Insurance,3.6,Recovered
+P1359,2025-02-01,2025-02-08,Pediatrics,Dr. Iyer,Female,33,OPD,Asthma,Minor Procedure,Elective,7,General,20185.02,No,UPI,3.8,Recovered
+P1360,2025-09-03,2025-09-08,Orthopedics,Dr. Deshmukh,Female,25,OPD,Fracture,Observation,Emergency,5,General,10723.22,No,Credit Card,4.7,Recovered
+P1361,2025-03-30,2025-04-11,ENT,Dr. Bansal,Male,18,Emergency,Tonsillitis,Medication,Elective,12,ICU,141393.11,Yes,Insurance,4.1,Recovered
+P1362,2025-10-12,2025-10-14,Orthopedics,Dr. Patil,Female,57,Emergency,Arthritis,Observation,Elective,2,General,5608.42,No,Cash,4.5,Recovered
+P1363,2025-10-09,2025-10-13,Gynecology,Dr. Nair,Male,32,OPD,PCOS,Surgery,Emergency,4,Semi-Private,30493.74,Yes,Insurance,4.5,Recovered
+P1364,2025-12-07,2025-12-14,Pediatrics,Dr. Iyer,Female,64,OPD,Asthma,Minor Procedure,Emergency,7,General,18251.96,Yes,Insurance,3.7,Follow-up
+P1365,2025-04-14,2025-04-23,Pediatrics,Dr. Joshi,Male,40,OPD,Dehydration,Medication,Emergency,9,Semi-Private,27193.98,No,UPI,3.4,Under Treatment
+P1366,2025-11-29,2025-12-05,Neurology,Dr. Rao,Female,47,OPD,Stroke,Surgery,Elective,6,General,27764.36,Yes,Debit Card,2.9,Recovered
+P1367,2025-01-04,2025-01-13,Emergency,Dr. Khan,Female,21,OPD,Breathing Difficulty,Therapy,Emergency,9,Private,47448.83,Yes,Credit Card,3.1,Recovered
+P1368,2025-09-12,2025-09-17,Oncology,Dr. Chavan,Female,59,OPD,Lymphoma,Observation,Elective,5,General,9770.82,Yes,Cash,3.9,Recovered
+P1369,2025-09-03,2025-09-10,Emergency,Dr. Khan,Male,24,Emergency,Chest Pain,Observation,Elective,7,General,16258.47,No,Debit Card,3.8,Recovered
+P1370,2025-02-17,2025-02-26,ENT,Dr. Bansal,Female,43,OPD,Sinusitis,Surgery,Elective,9,Private,62819.23,No,Debit Card,4.2,Recovered
+P1371,2025-08-02,2025-08-06,Orthopedics,Dr. Deshmukh,Female,54,OPD,Back Pain,Minor Procedure,Elective,4,General,13655.06,No,Cash,4.0,Follow-up
+P1372,2025-02-14,2025-02-27,Orthopedics,Dr. Deshmukh,Female,1,Emergency,Joint Pain,Therapy,Emergency,13,General,29269.95,Yes,Insurance,3.7,Recovered
+P1373,2025-10-24,2025-11-01,Emergency,Dr. Khan,Female,78,Emergency,Breathing Difficulty,Minor Procedure,Elective,8,General,19988.55,No,UPI,3.9,Recovered
+P1374,2025-06-20,2025-07-04,Dermatology,Dr. Shah,Male,19,Emergency,Acne,Medication,Elective,14,General,27071.89,Yes,Insurance,3.8,Transferred
+P1375,2025-08-07,2025-08-19,Emergency,Dr. Thomas,Female,42,OPD,Severe Fever,Medication,Elective,12,General,23073.28,Yes,Insurance,4.5,Follow-up
+P1376,2025-08-21,2025-08-25,Orthopedics,Dr. Patil,Male,74,OPD,Arthritis,Observation,Elective,4,General,9657.41,No,Debit Card,2.7,Under Treatment
+P1377,2025-11-18,2025-11-20,Cardiology,Dr. Sharma,Male,81,OPD,Arrhythmia,Medication,Elective,2,General,5893.58,No,Cash,4.3,Under Treatment
+P1378,2025-03-22,2025-03-26,Gynecology,Dr. Nair,Female,35,OPD,Pregnancy Care,Minor Procedure,Emergency,4,Semi-Private,18180.35,Yes,Insurance,5.0,Under Treatment
+P1379,2025-01-17,2025-01-21,Neurology,Dr. Rao,Male,40,OPD,Stroke,Therapy,Elective,4,General,11486.8,Yes,Insurance,4.1,Recovered
+P1380,2025-06-16,2025-06-18,Neurology,Dr. Rao,Female,85,OPD,Stroke,Chemotherapy,Emergency,2,General,26797.16,Yes,Insurance,3.8,Recovered
+P1381,2025-02-04,2025-02-06,Orthopedics,Dr. Deshmukh,Female,59,OPD,Fracture,Observation,Elective,2,Semi-Private,8095.31,No,Credit Card,3.8,Recovered
+P1382,2025-08-05,2025-08-07,ENT,Dr. Mishra,Female,33,OPD,Ear Infection,Observation,Emergency,2,General,3514.89,No,Credit Card,2.5,Recovered
+P1383,2025-01-17,2025-01-23,Emergency,Dr. Khan,Male,57,Emergency,Chest Pain,Surgery,Elective,6,Semi-Private,37835.17,No,Credit Card,4.4,Recovered
+P1384,2025-12-23,2025-12-26,Neurology,Dr. Kapoor,Female,33,OPD,Stroke,Therapy,Emergency,3,General,10547.59,Yes,Insurance,3.8,Recovered
+P1385,2025-01-17,2025-01-20,ENT,Dr. Bansal,Female,19,Emergency,Hearing Problem,Therapy,Elective,3,Private,19534.71,Yes,Insurance,3.2,Recovered
+P1386,2025-11-20,2025-11-23,ENT,Dr. Bansal,Female,24,OPD,Sinusitis,Medication,Emergency,3,Semi-Private,7734.59,No,Cash,3.4,Follow-up
+P1387,2025-01-22,2025-01-31,Emergency,Dr. Thomas,Female,32,Emergency,Accident Injury,Minor Procedure,Elective,9,General,20054.32,Yes,Insurance,2.4,Recovered
+P1388,2025-09-16,2025-09-26,Orthopedics,Dr. Patil,Female,23,Emergency,Back Pain,Surgery,Elective,10,Private,65829.7,Yes,Insurance,3.7,Under Treatment
+P1389,2025-08-14,2025-08-16,Pediatrics,Dr. Joshi,Male,50,Emergency,Asthma,Chemotherapy,Elective,2,Private,32859.05,No,Credit Card,4.7,Recovered
+P1390,2025-10-16,2025-10-21,Pediatrics,Dr. Joshi,Male,50,OPD,Asthma,Chemotherapy,Elective,5,Private,46435.64,Yes,Insurance,2.9,Under Treatment
+P1391,2025-08-13,2025-08-18,Gynecology,Dr. Gupta,Male,90,Emergency,PCOS,Therapy,Elective,5,Semi-Private,17742.67,No,Cash,4.5,Recovered
+P1392,2025-05-08,2025-05-10,Emergency,Dr. Khan,Male,68,OPD,Severe Fever,Observation,Elective,2,ICU,26358.87,Yes,Insurance,4.1,Transferred
+P1393,2025-06-28,2025-07-09,Emergency,Dr. Thomas,Male,51,OPD,Accident Injury,Surgery,Elective,11,Private,74579.86,No,Credit Card,4.2,Transferred
+P1394,2025-10-18,2025-10-21,Orthopedics,Dr. Deshmukh,Male,29,OPD,Back Pain,Observation,Elective,3,General,8344.24,Yes,Insurance,4.2,Transferred
+P1395,2025-07-07,2025-07-08,Neurology,Dr. Rao,Male,28,OPD,Migraine,Chemotherapy,Elective,1,ICU,32164.2,No,UPI,4.8,Follow-up
+P1396,2025-03-13,2025-03-16,Emergency,Dr. Thomas,Female,67,Emergency,Accident Injury,Minor Procedure,Elective,3,Private,20994.45,No,Debit Card,4.3,Transferred
+P1397,2025-03-31,2025-04-06,Dermatology,Dr. Kulkarni,Female,48,Emergency,Eczema,Therapy,Elective,6,Private,32605.59,No,Debit Card,5.0,Follow-up
+P1398,2025-09-28,2025-10-04,Oncology,Dr. Chavan,Female,48,OPD,Lymphoma,Observation,Elective,6,General,12414.88,No,Cash,3.6,Follow-up
+P1399,2025-03-14,2025-03-22,Cardiology,Dr. Mehta,Male,40,Emergency,Chest Pain,Observation,Elective,8,Private,42089.1,No,Credit Card,3.2,Follow-up
+P1400,2025-01-25,2025-02-03,Neurology,Dr. Kapoor,Male,61,OPD,Stroke,Observation,Elective,9,General,19006.81,No,Cash,3.5,Recovered
+P1401,2025-03-28,2025-03-29,Neurology,Dr. Rao,Female,54,OPD,Migraine,Medication,Elective,1,General,2595.22,No,Cash,4.4,Recovered
+P1402,2025-10-28,2025-11-01,Dermatology,Dr. Kulkarni,Male,25,OPD,Eczema,Observation,Emergency,4,Private,20792.8,Yes,Insurance,3.7,Follow-up
+P1403,2025-12-01,2025-12-02,Cardiology,Dr. Sharma,Female,38,OPD,Chest Pain,Surgery,Elective,1,General,21302.84,No,Cash,3.1,Recovered
+P1404,2025-06-13,2025-06-19,General Medicine,Dr. Singh,Female,52,Emergency,Hypertension,Chemotherapy,Elective,6,General,31622.97,Yes,Insurance,4.0,Recovered
+P1405,2025-04-17,2025-04-26,ENT,Dr. Bansal,Female,24,OPD,Sinusitis,Surgery,Elective,9,General,34311.64,Yes,Insurance,4.3,Recovered
+P1406,2025-04-11,2025-04-21,Cardiology,Dr. Sharma,Female,1,Emergency,Chest Pain,Therapy,Emergency,10,Semi-Private,35105.84,Yes,Credit Card,3.7,Follow-up
+P1407,2025-05-20,2025-05-21,Pediatrics,Dr. Joshi,Female,44,OPD,Asthma,Surgery,Emergency,1,ICU,29067.98,Yes,Insurance,4.7,Recovered
+P1408,2025-05-23,2025-05-25,Neurology,Dr. Kapoor,Male,40,Emergency,Migraine,Surgery,Elective,2,General,21398.93,No,Debit Card,4.1,Recovered
+P1409,2025-07-29,2025-08-06,Emergency,Dr. Thomas,Male,38,OPD,Breathing Difficulty,Minor Procedure,Emergency,8,Semi-Private,29100.27,No,UPI,4.1,Recovered
+P1410,2025-07-23,2025-07-25,Neurology,Dr. Rao,Male,39,OPD,Stroke,Surgery,Emergency,2,ICU,42642.2,No,Cash,4.2,Recovered
+P1411,2025-05-10,2025-05-24,Gynecology,Dr. Gupta,Female,46,Emergency,Hormonal Disorder,Minor Procedure,Emergency,14,Semi-Private,46818.56,Yes,Insurance,4.0,Recovered
+P1412,2025-02-24,2025-03-02,Dermatology,Dr. Shah,Male,75,Emergency,Eczema,Minor Procedure,Emergency,6,Private,34827.19,Yes,Cash,4.6,Under Treatment
+P1413,2025-03-26,2025-04-03,Neurology,Dr. Rao,Female,15,OPD,Stroke,Minor Procedure,Emergency,8,Private,47035.86,No,Credit Card,5.0,Recovered
+P1414,2025-02-09,2025-02-16,Gynecology,Dr. Gupta,Male,31,OPD,Hormonal Disorder,Surgery,Elective,7,Private,53806.04,Yes,Cash,3.6,Recovered
+P1415,2025-05-13,2025-05-20,ENT,Dr. Bansal,Male,78,OPD,Sinusitis,Medication,Emergency,7,General,15166.29,No,Cash,3.0,Under Treatment
+P1416,2025-06-25,2025-07-01,Emergency,Dr. Thomas,Male,68,OPD,Severe Fever,Surgery,Elective,6,General,28606.69,Yes,Debit Card,3.0,Recovered
+P1417,2025-05-30,2025-06-08,Dermatology,Dr. Shah,Male,45,OPD,Psoriasis,Surgery,Elective,9,Semi-Private,45694.82,Yes,Credit Card,4.0,Transferred
+P1418,2025-02-20,2025-02-26,Neurology,Dr. Kapoor,Male,29,OPD,Epilepsy,Therapy,Emergency,6,General,15876.31,No,Credit Card,3.3,Recovered
+P1419,2025-05-09,2025-05-13,Pediatrics,Dr. Iyer,Female,18,OPD,Dehydration,Chemotherapy,Elective,4,ICU,69053.59,No,Cash,3.4,Recovered
+P1420,2025-10-26,2025-11-03,Emergency,Dr. Khan,Female,22,OPD,Breathing Difficulty,Surgery,Emergency,8,General,32751.47,No,Credit Card,4.0,Follow-up
+P1421,2025-10-31,2025-11-05,Oncology,Dr. Reddy,Male,22,Emergency,Breast Cancer,Medication,Elective,5,Private,24065.75,Yes,Insurance,4.8,Recovered
+P1422,2025-03-17,2025-03-22,Orthopedics,Dr. Patil,Female,64,OPD,Arthritis,Chemotherapy,Emergency,5,General,28627.51,No,Credit Card,4.8,Under Treatment
+P1423,2025-04-04,2025-04-07,Gynecology,Dr. Gupta,Male,46,OPD,Pregnancy Care,Medication,Elective,3,General,10071.36,Yes,Insurance,4.6,Follow-up
+P1424,2025-05-01,2025-05-04,Oncology,Dr. Reddy,Male,53,OPD,Leukemia,Medication,Elective,3,Private,16078.66,Yes,Insurance,3.5,Follow-up
+P1425,2025-10-05,2025-10-06,Neurology,Dr. Rao,Female,47,Emergency,Epilepsy,Chemotherapy,Emergency,1,General,22718.97,Yes,Insurance,3.9,Transferred
+P1426,2025-03-30,2025-04-08,Gynecology,Dr. Nair,Female,25,Emergency,Hormonal Disorder,Observation,Emergency,9,General,16990.94,Yes,Insurance,4.2,Recovered
+P1427,2025-11-26,2025-11-28,Oncology,Dr. Chavan,Female,47,OPD,Leukemia,Therapy,Emergency,2,Semi-Private,11727.84,No,Credit Card,5.0,Under Treatment
+P1428,2025-07-05,2025-07-07,Oncology,Dr. Reddy,Male,42,OPD,Breast Cancer,Minor Procedure,Emergency,2,Semi-Private,14565.85,No,Credit Card,4.9,Under Treatment
+P1429,2025-01-17,2025-01-25,Dermatology,Dr. Shah,Male,54,OPD,Skin Allergy,Surgery,Elective,8,ICU,116869.87,Yes,Insurance,2.7,Recovered
+P1430,2025-01-16,2025-01-20,Orthopedics,Dr. Deshmukh,Male,34,OPD,Fracture,Therapy,Emergency,4,General,12843.6,Yes,Insurance,3.4,Recovered
+P1431,2025-11-13,2025-11-26,General Medicine,Dr. Singh,Male,62,Emergency,Fever,Surgery,Elective,13,Private,81846.2,Yes,UPI,3.8,Recovered
+P1432,2025-08-12,2025-08-18,Emergency,Dr. Thomas,Female,67,Emergency,Severe Fever,Minor Procedure,Elective,6,Private,32342.67,Yes,Insurance,3.7,Recovered
+P1433,2025-12-28,2026-01-04,Dermatology,Dr. Kulkarni,Male,36,OPD,Psoriasis,Observation,Emergency,7,General,13056.83,Yes,Cash,4.2,Recovered
+P1434,2025-03-25,2025-04-04,Neurology,Dr. Rao,Female,74,Emergency,Stroke,Therapy,Elective,10,Semi-Private,34855.19,Yes,Debit Card,4.3,Recovered
+P1435,2025-04-28,2025-05-06,Neurology,Dr. Rao,Male,52,OPD,Migraine,Chemotherapy,Elective,8,General,35227.03,Yes,Credit Card,4.6,Recovered
+P1436,2025-05-21,2025-05-24,Gynecology,Dr. Nair,Female,41,OPD,PCOS,Therapy,Emergency,3,General,9258.91,Yes,Insurance,4.1,Follow-up
+P1437,2025-01-06,2025-01-07,Neurology,Dr. Rao,Female,32,OPD,Epilepsy,Minor Procedure,Elective,1,Semi-Private,8407.93,Yes,Insurance,3.5,Recovered
+P1438,2025-08-17,2025-08-23,ENT,Dr. Mishra,Female,37,Emergency,Tonsillitis,Therapy,Emergency,6,General,15445.26,Yes,Cash,4.3,Recovered
+P1439,2025-06-11,2025-06-17,General Medicine,Dr. Verma,Female,2,OPD,Hypertension,Surgery,Emergency,6,General,28589.31,Yes,Insurance,4.5,Recovered
+P1440,2025-03-04,2025-03-11,Gynecology,Dr. Nair,Female,54,OPD,Anemia,Observation,Emergency,7,General,13478.1,Yes,Insurance,4.9,Recovered
+P1441,2025-11-19,2025-11-26,General Medicine,Dr. Singh,Male,21,OPD,Viral Infection,Minor Procedure,Emergency,7,General,16397.34,Yes,Debit Card,3.2,Recovered
+P1442,2025-03-19,2025-03-27,Oncology,Dr. Chavan,Male,35,Emergency,Leukemia,Therapy,Elective,8,General,19191.78,Yes,Insurance,4.4,Under Treatment
+P1443,2025-12-05,2025-12-18,Emergency,Dr. Thomas,Male,49,OPD,Chest Pain,Observation,Emergency,13,ICU,157500.85,No,Credit Card,4.1,Recovered
+P1444,2025-07-19,2025-07-22,Gynecology,Dr. Gupta,Male,27,Emergency,Pregnancy Care,Minor Procedure,Emergency,3,Semi-Private,13656.01,Yes,Insurance,3.9,Recovered
+P1445,2025-02-26,2025-03-12,ENT,Dr. Bansal,Female,20,Emergency,Tonsillitis,Surgery,Emergency,14,General,44443.06,No,Credit Card,5.0,Recovered
+P1446,2025-08-07,2025-08-08,Dermatology,Dr. Kulkarni,Male,40,Emergency,Skin Allergy,Medication,Emergency,1,Semi-Private,2467.33,No,Debit Card,3.1,Recovered
+P1447,2025-07-05,2025-07-13,General Medicine,Dr. Singh,Male,45,OPD,Hypertension,Chemotherapy,Emergency,8,General,39270.53,No,Credit Card,4.5,Recovered
+P1448,2025-01-11,2025-01-19,Oncology,Dr. Chavan,Male,49,OPD,Lung Cancer,Medication,Emergency,8,Private,41679.39,No,Debit Card,3.1,Follow-up
+P1449,2025-07-15,2025-07-22,Gynecology,Dr. Gupta,Female,75,OPD,PCOS,Therapy,Elective,7,Semi-Private,24623.93,Yes,Insurance,2.5,Under Treatment
+P1450,2025-10-19,2025-10-21,Gynecology,Dr. Nair,Female,82,OPD,PCOS,Minor Procedure,Elective,2,Semi-Private,13545.69,Yes,Insurance,4.0,Follow-up
+P1451,2025-01-23,2025-01-28,Oncology,Dr. Reddy,Female,56,OPD,Lung Cancer,Chemotherapy,Elective,5,General,31646.12,No,Credit Card,3.8,Follow-up
+P1452,2025-03-03,2025-03-07,Orthopedics,Dr. Deshmukh,Female,9,OPD,Arthritis,Medication,Emergency,4,Private,23150.17,No,UPI,2.7,Transferred
+P1453,2025-12-28,2026-01-05,ENT,Dr. Bansal,Female,49,OPD,Sinusitis,Therapy,Elective,8,General,20510.1,Yes,Insurance,4.7,Recovered
+P1454,2025-06-25,2025-06-29,Oncology,Dr. Chavan,Female,34,OPD,Leukemia,Chemotherapy,Elective,4,General,28273.1,Yes,Insurance,4.6,Recovered
+P1455,2025-07-03,2025-07-09,Dermatology,Dr. Shah,Male,72,OPD,Acne,Therapy,Emergency,6,General,16618.23,Yes,Credit Card,3.7,Under Treatment
+P1456,2025-04-14,2025-04-15,Dermatology,Dr. Shah,Female,35,OPD,Eczema,Surgery,Emergency,1,General,19951.82,Yes,Insurance,3.8,Recovered
+P1457,2025-04-23,2025-05-04,Pediatrics,Dr. Joshi,Male,26,Emergency,Fever,Surgery,Elective,11,Semi-Private,51081.69,No,UPI,4.9,Follow-up
+P1458,2025-07-23,2025-07-29,ENT,Dr. Mishra,Female,56,Emergency,Sinusitis,Therapy,Elective,6,General,14923.21,Yes,Insurance,4.2,Recovered
+P1459,2025-11-23,2025-12-07,Emergency,Dr. Khan,Male,36,OPD,Severe Fever,Minor Procedure,Emergency,14,Semi-Private,47916.44,No,Debit Card,4.4,Under Treatment
+P1460,2025-03-24,2025-03-31,Gynecology,Dr. Gupta,Female,55,OPD,PCOS,Surgery,Emergency,7,General,31175.41,No,UPI,4.5,Under Treatment
+P1461,2025-12-25,2025-12-28,Neurology,Dr. Rao,Male,43,OPD,Migraine,Observation,Elective,3,General,7177.84,Yes,Cash,4.6,Transferred
+P1462,2025-07-13,2025-07-20,Gynecology,Dr. Nair,Male,18,OPD,PCOS,Minor Procedure,Emergency,7,ICU,88598.82,No,Cash,4.0,Recovered
+P1463,2025-11-29,2025-12-04,Cardiology,Dr. Mehta,Female,50,OPD,Hypertension,Minor Procedure,Emergency,5,Semi-Private,18899.51,Yes,Insurance,3.3,Follow-up
+P1464,2025-07-24,2025-07-25,General Medicine,Dr. Singh,Female,53,OPD,Viral Infection,Observation,Emergency,1,General,3105.27,No,Cash,3.6,Under Treatment
+P1465,2025-10-02,2025-10-03,Orthopedics,Dr. Patil,Female,47,OPD,Fracture,Minor Procedure,Elective,1,General,7053.88,Yes,Insurance,4.4,Recovered
+P1466,2025-04-04,2025-04-05,Cardiology,Dr. Mehta,Female,23,OPD,Arrhythmia,Minor Procedure,Elective,1,General,7926.31,Yes,Debit Card,5.0,Recovered
+P1467,2025-12-22,2025-12-28,Dermatology,Dr. Shah,Male,49,OPD,Acne,Medication,Emergency,6,Semi-Private,19405.15,No,Cash,4.0,Follow-up
+P1468,2025-09-10,2025-09-16,Dermatology,Dr. Shah,Male,1,OPD,Skin Allergy,Observation,Elective,6,Semi-Private,19744.55,Yes,Credit Card,4.9,Under Treatment
+P1469,2025-11-10,2025-11-13,Oncology,Dr. Chavan,Female,13,Emergency,Lymphoma,Chemotherapy,Elective,3,Semi-Private,31777.6,No,Debit Card,3.6,Transferred
+P1470,2025-10-30,2025-11-08,Emergency,Dr. Thomas,Male,10,OPD,Severe Fever,Observation,Elective,9,General,16718.78,Yes,Insurance,3.2,Recovered
+P1471,2025-10-17,2025-10-23,Cardiology,Dr. Mehta,Male,67,OPD,Arrhythmia,Observation,Elective,6,General,11725.71,No,UPI,4.8,Recovered
+P1472,2025-12-17,2025-12-19,ENT,Dr. Bansal,Male,31,OPD,Hearing Problem,Surgery,Elective,2,Semi-Private,27409.06,No,Cash,5.0,Recovered
+P1473,2025-10-12,2025-10-22,Emergency,Dr. Thomas,Male,29,OPD,Severe Fever,Surgery,Emergency,10,Semi-Private,48790.87,Yes,UPI,4.8,Follow-up
+P1474,2025-02-22,2025-02-28,Pediatrics,Dr. Iyer,Male,36,Emergency,Dehydration,Medication,Emergency,6,General,12170.84,Yes,Insurance,3.4,Recovered
+P1475,2025-09-29,2025-10-07,General Medicine,Dr. Verma,Male,36,OPD,Hypertension,Chemotherapy,Emergency,8,General,37880.47,No,UPI,3.9,Recovered
+P1476,2025-05-12,2025-05-20,Emergency,Dr. Khan,Male,41,OPD,Severe Fever,Therapy,Elective,8,ICU,101801.04,Yes,Insurance,4.1,Recovered
+P1477,2025-02-11,2025-02-20,Cardiology,Dr. Sharma,Male,51,OPD,Chest Pain,Observation,Emergency,9,General,15603.73,Yes,Cash,3.3,Recovered
+P1478,2025-10-20,2025-10-24,Dermatology,Dr. Shah,Male,22,Emergency,Eczema,Observation,Elective,4,Semi-Private,15175.6,Yes,Insurance,4.0,Recovered
+P1479,2025-04-14,2025-04-15,Orthopedics,Dr. Patil,Male,57,Emergency,Arthritis,Minor Procedure,Emergency,1,Semi-Private,6960.7,Yes,Insurance,4.1,Recovered
+P1480,2025-07-01,2025-07-13,Emergency,Dr. Khan,Male,63,Emergency,Breathing Difficulty,Medication,Emergency,12,ICU,143972.1,Yes,Insurance,4.0,Recovered
+P1481,2025-04-09,2025-04-10,Emergency,Dr. Thomas,Female,47,OPD,Accident Injury,Chemotherapy,Elective,1,Semi-Private,26513.22,No,UPI,3.7,Under Treatment
+P1482,2025-09-22,2025-09-28,Oncology,Dr. Chavan,Female,31,OPD,Leukemia,Chemotherapy,Elective,6,General,31519.98,No,UPI,4.0,Under Treatment
+P1483,2025-11-02,2025-11-06,ENT,Dr. Mishra,Male,34,Emergency,Tonsillitis,Therapy,Elective,4,Semi-Private,15263.83,Yes,UPI,3.8,Recovered
+P1484,2025-11-30,2025-12-03,Dermatology,Dr. Kulkarni,Male,16,OPD,Acne,Minor Procedure,Elective,3,General,11947.8,Yes,Insurance,3.8,Follow-up
+P1485,2025-02-25,2025-02-27,Emergency,Dr. Khan,Male,43,OPD,Chest Pain,Medication,Elective,2,General,3425.04,Yes,Insurance,5.0,Recovered
+P1486,2025-11-11,2025-11-16,Neurology,Dr. Kapoor,Female,31,OPD,Stroke,Surgery,Emergency,5,Private,43820.45,Yes,Insurance,4.0,Under Treatment
+P1487,2025-02-14,2025-02-16,Dermatology,Dr. Shah,Male,44,OPD,Eczema,Chemotherapy,Elective,2,Semi-Private,30558.12,Yes,Insurance,4.1,Recovered
+P1488,2025-07-19,2025-07-20,Orthopedics,Dr. Patil,Male,70,Emergency,Joint Pain,Chemotherapy,Elective,1,General,20674.78,No,Cash,3.6,Under Treatment
+P1489,2025-10-18,2025-10-23,Pediatrics,Dr. Joshi,Female,57,OPD,Dehydration,Chemotherapy,Emergency,5,Private,48385.08,No,Credit Card,3.9,Follow-up
+P1490,2025-04-12,2025-04-13,Emergency,Dr. Thomas,Female,32,OPD,Chest Pain,Therapy,Elective,1,Semi-Private,6541.38,Yes,UPI,4.7,Recovered
+P1491,2025-05-23,2025-05-24,Pediatrics,Dr. Joshi,Male,34,OPD,Infection,Surgery,Elective,1,Semi-Private,20399.76,Yes,Insurance,3.7,Recovered
+P1492,2025-06-26,2025-06-28,General Medicine,Dr. Singh,Male,63,OPD,Fever,Chemotherapy,Elective,2,General,25274.36,Yes,Cash,4.8,Recovered
+P1493,2025-02-15,2025-02-19,Emergency,Dr. Thomas,Male,32,OPD,Chest Pain,Medication,Elective,4,Private,21737.88,Yes,Insurance,4.5,Follow-up
+P1494,2025-11-09,2025-11-22,Neurology,Dr. Kapoor,Male,43,Emergency,Neuropathy,Chemotherapy,Elective,13,ICU,180159.1,Yes,Insurance,4.6,Under Treatment
+P1495,2025-04-21,2025-04-24,Cardiology,Dr. Mehta,Male,9,Emergency,Hypertension,Minor Procedure,Elective,3,Private,19416.46,Yes,Cash,4.5,Recovered
+P1496,2025-01-23,2025-01-26,Neurology,Dr. Kapoor,Male,29,OPD,Migraine,Therapy,Elective,3,Private,19307.5,Yes,UPI,5.0,Recovered
+P1497,2025-06-01,2025-06-13,Pediatrics,Dr. Joshi,Male,54,Emergency,Fever,Therapy,Elective,12,Private,62546.54,No,Debit Card,5.0,Follow-up
+P1498,2025-01-11,2025-01-15,Oncology,Dr. Reddy,Female,51,OPD,Leukemia,Therapy,Emergency,4,Private,25765.73,No,Cash,4.0,Recovered
+P1499,2025-05-27,2025-06-05,Orthopedics,Dr. Patil,Female,46,OPD,Arthritis,Surgery,Elective,9,ICU,125683.52,Yes,UPI,3.5,Recovered
+P1500,2025-10-10,2025-10-15,ENT,Dr. Mishra,Female,83,OPD,Hearing Problem,Observation,Elective,5,Semi-Private,17508.43,Yes,Insurance,5.0,Follow-up
+P1501,2025-07-11,2025-07-17,Gynecology,Dr. Gupta,Female,85,OPD,PCOS,Therapy,Elective,6,General,15019.55,Yes,Insurance,4.2,Recovered
+P1502,2025-11-15,2025-11-21,Emergency,Dr. Khan,Male,52,Emergency,Severe Fever,Medication,Elective,6,General,10890.14,Yes,UPI,3.3,Recovered
+P1503,2025-09-23,2025-09-27,Oncology,Dr. Reddy,Male,24,OPD,Lung Cancer,Minor Procedure,Elective,4,Private,26827.32,Yes,Insurance,4.2,Recovered
+P1504,2025-08-06,2025-08-08,Dermatology,Dr. Shah,Male,34,OPD,Acne,Surgery,Emergency,2,General,22405.68,Yes,Credit Card,4.8,Recovered
+P1505,2025-10-17,2025-10-20,Pediatrics,Dr. Iyer,Male,26,OPD,Fever,Observation,Elective,3,General,7748.44,No,UPI,4.2,Recovered
+P1506,2025-09-01,2025-09-14,Dermatology,Dr. Shah,Female,66,Emergency,Eczema,Observation,Elective,13,Semi-Private,39356.93,No,Credit Card,4.2,Follow-up
+P1507,2025-12-10,2025-12-23,Emergency,Dr. Thomas,Female,63,OPD,Chest Pain,Surgery,Elective,13,ICU,173344.11,No,Debit Card,2.9,Under Treatment
+P1508,2025-11-26,2025-12-02,Pediatrics,Dr. Iyer,Female,22,OPD,Fever,Medication,Elective,6,Semi-Private,17217.24,Yes,Insurance,4.0,Follow-up
+P1509,2025-07-15,2025-07-24,Gynecology,Dr. Gupta,Female,22,Emergency,Pregnancy Care,Medication,Elective,9,General,16589.81,Yes,Insurance,3.7,Under Treatment
+P1510,2025-01-23,2025-02-03,Neurology,Dr. Kapoor,Female,71,Emergency,Migraine,Therapy,Elective,11,General,24830.79,Yes,Insurance,4.0,Recovered
+P1511,2025-12-08,2025-12-21,Emergency,Dr. Khan,Female,86,Emergency,Severe Fever,Medication,Elective,13,Private,67582.71,Yes,Debit Card,5.0,Transferred
+P1512,2025-08-05,2025-08-07,Emergency,Dr. Khan,Female,30,OPD,Breathing Difficulty,Observation,Elective,2,Semi-Private,8528.08,No,UPI,4.3,Recovered
+P1513,2025-01-04,2025-01-08,ENT,Dr. Bansal,Female,51,OPD,Tonsillitis,Medication,Elective,4,ICU,48485.89,No,Cash,2.9,Recovered
+P1514,2025-07-17,2025-07-19,Dermatology,Dr. Kulkarni,Female,34,Emergency,Acne,Therapy,Elective,2,General,8222.1,Yes,UPI,4.2,Recovered
+P1515,2025-12-03,2025-12-14,Emergency,Dr. Thomas,Female,53,Emergency,Accident Injury,Minor Procedure,Emergency,11,Private,62694.43,Yes,Cash,2.8,Under Treatment
+P1516,2025-09-25,2025-09-28,Cardiology,Dr. Sharma,Male,49,OPD,Hypertension,Medication,Emergency,3,General,5116.77,Yes,Insurance,4.2,Recovered
+P1517,2025-03-02,2025-03-03,Pediatrics,Dr. Joshi,Female,61,OPD,Fever,Surgery,Emergency,1,General,18988.4,Yes,Insurance,3.5,Under Treatment
+P1518,2025-07-23,2025-07-29,Dermatology,Dr. Shah,Male,81,OPD,Psoriasis,Therapy,Elective,6,General,15499.81,No,Credit Card,3.4,Recovered
+P1519,2025-06-30,2025-07-13,Orthopedics,Dr. Patil,Female,42,Emergency,Arthritis,Medication,Elective,13,General,22810.14,Yes,Insurance,4.8,Recovered
+P1520,2025-02-04,2025-02-05,Cardiology,Dr. Mehta,Female,55,OPD,Hypertension,Therapy,Elective,1,ICU,17526.91,Yes,Debit Card,3.1,Recovered
+P1521,2025-06-17,2025-06-25,Neurology,Dr. Kapoor,Female,16,OPD,Epilepsy,Surgery,Elective,8,General,32794.28,Yes,Insurance,4.0,Recovered
+P1522,2025-01-07,2025-01-14,Orthopedics,Dr. Deshmukh,Female,25,Emergency,Arthritis,Minor Procedure,Elective,7,Semi-Private,28562.81,Yes,Insurance,3.4,Recovered
+P1523,2025-04-17,2025-04-22,General Medicine,Dr. Verma,Female,60,OPD,Viral Infection,Chemotherapy,Emergency,5,Semi-Private,35239.98,Yes,Insurance,3.6,Recovered
+P1524,2025-11-07,2025-11-11,Pediatrics,Dr. Joshi,Male,37,OPD,Fever,Surgery,Elective,4,General,23985.51,Yes,Insurance,5.0,Recovered
+P1525,2025-04-26,2025-04-27,General Medicine,Dr. Verma,Male,35,OPD,Fever,Surgery,Emergency,1,Semi-Private,20242.28,Yes,Insurance,3.5,Recovered
+P1526,2025-12-12,2025-12-19,Emergency,Dr. Thomas,Male,28,Emergency,Accident Injury,Therapy,Emergency,7,Semi-Private,25644.72,Yes,Credit Card,3.9,Recovered
+P1527,2025-03-29,2025-03-30,Dermatology,Dr. Shah,Female,40,OPD,Acne,Chemotherapy,Emergency,1,Private,27236.21,Yes,Insurance,4.8,Follow-up
+P1528,2025-06-10,2025-06-11,Dermatology,Dr. Kulkarni,Female,34,OPD,Psoriasis,Chemotherapy,Emergency,1,Semi-Private,24736.74,No,UPI,4.0,Recovered
+P1529,2025-03-28,2025-04-04,Pediatrics,Dr. Iyer,Female,45,OPD,Infection,Observation,Emergency,7,General,14353.95,Yes,Insurance,4.8,Recovered
+P1530,2025-04-07,2025-04-09,Gynecology,Dr. Gupta,Female,46,OPD,Anemia,Observation,Emergency,2,ICU,25361.16,Yes,UPI,4.4,Recovered
+P1531,2025-06-10,2025-06-22,Emergency,Dr. Thomas,Female,47,OPD,Chest Pain,Surgery,Elective,12,Private,76923.29,No,Debit Card,4.1,Recovered
+P1532,2025-08-30,2025-09-01,ENT,Dr. Bansal,Male,1,OPD,Ear Infection,Medication,Elective,2,General,4401.33,Yes,Insurance,2.9,Transferred
+P1533,2025-06-16,2025-06-20,General Medicine,Dr. Singh,Male,31,Emergency,Fever,Chemotherapy,Elective,4,ICU,71010.61,Yes,Insurance,3.5,Follow-up
+P1534,2025-03-28,2025-04-02,Orthopedics,Dr. Deshmukh,Female,58,OPD,Joint Pain,Medication,Elective,5,General,11441.7,Yes,Insurance,4.1,Follow-up
+P1535,2025-02-06,2025-02-12,Orthopedics,Dr. Deshmukh,Female,61,Emergency,Joint Pain,Medication,Elective,6,Private,30800.91,Yes,Debit Card,4.3,Recovered
+P1536,2025-12-14,2025-12-19,Pediatrics,Dr. Joshi,Female,29,OPD,Fever,Therapy,Elective,5,Private,31889.64,No,Credit Card,4.3,Recovered
+P1537,2025-05-05,2025-05-07,Neurology,Dr. Kapoor,Male,50,OPD,Neuropathy,Medication,Emergency,2,Private,10327.22,No,Debit Card,4.7,Recovered
+P1538,2025-04-05,2025-04-14,General Medicine,Dr. Verma,Male,17,OPD,Viral Infection,Chemotherapy,Emergency,9,General,37943.02,Yes,Insurance,4.6,Recovered
+P1539,2025-01-29,2025-02-07,Pediatrics,Dr. Iyer,Female,40,Emergency,Dehydration,Observation,Elective,9,Private,47035.84,Yes,Debit Card,3.9,Under Treatment
+P1540,2025-12-13,2025-12-16,Gynecology,Dr. Nair,Female,61,OPD,Pregnancy Care,Minor Procedure,Elective,3,General,9041.33,Yes,Insurance,3.6,Recovered
+P1541,2025-11-13,2025-11-18,General Medicine,Dr. Verma,Female,41,OPD,Fever,Surgery,Elective,5,Private,41746.72,Yes,Cash,4.6,Follow-up
+P1542,2025-09-11,2025-09-20,Oncology,Dr. Reddy,Male,61,Emergency,Breast Cancer,Chemotherapy,Elective,9,Semi-Private,48564.24,Yes,UPI,4.6,Follow-up
+P1543,2025-07-29,2025-08-05,ENT,Dr. Bansal,Male,42,OPD,Tonsillitis,Therapy,Elective,7,General,17966.94,Yes,Insurance,4.4,Follow-up
+P1544,2025-09-16,2025-09-20,Orthopedics,Dr. Patil,Male,75,OPD,Back Pain,Minor Procedure,Elective,4,General,14086.59,No,Cash,4.9,Recovered
+P1545,2025-12-05,2025-12-11,Pediatrics,Dr. Joshi,Male,66,OPD,Fever,Observation,Elective,6,Semi-Private,19660.75,Yes,Insurance,3.4,Follow-up
+P1546,2025-11-02,2025-11-04,Orthopedics,Dr. Deshmukh,Female,50,OPD,Arthritis,Minor Procedure,Emergency,2,General,9686.58,Yes,Insurance,4.5,Recovered
+P1547,2025-11-27,2025-12-09,Pediatrics,Dr. Iyer,Male,46,Emergency,Asthma,Therapy,Elective,12,Semi-Private,39638.32,Yes,Debit Card,3.4,Recovered
+P1548,2025-10-08,2025-10-20,Oncology,Dr. Chavan,Female,63,Emergency,Breast Cancer,Medication,Emergency,12,Semi-Private,37786.82,Yes,Insurance,3.4,Recovered
+P1549,2025-03-11,2025-03-18,Neurology,Dr. Rao,Male,44,OPD,Neuropathy,Medication,Emergency,7,Semi-Private,20856.05,Yes,Insurance,4.2,Recovered
+P1550,2025-11-17,2025-11-22,Dermatology,Dr. Shah,Male,31,Emergency,Psoriasis,Therapy,Elective,5,Private,29722.08,No,Cash,4.4,Recovered
+P1551,2025-01-07,2025-01-10,ENT,Dr. Bansal,Female,68,OPD,Sinusitis,Surgery,Emergency,3,ICU,56651.02,Yes,Insurance,4.3,Recovered
+P1552,2025-05-24,2025-05-29,Cardiology,Dr. Sharma,Female,58,OPD,Hypertension,Observation,Elective,5,General,11964.77,No,UPI,4.0,Recovered
+P1553,2025-11-12,2025-11-14,Gynecology,Dr. Nair,Female,64,OPD,PCOS,Minor Procedure,Elective,2,General,7447.51,Yes,Cash,3.8,Recovered
+P1554,2025-04-24,2025-04-27,Pediatrics,Dr. Iyer,Male,15,OPD,Infection,Medication,Emergency,3,Semi-Private,6844.32,No,Cash,3.4,Recovered
+P1555,2025-02-12,2025-02-16,Orthopedics,Dr. Patil,Female,64,OPD,Arthritis,Minor Procedure,Elective,4,General,13664.72,No,Credit Card,3.5,Recovered
+P1556,2025-08-22,2025-08-30,Neurology,Dr. Rao,Male,61,OPD,Epilepsy,Surgery,Emergency,8,Semi-Private,42346.63,Yes,UPI,4.0,Recovered
+P1557,2025-09-21,2025-09-25,Neurology,Dr. Rao,Male,62,OPD,Stroke,Surgery,Elective,4,General,23292.41,Yes,Insurance,3.7,Recovered
+P1558,2025-01-31,2025-02-01,Orthopedics,Dr. Deshmukh,Male,46,OPD,Back Pain,Minor Procedure,Elective,1,Semi-Private,8817.09,No,Debit Card,5.0,Transferred
+P1559,2025-01-21,2025-01-24,Dermatology,Dr. Shah,Male,27,OPD,Psoriasis,Medication,Elective,3,General,5149.57,Yes,Debit Card,4.7,Recovered
+P1560,2025-01-15,2025-01-22,Orthopedics,Dr. Patil,Female,41,Emergency,Fracture,Surgery,Emergency,7,Semi-Private,40599.06,No,UPI,4.7,Recovered
+P1561,2025-02-20,2025-02-24,Pediatrics,Dr. Joshi,Female,47,Emergency,Fever,Chemotherapy,Elective,4,Private,41012.7,Yes,Insurance,3.6,Recovered
+P1562,2025-07-26,2025-07-27,Dermatology,Dr. Kulkarni,Female,34,OPD,Eczema,Medication,Emergency,1,General,4299.69,No,Cash,4.5,Under Treatment
+P1563,2025-06-13,2025-06-25,Neurology,Dr. Kapoor,Female,62,Emergency,Epilepsy,Surgery,Emergency,12,ICU,162823.92,Yes,Debit Card,3.5,Recovered
+P1564,2025-02-24,2025-03-07,General Medicine,Dr. Verma,Female,34,Emergency,Viral Infection,Minor Procedure,Emergency,11,General,24522.95,Yes,Insurance,2.8,Recovered
+P1565,2025-05-07,2025-05-10,Dermatology,Dr. Kulkarni,Female,4,OPD,Eczema,Minor Procedure,Elective,3,General,10781.57,No,Credit Card,3.2,Recovered
+P1566,2025-06-27,2025-06-29,Neurology,Dr. Kapoor,Female,55,Emergency,Epilepsy,Medication,Emergency,2,General,4149.87,No,UPI,3.4,Recovered
+P1567,2025-01-02,2025-01-08,Pediatrics,Dr. Iyer,Male,38,OPD,Dehydration,Observation,Emergency,6,General,13754.56,Yes,UPI,4.7,Recovered
+P1568,2025-05-28,2025-06-01,Orthopedics,Dr. Deshmukh,Male,39,OPD,Arthritis,Minor Procedure,Elective,4,General,11330.16,Yes,Debit Card,5.0,Follow-up
+P1569,2025-01-21,2025-01-31,Oncology,Dr. Reddy,Female,33,Emergency,Leukemia,Medication,Emergency,10,General,19915.69,No,Debit Card,4.5,Recovered
+P1570,2025-03-17,2025-03-30,Cardiology,Dr. Mehta,Male,54,Emergency,Hypertension,Observation,Emergency,13,Private,64843.0,Yes,Insurance,4.8,Transferred
+P1571,2025-06-29,2025-06-30,Pediatrics,Dr. Iyer,Male,31,OPD,Asthma,Surgery,Emergency,1,Private,23676.7,No,Credit Card,4.3,Follow-up
+P1572,2025-09-28,2025-09-30,Emergency,Dr. Thomas,Male,7,OPD,Accident Injury,Medication,Elective,2,General,1440.54,No,Debit Card,4.6,Transferred
+P1573,2025-09-03,2025-09-07,Pediatrics,Dr. Iyer,Male,49,OPD,Dehydration,Therapy,Elective,4,General,11777.41,No,Credit Card,4.9,Under Treatment
+P1574,2025-03-13,2025-03-17,Oncology,Dr. Reddy,Female,48,OPD,Leukemia,Surgery,Elective,4,Private,38352.86,No,UPI,3.7,Recovered
+P1575,2025-11-20,2025-11-25,Dermatology,Dr. Shah,Male,28,Emergency,Skin Allergy,Minor Procedure,Elective,5,General,14370.22,No,Cash,3.5,Recovered
+P1576,2025-03-02,2025-03-16,Oncology,Dr. Chavan,Female,35,Emergency,Lung Cancer,Minor Procedure,Elective,14,General,32327.52,No,Cash,2.9,Follow-up
+P1577,2025-07-27,2025-08-07,Emergency,Dr. Thomas,Male,16,Emergency,Accident Injury,Chemotherapy,Elective,11,ICU,155771.05,Yes,Insurance,4.9,Recovered
+P1578,2025-06-28,2025-07-09,ENT,Dr. Mishra,Female,44,Emergency,Ear Infection,Chemotherapy,Elective,11,ICU,151208.37,Yes,Insurance,3.7,Recovered
+P1579,2025-12-17,2025-12-24,Gynecology,Dr. Gupta,Female,52,OPD,Pregnancy Care,Therapy,Elective,7,Semi-Private,24900.46,No,Cash,4.5,Recovered
+P1580,2025-06-24,2025-07-02,Oncology,Dr. Reddy,Male,24,Emergency,Breast Cancer,Surgery,Emergency,8,ICU,112513.29,Yes,Insurance,3.2,Recovered
+P1581,2025-09-30,2025-10-08,Dermatology,Dr. Kulkarni,Female,28,OPD,Skin Allergy,Minor Procedure,Emergency,8,Semi-Private,28538.27,No,Credit Card,4.5,Recovered
+P1582,2025-12-12,2025-12-16,General Medicine,Dr. Verma,Male,39,Emergency,Diabetes,Surgery,Emergency,4,ICU,63514.58,No,Cash,4.7,Recovered
+P1583,2025-08-27,2025-09-06,Orthopedics,Dr. Patil,Male,37,Emergency,Fracture,Medication,Elective,10,Semi-Private,31153.66,Yes,Insurance,4.5,Recovered
+P1584,2025-03-12,2025-03-17,General Medicine,Dr. Verma,Female,90,OPD,Hypertension,Minor Procedure,Elective,5,General,16422.02,Yes,Insurance,3.1,Follow-up
+P1585,2025-07-16,2025-07-18,Dermatology,Dr. Shah,Male,39,OPD,Skin Allergy,Observation,Elective,2,General,4541.7,Yes,Debit Card,4.9,Recovered
+P1586,2025-05-20,2025-05-24,Emergency,Dr. Khan,Male,51,Emergency,Severe Fever,Observation,Elective,4,Semi-Private,12586.09,No,Debit Card,3.8,Recovered
+P1587,2025-04-03,2025-04-16,Emergency,Dr. Khan,Male,1,OPD,Accident Injury,Surgery,Elective,13,General,41807.23,Yes,UPI,4.8,Recovered
+P1588,2025-10-25,2025-11-06,Emergency,Dr. Thomas,Female,47,Emergency,Breathing Difficulty,Observation,Elective,12,General,24948.53,Yes,UPI,4.9,Recovered
+P1589,2025-10-28,2025-11-03,Oncology,Dr. Chavan,Female,22,OPD,Breast Cancer,Chemotherapy,Emergency,6,ICU,94835.12,No,Credit Card,1.7,Recovered
+P1590,2025-05-26,2025-06-05,Emergency,Dr. Khan,Male,65,OPD,Chest Pain,Therapy,Elective,10,Private,53324.19,Yes,Insurance,4.5,Recovered
+P1591,2025-12-05,2025-12-10,General Medicine,Dr. Verma,Male,59,OPD,Fever,Chemotherapy,Elective,5,Private,47155.69,Yes,Credit Card,3.4,Recovered
+P1592,2025-02-26,2025-03-03,General Medicine,Dr. Verma,Male,31,OPD,Viral Infection,Surgery,Emergency,5,Private,45571.61,Yes,Debit Card,3.7,Follow-up
+P1593,2025-11-25,2025-12-04,Pediatrics,Dr. Iyer,Male,32,OPD,Fever,Chemotherapy,Elective,9,ICU,131217.71,No,Debit Card,3.8,Recovered
+P1594,2025-12-14,2025-12-15,Neurology,Dr. Kapoor,Female,11,OPD,Epilepsy,Therapy,Elective,1,Semi-Private,8116.86,No,Cash,5.0,Recovered
+P1595,2025-05-19,2025-05-20,Emergency,Dr. Khan,Male,52,Emergency,Breathing Difficulty,Observation,Elective,1,General,800.0,Yes,Debit Card,3.8,Under Treatment
+P1596,2025-10-07,2025-10-13,Dermatology,Dr. Kulkarni,Male,5,OPD,Skin Allergy,Observation,Elective,6,General,13220.98,Yes,Cash,4.0,Recovered
+P1597,2025-01-14,2025-01-17,Emergency,Dr. Khan,Male,1,OPD,Breathing Difficulty,Observation,Emergency,3,Semi-Private,10731.18,Yes,Insurance,4.3,Follow-up
+P1598,2025-08-12,2025-08-16,Orthopedics,Dr. Patil,Female,71,OPD,Arthritis,Chemotherapy,Emergency,4,General,28287.56,No,Cash,3.7,Recovered
+P1599,2025-01-08,2025-01-12,General Medicine,Dr. Singh,Female,15,Emergency,Hypertension,Therapy,Elective,4,General,11294.58,Yes,Insurance,3.3,Recovered
+P1600,2025-05-22,2025-05-25,Cardiology,Dr. Sharma,Female,77,OPD,Heart Disease,Medication,Emergency,3,General,5238.69,No,Debit Card,4.4,Transferred
+P1601,2025-08-03,2025-08-06,ENT,Dr. Mishra,Male,85,OPD,Ear Infection,Therapy,Elective,3,General,10516.62,Yes,Insurance,3.1,Transferred
+P1602,2025-10-05,2025-10-18,Emergency,Dr. Thomas,Male,37,OPD,Accident Injury,Minor Procedure,Elective,13,General,29507.43,Yes,Insurance,4.0,Under Treatment
+P1603,2025-09-01,2025-09-07,Cardiology,Dr. Mehta,Male,45,Emergency,Heart Disease,Surgery,Elective,6,General,30085.02,No,Cash,3.8,Under Treatment
+P1604,2025-12-07,2025-12-16,Cardiology,Dr. Sharma,Male,25,OPD,Heart Disease,Minor Procedure,Elective,9,Semi-Private,32951.52,Yes,Insurance,3.1,Follow-up
+P1605,2025-05-14,2025-05-21,General Medicine,Dr. Singh,Male,47,Emergency,Viral Infection,Medication,Elective,7,General,15672.17,Yes,Insurance,3.2,Recovered
+P1606,2025-02-22,2025-03-02,Pediatrics,Dr. Iyer,Female,47,OPD,Dehydration,Chemotherapy,Elective,8,Semi-Private,45401.03,Yes,Insurance,4.8,Recovered
+P1607,2025-10-04,2025-10-13,Cardiology,Dr. Sharma,Female,2,Emergency,Chest Pain,Minor Procedure,Elective,9,General,23240.38,No,Cash,4.7,Recovered
+P1608,2025-09-17,2025-09-23,General Medicine,Dr. Verma,Male,54,OPD,Hypertension,Medication,Elective,6,General,13025.27,Yes,Insurance,3.1,Recovered
+P1609,2025-03-23,2025-04-01,Emergency,Dr. Khan,Male,38,OPD,Chest Pain,Surgery,Elective,9,Private,61192.69,Yes,Insurance,4.3,Recovered
+P1610,2025-07-12,2025-07-22,General Medicine,Dr. Verma,Male,28,Emergency,Viral Infection,Minor Procedure,Elective,10,Private,58013.35,Yes,Insurance,3.4,Recovered
+P1611,2025-11-26,2025-12-01,Oncology,Dr. Chavan,Female,37,OPD,Lung Cancer,Surgery,Elective,5,General,26557.86,No,Debit Card,4.8,Recovered
+P1612,2025-04-06,2025-04-16,Neurology,Dr. Rao,Male,42,Emergency,Neuropathy,Chemotherapy,Elective,10,General,41068.07,Yes,Insurance,3.6,Follow-up
+P1613,2025-05-23,2025-05-24,Emergency,Dr. Khan,Female,17,OPD,Accident Injury,Medication,Emergency,1,General,800.0,Yes,Insurance,3.4,Recovered
+P1614,2025-07-05,2025-07-09,Orthopedics,Dr. Patil,Female,55,Emergency,Fracture,Observation,Elective,4,General,9277.21,Yes,Credit Card,3.3,Recovered
+P1615,2025-01-28,2025-01-31,Orthopedics,Dr. Patil,Male,31,Emergency,Joint Pain,Surgery,Elective,3,Private,33060.54,Yes,Insurance,4.3,Recovered
+P1616,2025-09-17,2025-09-25,Orthopedics,Dr. Patil,Male,18,OPD,Arthritis,Observation,Emergency,8,Private,40154.6,Yes,Insurance,2.4,Recovered
+P1617,2025-04-12,2025-04-20,Dermatology,Dr. Shah,Male,75,Emergency,Eczema,Therapy,Emergency,8,Semi-Private,28536.81,Yes,Debit Card,4.7,Transferred
+P1618,2025-02-13,2025-02-15,Cardiology,Dr. Sharma,Male,38,OPD,Arrhythmia,Minor Procedure,Elective,2,General,11409.68,Yes,Debit Card,4.8,Recovered
+P1619,2025-07-07,2025-07-19,Emergency,Dr. Khan,Female,42,OPD,Breathing Difficulty,Chemotherapy,Emergency,12,General,45277.6,Yes,Insurance,3.4,Recovered
+P1620,2025-03-02,2025-03-05,Neurology,Dr. Rao,Female,32,OPD,Neuropathy,Minor Procedure,Elective,3,ICU,41251.1,No,Debit Card,3.5,Recovered
+P1621,2025-03-08,2025-03-20,Dermatology,Dr. Kulkarni,Male,41,Emergency,Eczema,Chemotherapy,Emergency,12,General,41830.6,Yes,Insurance,4.2,Under Treatment
+P1622,2025-02-28,2025-03-05,Gynecology,Dr. Nair,Male,8,OPD,Pregnancy Care,Surgery,Elective,5,General,28316.37,No,Debit Card,3.6,Recovered
+P1623,2025-12-31,2026-01-06,General Medicine,Dr. Verma,Female,40,OPD,Diabetes,Medication,Elective,6,Semi-Private,18719.24,Yes,Insurance,4.0,Recovered
+P1624,2025-04-03,2025-04-09,Emergency,Dr. Khan,Female,33,OPD,Breathing Difficulty,Surgery,Elective,6,Semi-Private,36141.22,No,UPI,2.9,Recovered
+P1625,2025-03-21,2025-03-28,Gynecology,Dr. Nair,Female,12,Emergency,PCOS,Observation,Emergency,7,Semi-Private,23542.94,Yes,Insurance,4.7,Recovered
+P1626,2025-08-04,2025-08-18,Dermatology,Dr. Kulkarni,Female,15,Emergency,Skin Allergy,Chemotherapy,Emergency,14,Private,95200.29,No,Debit Card,4.1,Under Treatment
+P1627,2025-06-18,2025-06-21,Cardiology,Dr. Mehta,Female,51,OPD,Arrhythmia,Minor Procedure,Elective,3,Semi-Private,14589.42,No,Debit Card,3.7,Follow-up
+P1628,2025-04-29,2025-05-07,ENT,Dr. Bansal,Female,41,OPD,Sinusitis,Therapy,Elective,8,Private,43638.51,No,Credit Card,5.0,Recovered
+P1629,2025-11-29,2025-12-12,Gynecology,Dr. Nair,Male,44,Emergency,Anemia,Surgery,Emergency,13,Private,83984.2,No,Cash,4.0,Follow-up
+P1630,2025-08-18,2025-09-01,Emergency,Dr. Thomas,Female,40,Emergency,Breathing Difficulty,Observation,Elective,14,Private,72442.28,No,Debit Card,2.9,Recovered
+P1631,2025-11-30,2025-12-02,ENT,Dr. Bansal,Female,23,OPD,Tonsillitis,Observation,Elective,2,Semi-Private,6938.39,No,UPI,3.5,Recovered
+P1632,2025-09-15,2025-09-16,Neurology,Dr. Kapoor,Female,48,Emergency,Stroke,Chemotherapy,Emergency,1,Semi-Private,24368.22,No,Cash,4.2,Transferred
+P1633,2025-01-25,2025-01-29,General Medicine,Dr. Singh,Female,74,OPD,Diabetes,Chemotherapy,Emergency,4,Private,43960.97,Yes,Insurance,4.3,Recovered
+P1634,2025-04-14,2025-04-20,ENT,Dr. Mishra,Female,33,OPD,Hearing Problem,Therapy,Elective,6,Private,32446.28,Yes,Insurance,4.3,Recovered
+P1635,2025-10-07,2025-10-16,Gynecology,Dr. Gupta,Female,13,OPD,Anemia,Observation,Elective,9,Semi-Private,28872.65,No,Cash,4.7,Follow-up
+P1636,2025-05-30,2025-06-13,Dermatology,Dr. Kulkarni,Male,76,Emergency,Psoriasis,Chemotherapy,Emergency,14,General,48250.35,Yes,Debit Card,4.9,Recovered
+P1637,2025-08-05,2025-08-07,Oncology,Dr. Reddy,Male,10,OPD,Lung Cancer,Observation,Elective,2,Semi-Private,9156.86,Yes,Insurance,4.4,Follow-up
+P1638,2025-12-07,2025-12-09,General Medicine,Dr. Verma,Female,79,OPD,Fever,Minor Procedure,Emergency,2,Semi-Private,12230.8,No,Cash,4.8,Recovered
+P1639,2025-01-20,2025-01-26,Oncology,Dr. Chavan,Male,82,Emergency,Breast Cancer,Therapy,Emergency,6,General,14660.04,No,UPI,4.7,Follow-up
+P1640,2025-03-09,2025-03-23,Gynecology,Dr. Gupta,Male,19,Emergency,Pregnancy Care,Chemotherapy,Elective,14,ICU,188915.37,Yes,Insurance,5.0,Follow-up
+P1641,2025-04-16,2025-04-24,Pediatrics,Dr. Joshi,Female,51,OPD,Fever,Chemotherapy,Emergency,8,General,37235.28,Yes,Insurance,3.9,Recovered
+P1642,2025-01-26,2025-02-03,Pediatrics,Dr. Joshi,Male,84,OPD,Infection,Chemotherapy,Elective,8,Semi-Private,46150.76,No,UPI,4.2,Recovered
+P1643,2025-10-22,2025-10-28,Orthopedics,Dr. Deshmukh,Female,59,OPD,Back Pain,Surgery,Elective,6,Semi-Private,37070.17,Yes,Insurance,4.2,Recovered
+P1644,2025-11-16,2025-11-25,Dermatology,Dr. Kulkarni,Female,51,OPD,Psoriasis,Medication,Elective,9,Private,47201.29,No,Cash,3.5,Recovered
+P1645,2025-04-28,2025-05-06,General Medicine,Dr. Verma,Female,18,OPD,Diabetes,Surgery,Emergency,8,Private,60386.58,Yes,Insurance,5.0,Recovered
+P1646,2025-06-16,2025-06-17,Orthopedics,Dr. Patil,Female,44,OPD,Joint Pain,Minor Procedure,Emergency,1,General,8914.62,Yes,Insurance,4.4,Recovered
+P1647,2025-10-31,2025-11-01,Cardiology,Dr. Sharma,Male,56,OPD,Heart Disease,Chemotherapy,Elective,1,Private,29466.87,No,UPI,3.9,Recovered
+P1648,2025-02-24,2025-02-28,ENT,Dr. Mishra,Male,51,OPD,Hearing Problem,Chemotherapy,Emergency,4,General,28943.59,Yes,Credit Card,2.6,Recovered
+P1649,2025-09-07,2025-09-12,Emergency,Dr. Thomas,Female,50,OPD,Chest Pain,Medication,Emergency,5,General,8500.12,Yes,Insurance,3.2,Recovered
+P1650,2025-02-16,2025-02-18,Emergency,Dr. Khan,Male,41,OPD,Severe Fever,Chemotherapy,Elective,2,ICU,43843.85,Yes,Insurance,4.0,Recovered
+P1651,2025-03-06,2025-03-10,ENT,Dr. Mishra,Female,32,Emergency,Tonsillitis,Minor Procedure,Emergency,4,General,13127.54,Yes,Debit Card,3.7,Recovered
+P1652,2025-02-03,2025-02-04,ENT,Dr. Mishra,Male,33,OPD,Sinusitis,Minor Procedure,Elective,1,Private,12429.72,No,Debit Card,4.1,Recovered
+P1653,2025-06-04,2025-06-12,Dermatology,Dr. Kulkarni,Female,42,OPD,Psoriasis,Observation,Elective,8,Semi-Private,24049.67,No,Cash,4.4,Under Treatment
+P1654,2025-11-21,2025-11-27,Orthopedics,Dr. Patil,Female,25,OPD,Back Pain,Therapy,Elective,6,Semi-Private,23175.93,No,Debit Card,4.8,Recovered
+P1655,2025-02-02,2025-02-13,Pediatrics,Dr. Joshi,Male,43,Emergency,Asthma,Observation,Elective,11,Private,52837.63,Yes,Insurance,3.9,Follow-up
+P1656,2025-05-14,2025-05-20,ENT,Dr. Bansal,Male,57,OPD,Sinusitis,Surgery,Emergency,6,Semi-Private,35632.37,No,Cash,2.9,Recovered
+P1657,2025-10-04,2025-10-07,General Medicine,Dr. Singh,Male,73,OPD,Hypertension,Chemotherapy,Elective,3,Private,36148.03,Yes,Debit Card,3.9,Recovered
+P1658,2025-09-23,2025-09-28,Orthopedics,Dr. Patil,Female,20,OPD,Back Pain,Minor Procedure,Elective,5,General,17503.65,Yes,Insurance,4.2,Recovered
+P1659,2025-02-25,2025-03-03,General Medicine,Dr. Singh,Female,33,Emergency,Hypertension,Observation,Emergency,6,Private,31543.8,No,Debit Card,4.3,Recovered
+P1660,2025-02-11,2025-02-12,ENT,Dr. Mishra,Male,56,OPD,Ear Infection,Surgery,Elective,1,Semi-Private,20917.27,No,Cash,4.0,Recovered
+P1661,2025-02-05,2025-02-07,Pediatrics,Dr. Joshi,Female,31,OPD,Dehydration,Surgery,Emergency,2,Private,27775.17,Yes,Insurance,3.4,Follow-up
+P1662,2025-10-25,2025-10-29,Oncology,Dr. Reddy,Female,16,OPD,Leukemia,Therapy,Emergency,4,General,11674.68,No,UPI,4.2,Recovered
+P1663,2025-04-25,2025-05-08,Dermatology,Dr. Kulkarni,Female,53,Emergency,Acne,Therapy,Emergency,13,General,29031.66,Yes,Debit Card,5.0,Recovered
+P1664,2025-05-17,2025-05-26,Oncology,Dr. Chavan,Male,33,OPD,Leukemia,Medication,Emergency,9,Semi-Private,26007.41,No,Debit Card,4.2,Follow-up
+P1665,2025-06-05,2025-06-12,Emergency,Dr. Thomas,Female,17,OPD,Accident Injury,Therapy,Elective,7,Private,39898.13,Yes,Insurance,4.0,Recovered
+P1666,2025-04-16,2025-04-24,General Medicine,Dr. Singh,Female,5,OPD,Fever,Minor Procedure,Elective,8,Semi-Private,29549.4,Yes,Credit Card,4.5,Recovered
+P1667,2025-06-16,2025-06-21,Oncology,Dr. Reddy,Male,36,OPD,Breast Cancer,Chemotherapy,Elective,5,Private,44953.34,Yes,Insurance,4.7,Recovered
+P1668,2025-03-29,2025-03-30,Pediatrics,Dr. Iyer,Male,26,OPD,Infection,Observation,Emergency,1,General,2985.46,Yes,Insurance,3.9,Recovered
+P1669,2025-11-06,2025-11-12,Oncology,Dr. Reddy,Male,40,OPD,Breast Cancer,Surgery,Elective,6,Private,46813.52,Yes,Insurance,2.9,Under Treatment
+P1670,2025-11-12,2025-11-14,Oncology,Dr. Chavan,Female,70,Emergency,Lymphoma,Minor Procedure,Elective,2,ICU,28732.81,Yes,UPI,3.3,Follow-up
+P1671,2025-10-31,2025-11-09,Dermatology,Dr. Kulkarni,Female,34,OPD,Skin Allergy,Observation,Emergency,9,Semi-Private,28711.33,Yes,Insurance,4.2,Recovered
+P1672,2025-09-10,2025-09-12,ENT,Dr. Mishra,Male,46,Emergency,Tonsillitis,Medication,Emergency,2,Semi-Private,4803.52,Yes,Debit Card,3.8,Follow-up
+P1673,2025-11-21,2025-11-27,Pediatrics,Dr. Iyer,Female,80,OPD,Fever,Observation,Emergency,6,Semi-Private,19076.08,No,Credit Card,3.7,Recovered
+P1674,2025-06-01,2025-06-15,Orthopedics,Dr. Deshmukh,Female,54,Emergency,Back Pain,Medication,Emergency,14,General,25276.85,Yes,Insurance,4.0,Recovered
+P1675,2025-08-08,2025-08-10,Dermatology,Dr. Kulkarni,Male,1,OPD,Eczema,Minor Procedure,Elective,2,ICU,29784.46,No,Cash,3.5,Recovered
+P1676,2025-03-06,2025-03-07,Neurology,Dr. Rao,Male,1,Emergency,Epilepsy,Surgery,Emergency,1,Semi-Private,21286.16,Yes,Insurance,5.0,Recovered
+P1677,2025-09-26,2025-10-08,Emergency,Dr. Thomas,Female,31,OPD,Accident Injury,Observation,Elective,12,General,23364.14,Yes,UPI,3.9,Transferred
+P1678,2025-03-16,2025-03-19,Cardiology,Dr. Sharma,Male,53,OPD,Arrhythmia,Minor Procedure,Elective,3,General,10516.72,Yes,UPI,3.8,Recovered
+P1679,2025-04-16,2025-04-21,Dermatology,Dr. Shah,Female,21,OPD,Eczema,Surgery,Emergency,5,Private,44517.3,Yes,Insurance,4.5,Follow-up
+P1680,2025-06-08,2025-06-18,ENT,Dr. Bansal,Male,75,Emergency,Hearing Problem,Medication,Elective,10,Private,51576.55,Yes,UPI,3.3,Recovered
+P1681,2025-05-26,2025-06-05,Emergency,Dr. Khan,Male,7,Emergency,Accident Injury,Surgery,Emergency,10,Private,66808.24,Yes,Insurance,4.8,Recovered
+P1682,2025-09-19,2025-09-24,ENT,Dr. Bansal,Male,30,OPD,Tonsillitis,Chemotherapy,Emergency,5,General,32427.07,Yes,Insurance,4.5,Follow-up
+P1683,2025-02-21,2025-02-22,Orthopedics,Dr. Patil,Female,21,Emergency,Back Pain,Therapy,Elective,1,Private,10481.58,No,UPI,4.1,Recovered
+P1684,2025-04-04,2025-04-07,General Medicine,Dr. Singh,Male,46,Emergency,Diabetes,Therapy,Emergency,3,Semi-Private,14070.07,No,Credit Card,4.6,Recovered
+P1685,2025-03-08,2025-03-16,Gynecology,Dr. Gupta,Male,67,OPD,Hormonal Disorder,Medication,Elective,8,General,15715.8,Yes,Insurance,4.8,Recovered
+P1686,2025-08-09,2025-08-14,Gynecology,Dr. Gupta,Female,55,Emergency,Hormonal Disorder,Surgery,Emergency,5,ICU,79322.09,Yes,Credit Card,4.3,Recovered
+P1687,2025-02-05,2025-02-17,Emergency,Dr. Khan,Male,63,Emergency,Breathing Difficulty,Medication,Emergency,12,General,21375.92,Yes,Insurance,4.8,Recovered
+P1688,2025-05-10,2025-05-11,Pediatrics,Dr. Joshi,Male,68,OPD,Dehydration,Minor Procedure,Emergency,1,General,5552.39,No,Debit Card,5.0,Recovered
+P1689,2025-03-31,2025-04-03,Orthopedics,Dr. Deshmukh,Female,16,Emergency,Fracture,Therapy,Emergency,3,General,11255.82,No,Credit Card,3.1,Recovered
+P1690,2025-02-21,2025-02-22,Pediatrics,Dr. Joshi,Female,33,OPD,Asthma,Chemotherapy,Elective,1,Private,27747.72,Yes,Insurance,3.2,Recovered
+P1691,2025-06-27,2025-07-10,Emergency,Dr. Thomas,Male,26,OPD,Breathing Difficulty,Minor Procedure,Emergency,13,Semi-Private,44360.84,No,Debit Card,3.7,Recovered
+P1692,2025-09-25,2025-09-28,Pediatrics,Dr. Iyer,Female,52,Emergency,Asthma,Chemotherapy,Elective,3,Semi-Private,29335.01,No,Cash,5.0,Follow-up
+P1693,2025-11-20,2025-11-29,Dermatology,Dr. Shah,Female,51,OPD,Eczema,Minor Procedure,Elective,9,ICU,115197.14,Yes,Insurance,5.0,Recovered
+P1694,2025-11-14,2025-11-21,Orthopedics,Dr. Patil,Male,41,OPD,Fracture,Therapy,Emergency,7,Private,39203.2,No,Credit Card,4.2,Follow-up
+P1695,2025-06-30,2025-07-07,Dermatology,Dr. Kulkarni,Male,27,OPD,Acne,Therapy,Emergency,7,Semi-Private,26914.1,Yes,Cash,3.4,Under Treatment
+P1696,2025-11-10,2025-11-15,Oncology,Dr. Reddy,Female,37,OPD,Lymphoma,Observation,Emergency,5,General,10641.25,Yes,Insurance,2.8,Recovered
+P1697,2025-01-30,2025-02-08,Oncology,Dr. Reddy,Male,38,OPD,Lymphoma,Chemotherapy,Elective,9,General,38782.02,Yes,Debit Card,2.8,Recovered
+P1698,2025-02-12,2025-02-22,Pediatrics,Dr. Joshi,Female,29,Emergency,Dehydration,Therapy,Elective,10,Private,51909.99,No,Cash,3.6,Recovered
+P1699,2025-09-03,2025-09-05,Emergency,Dr. Thomas,Female,39,Emergency,Accident Injury,Medication,Elective,2,General,6150.42,No,Cash,4.5,Recovered
+P1700,2025-03-27,2025-04-06,Cardiology,Dr. Mehta,Male,45,Emergency,Heart Disease,Observation,Elective,10,Private,51036.66,Yes,Insurance,4.7,Recovered
+P1701,2025-08-08,2025-08-10,Neurology,Dr. Kapoor,Male,44,OPD,Epilepsy,Minor Procedure,Elective,2,Semi-Private,11234.63,Yes,Insurance,4.1,Under Treatment
+P1702,2025-04-13,2025-04-21,Pediatrics,Dr. Iyer,Female,65,Emergency,Infection,Minor Procedure,Elective,8,Private,46542.52,Yes,UPI,3.1,Recovered
+P1703,2025-08-08,2025-08-13,Oncology,Dr. Reddy,Female,1,OPD,Lung Cancer,Chemotherapy,Elective,5,General,32793.79,No,Cash,4.1,Recovered
+P1704,2025-10-31,2025-11-04,Gynecology,Dr. Gupta,Female,45,OPD,Anemia,Surgery,Emergency,4,General,25764.95,No,Cash,3.7,Follow-up
+P1705,2025-06-24,2025-06-28,Oncology,Dr. Reddy,Male,37,OPD,Lung Cancer,Chemotherapy,Elective,4,General,29871.94,Yes,Insurance,3.3,Under Treatment
+P1706,2025-04-18,2025-04-23,Dermatology,Dr. Shah,Female,85,Emergency,Skin Allergy,Minor Procedure,Emergency,5,General,15525.0,Yes,Insurance,3.0,Follow-up
+P1707,2025-02-10,2025-02-19,Cardiology,Dr. Mehta,Female,48,OPD,Chest Pain,Surgery,Emergency,9,Semi-Private,45055.7,No,Cash,3.3,Recovered
+P1708,2025-04-26,2025-04-28,ENT,Dr. Bansal,Female,54,Emergency,Sinusitis,Chemotherapy,Emergency,2,Semi-Private,26764.76,Yes,Insurance,5.0,Recovered
+P1709,2025-07-31,2025-08-11,ENT,Dr. Bansal,Male,53,Emergency,Sinusitis,Medication,Elective,11,Semi-Private,34522.29,Yes,Insurance,5.0,Recovered
+P1710,2025-04-24,2025-04-29,General Medicine,Dr. Singh,Female,52,Emergency,Viral Infection,Medication,Elective,5,Private,27691.17,Yes,Insurance,3.0,Recovered
+P1711,2025-12-06,2025-12-13,ENT,Dr. Mishra,Male,44,OPD,Hearing Problem,Chemotherapy,Elective,7,Semi-Private,43620.34,Yes,Insurance,3.9,Transferred
+P1712,2025-11-02,2025-11-04,ENT,Dr. Bansal,Male,45,OPD,Tonsillitis,Observation,Emergency,2,General,6606.13,Yes,Insurance,4.5,Follow-up
+P1713,2025-05-12,2025-05-17,Dermatology,Dr. Shah,Female,43,OPD,Eczema,Chemotherapy,Elective,5,General,30583.65,Yes,Insurance,4.2,Follow-up
+P1714,2025-08-29,2025-09-01,Oncology,Dr. Chavan,Female,57,OPD,Breast Cancer,Observation,Elective,3,Private,16038.81,Yes,Insurance,3.6,Recovered
+P1715,2025-02-12,2025-02-14,ENT,Dr. Bansal,Male,60,OPD,Hearing Problem,Observation,Emergency,2,General,4992.4,Yes,Credit Card,3.2,Recovered
+P1716,2025-11-02,2025-11-15,General Medicine,Dr. Verma,Male,24,Emergency,Hypertension,Observation,Emergency,13,Private,64801.37,No,Credit Card,4.7,Under Treatment
+P1717,2025-08-19,2025-08-25,Gynecology,Dr. Nair,Male,69,Emergency,Hormonal Disorder,Chemotherapy,Elective,6,Semi-Private,42519.29,No,UPI,3.1,Recovered
+P1718,2025-10-10,2025-10-11,Oncology,Dr. Reddy,Female,63,OPD,Leukemia,Medication,Emergency,1,General,800.0,Yes,Insurance,3.8,Recovered
+P1719,2025-12-08,2025-12-22,Pediatrics,Dr. Iyer,Female,63,Emergency,Fever,Therapy,Elective,14,Private,76229.84,Yes,Insurance,3.4,Follow-up
+P1720,2025-12-19,2025-12-27,Neurology,Dr. Rao,Male,46,OPD,Epilepsy,Minor Procedure,Elective,8,Private,44358.19,Yes,Insurance,3.8,Recovered
+P1721,2025-12-22,2026-01-04,Gynecology,Dr. Nair,Female,64,Emergency,Hormonal Disorder,Surgery,Elective,13,Semi-Private,57510.99,No,Debit Card,3.6,Transferred
+P1722,2025-01-27,2025-02-02,Neurology,Dr. Rao,Male,38,OPD,Stroke,Minor Procedure,Elective,6,Semi-Private,23108.22,Yes,Insurance,3.1,Recovered
+P1723,2025-09-06,2025-09-10,Oncology,Dr. Chavan,Female,35,OPD,Leukemia,Medication,Elective,4,General,9440.33,Yes,Cash,3.2,Recovered
+P1724,2025-04-04,2025-04-12,Dermatology,Dr. Shah,Female,43,Emergency,Psoriasis,Therapy,Emergency,8,General,16939.68,Yes,Insurance,4.2,Transferred
+P1725,2025-10-18,2025-10-22,Gynecology,Dr. Gupta,Female,37,OPD,PCOS,Medication,Elective,4,Semi-Private,12580.11,Yes,Insurance,3.2,Follow-up
+P1726,2025-04-14,2025-04-21,Orthopedics,Dr. Patil,Male,57,Emergency,Joint Pain,Therapy,Emergency,7,Private,40033.43,Yes,Insurance,4.6,Transferred
+P1727,2025-06-06,2025-06-14,Gynecology,Dr. Nair,Male,24,OPD,Pregnancy Care,Minor Procedure,Emergency,8,Private,46108.37,No,Cash,5.0,Follow-up
+P1728,2025-04-18,2025-04-21,Cardiology,Dr. Sharma,Female,49,OPD,Chest Pain,Therapy,Emergency,3,Private,19160.35,Yes,UPI,4.0,Recovered
+P1729,2025-10-27,2025-11-05,Emergency,Dr. Khan,Female,20,Emergency,Accident Injury,Minor Procedure,Elective,9,General,22235.26,No,Cash,4.2,Recovered
+P1730,2025-08-26,2025-08-27,Dermatology,Dr. Kulkarni,Female,53,OPD,Acne,Medication,Emergency,1,ICU,10860.83,Yes,Cash,3.4,Recovered
+P1731,2025-12-05,2025-12-06,Emergency,Dr. Thomas,Female,41,OPD,Accident Injury,Minor Procedure,Emergency,1,Private,11982.52,Yes,Credit Card,3.4,Recovered
+P1732,2025-03-28,2025-03-30,Dermatology,Dr. Shah,Male,38,OPD,Psoriasis,Chemotherapy,Emergency,2,Private,31490.08,No,Cash,3.9,Transferred
+P1733,2025-10-13,2025-10-15,ENT,Dr. Mishra,Female,51,OPD,Tonsillitis,Minor Procedure,Emergency,2,General,9908.69,No,Cash,4.4,Recovered
+P1734,2025-04-18,2025-05-02,ENT,Dr. Mishra,Male,38,Emergency,Ear Infection,Medication,Elective,14,ICU,168206.96,Yes,Insurance,3.0,Recovered
+P1735,2025-05-29,2025-05-31,Pediatrics,Dr. Joshi,Male,14,Emergency,Infection,Medication,Elective,2,ICU,23370.54,No,Credit Card,3.2,Follow-up
+P1736,2025-04-08,2025-04-12,Cardiology,Dr. Sharma,Female,46,OPD,Heart Disease,Surgery,Emergency,4,General,24296.16,Yes,Cash,3.9,Follow-up
+P1737,2025-10-23,2025-11-04,Emergency,Dr. Thomas,Female,32,Emergency,Breathing Difficulty,Minor Procedure,Elective,12,ICU,151345.43,Yes,Insurance,4.2,Follow-up
+P1738,2025-06-06,2025-06-12,Neurology,Dr. Rao,Female,21,Emergency,Migraine,Surgery,Elective,6,Private,47671.17,No,Credit Card,4.2,Recovered
+P1739,2025-01-05,2025-01-14,Gynecology,Dr. Nair,Female,54,OPD,Pregnancy Care,Medication,Elective,9,Semi-Private,27748.96,Yes,Insurance,3.6,Recovered
+P1740,2025-11-27,2025-12-04,Cardiology,Dr. Mehta,Female,25,Emergency,Chest Pain,Medication,Emergency,7,Private,35192.04,Yes,Insurance,4.2,Recovered
+P1741,2025-12-25,2026-01-01,Dermatology,Dr. Shah,Female,63,OPD,Acne,Therapy,Elective,7,General,16289.33,No,Debit Card,4.9,Recovered
+P1742,2025-10-19,2025-10-21,Emergency,Dr. Thomas,Female,59,Emergency,Chest Pain,Chemotherapy,Elective,2,General,26277.71,Yes,Insurance,4.1,Recovered
+P1743,2025-05-26,2025-06-01,Dermatology,Dr. Shah,Female,34,OPD,Eczema,Minor Procedure,Emergency,6,General,17725.4,Yes,Insurance,5.0,Under Treatment
+P1744,2025-06-17,2025-06-19,Gynecology,Dr. Nair,Male,55,Emergency,Hormonal Disorder,Therapy,Emergency,2,General,7712.2,No,UPI,4.2,Follow-up
+P1745,2025-03-22,2025-03-23,Emergency,Dr. Khan,Male,25,Emergency,Chest Pain,Chemotherapy,Elective,1,Private,28012.43,Yes,UPI,3.2,Recovered
+P1746,2025-07-31,2025-08-06,Cardiology,Dr. Mehta,Male,44,OPD,Chest Pain,Surgery,Elective,6,General,30032.46,Yes,Insurance,3.6,Recovered
+P1747,2025-02-24,2025-03-03,Oncology,Dr. Reddy,Male,57,OPD,Leukemia,Medication,Emergency,7,General,12669.85,Yes,Insurance,3.7,Under Treatment
+P1748,2025-01-27,2025-01-30,Dermatology,Dr. Shah,Female,51,OPD,Eczema,Therapy,Elective,3,General,10054.14,No,UPI,3.6,Recovered
+P1749,2025-05-26,2025-05-27,Cardiology,Dr. Mehta,Female,46,OPD,Hypertension,Medication,Elective,1,General,1578.83,No,Cash,3.7,Recovered
+P1750,2025-11-14,2025-11-28,Pediatrics,Dr. Iyer,Female,56,Emergency,Dehydration,Therapy,Elective,14,Private,74540.58,Yes,Debit Card,4.5,Under Treatment
+P1751,2025-07-10,2025-07-18,Pediatrics,Dr. Joshi,Female,77,OPD,Infection,Surgery,Elective,8,General,33868.33,Yes,Insurance,4.6,Recovered
+P1752,2025-03-12,2025-03-13,Cardiology,Dr. Sharma,Female,49,OPD,Hypertension,Surgery,Emergency,1,General,20500.66,Yes,UPI,4.9,Recovered
+P1753,2025-07-20,2025-07-22,Oncology,Dr. Chavan,Female,85,OPD,Lung Cancer,Minor Procedure,Elective,2,ICU,31146.84,Yes,Insurance,3.9,Under Treatment
+P1754,2025-02-16,2025-02-25,Dermatology,Dr. Kulkarni,Male,57,Emergency,Psoriasis,Therapy,Elective,9,General,20478.85,Yes,Insurance,3.9,Recovered
+P1755,2025-03-31,2025-04-02,Gynecology,Dr. Gupta,Female,44,OPD,Pregnancy Care,Chemotherapy,Elective,2,Semi-Private,28367.62,Yes,Insurance,4.8,Transferred
+P1756,2025-04-15,2025-04-17,Oncology,Dr. Reddy,Female,18,OPD,Leukemia,Medication,Elective,2,Private,12016.19,Yes,Debit Card,3.2,Recovered
+P1757,2025-06-27,2025-07-01,Oncology,Dr. Chavan,Male,13,OPD,Leukemia,Minor Procedure,Emergency,4,General,11913.13,Yes,Insurance,4.5,Follow-up
+P1758,2025-09-02,2025-09-10,Cardiology,Dr. Sharma,Male,52,OPD,Hypertension,Surgery,Elective,8,General,33443.16,Yes,Insurance,3.3,Recovered
+P1759,2025-02-12,2025-02-21,Gynecology,Dr. Gupta,Female,53,OPD,Anemia,Medication,Elective,9,ICU,110888.25,Yes,Cash,3.8,Recovered
+P1760,2025-08-04,2025-08-18,Neurology,Dr. Kapoor,Female,25,Emergency,Stroke,Therapy,Elective,14,Private,74471.05,No,Debit Card,4.4,Follow-up
+P1761,2025-01-04,2025-01-05,Oncology,Dr. Chavan,Male,45,Emergency,Lung Cancer,Therapy,Elective,1,General,5278.58,No,Credit Card,4.2,Follow-up
+P1762,2025-02-25,2025-03-11,Emergency,Dr. Khan,Female,39,Emergency,Breathing Difficulty,Surgery,Emergency,14,General,42162.69,Yes,UPI,5.0,Recovered
+P1763,2025-07-12,2025-07-21,ENT,Dr. Mishra,Female,61,Emergency,Tonsillitis,Surgery,Elective,9,Private,62542.63,Yes,Debit Card,3.5,Recovered
+P1764,2025-12-19,2025-12-31,Pediatrics,Dr. Iyer,Male,30,Emergency,Dehydration,Chemotherapy,Elective,12,Private,83070.0,Yes,Insurance,3.3,Recovered
+P1765,2025-06-06,2025-06-15,Pediatrics,Dr. Iyer,Female,29,Emergency,Dehydration,Minor Procedure,Elective,9,Private,50997.78,Yes,Credit Card,3.4,Under Treatment
+P1766,2025-02-28,2025-03-03,Neurology,Dr. Rao,Male,48,OPD,Migraine,Observation,Elective,3,General,7835.03,Yes,Insurance,4.5,Recovered
+P1767,2025-03-05,2025-03-10,Neurology,Dr. Rao,Female,70,OPD,Stroke,Observation,Emergency,5,Private,25115.84,Yes,Insurance,5.0,Follow-up
+P1768,2025-11-17,2025-11-23,Emergency,Dr. Khan,Female,24,OPD,Severe Fever,Medication,Emergency,6,General,11749.51,No,Debit Card,4.4,Follow-up
+P1769,2025-04-18,2025-04-23,Orthopedics,Dr. Patil,Male,27,Emergency,Back Pain,Chemotherapy,Elective,5,Private,48302.49,Yes,Cash,4.7,Follow-up
+P1770,2025-01-18,2025-01-27,Pediatrics,Dr. Joshi,Male,61,OPD,Dehydration,Chemotherapy,Emergency,9,General,38268.92,No,Cash,4.4,Follow-up
+P1771,2025-08-27,2025-09-02,Oncology,Dr. Reddy,Male,67,OPD,Leukemia,Chemotherapy,Emergency,6,Private,51490.25,Yes,UPI,4.8,Recovered
+P1772,2025-07-11,2025-07-17,General Medicine,Dr. Verma,Female,41,Emergency,Hypertension,Therapy,Emergency,6,ICU,75459.06,Yes,Insurance,4.0,Under Treatment
+P1773,2025-03-19,2025-03-23,Orthopedics,Dr. Patil,Male,24,OPD,Joint Pain,Chemotherapy,Elective,4,General,30194.76,Yes,Insurance,3.1,Recovered
+P1774,2025-01-19,2025-01-21,Orthopedics,Dr. Deshmukh,Male,33,OPD,Arthritis,Minor Procedure,Emergency,2,Private,15510.73,Yes,Insurance,3.8,Recovered
+P1775,2025-03-20,2025-03-25,ENT,Dr. Bansal,Male,64,OPD,Sinusitis,Minor Procedure,Elective,5,General,16935.64,Yes,Insurance,3.6,Recovered
+P1776,2025-08-24,2025-09-07,Orthopedics,Dr. Deshmukh,Female,60,Emergency,Joint Pain,Surgery,Elective,14,Semi-Private,58907.67,Yes,Insurance,3.9,Under Treatment
+P1777,2025-08-18,2025-08-24,Cardiology,Dr. Mehta,Male,8,Emergency,Chest Pain,Minor Procedure,Emergency,6,General,18919.34,Yes,Insurance,5.0,Recovered
+P1778,2025-11-27,2025-12-08,Neurology,Dr. Rao,Female,64,Emergency,Epilepsy,Surgery,Elective,11,ICU,149621.49,Yes,Cash,3.2,Follow-up
+P1779,2025-01-18,2025-01-24,Neurology,Dr. Kapoor,Female,19,OPD,Stroke,Observation,Elective,6,General,11797.69,No,Credit Card,3.8,Follow-up
+P1780,2025-11-22,2025-11-30,Pediatrics,Dr. Joshi,Female,56,OPD,Fever,Chemotherapy,Elective,8,Private,62930.18,Yes,Insurance,3.6,Recovered
+P1781,2025-09-22,2025-09-29,ENT,Dr. Mishra,Male,51,Emergency,Tonsillitis,Therapy,Elective,7,Semi-Private,26289.11,Yes,Insurance,2.8,Recovered
+P1782,2025-04-17,2025-04-27,Emergency,Dr. Khan,Female,58,OPD,Accident Injury,Observation,Elective,10,Semi-Private,32856.71,No,Credit Card,3.9,Recovered
+P1783,2025-01-13,2025-01-14,Emergency,Dr. Khan,Female,1,OPD,Breathing Difficulty,Medication,Elective,1,Private,4427.34,Yes,Insurance,4.6,Under Treatment
+P1784,2025-10-13,2025-10-17,Dermatology,Dr. Kulkarni,Male,54,Emergency,Eczema,Surgery,Elective,4,General,23511.54,Yes,Credit Card,2.8,Recovered
+P1785,2025-06-22,2025-06-30,Neurology,Dr. Rao,Male,63,Emergency,Neuropathy,Surgery,Elective,8,General,30379.55,Yes,Insurance,3.2,Recovered
+P1786,2025-12-24,2025-12-26,Gynecology,Dr. Gupta,Male,54,Emergency,Hormonal Disorder,Therapy,Elective,2,General,6216.73,Yes,Insurance,3.6,Recovered
+P1787,2025-07-26,2025-08-02,Orthopedics,Dr. Deshmukh,Female,26,OPD,Back Pain,Therapy,Elective,7,Semi-Private,27324.11,No,Cash,3.8,Recovered
+P1788,2025-04-20,2025-04-28,Orthopedics,Dr. Deshmukh,Male,76,OPD,Joint Pain,Observation,Elective,8,Private,43617.23,Yes,Credit Card,3.2,Recovered
+P1789,2025-12-19,2025-12-24,Neurology,Dr. Rao,Female,17,OPD,Neuropathy,Minor Procedure,Elective,5,General,14656.06,No,Debit Card,5.0,Recovered
+P1790,2025-03-14,2025-03-22,General Medicine,Dr. Verma,Female,14,OPD,Diabetes,Surgery,Elective,8,Private,56555.3,No,UPI,4.2,Recovered
+P1791,2025-11-08,2025-11-15,Emergency,Dr. Khan,Male,21,OPD,Breathing Difficulty,Chemotherapy,Elective,7,Private,57419.55,Yes,Credit Card,4.8,Recovered
+P1792,2025-10-28,2025-10-31,Neurology,Dr. Kapoor,Male,35,OPD,Epilepsy,Observation,Emergency,3,Private,15459.74,Yes,Insurance,4.0,Transferred
+P1793,2025-07-02,2025-07-11,ENT,Dr. Bansal,Male,43,OPD,Tonsillitis,Minor Procedure,Elective,9,General,23022.74,No,Cash,4.7,Recovered
+P1794,2025-07-30,2025-08-09,ENT,Dr. Mishra,Female,80,Emergency,Tonsillitis,Surgery,Elective,10,Private,66584.57,Yes,Insurance,4.3,Recovered
+P1795,2025-07-22,2025-07-24,General Medicine,Dr. Singh,Male,89,OPD,Fever,Chemotherapy,Emergency,2,Private,32291.78,No,Credit Card,3.6,Under Treatment
+P1796,2025-10-03,2025-10-04,Dermatology,Dr. Kulkarni,Female,35,Emergency,Psoriasis,Therapy,Emergency,1,General,6095.76,No,Debit Card,4.2,Recovered
+P1797,2025-03-31,2025-04-07,Emergency,Dr. Thomas,Female,23,OPD,Chest Pain,Minor Procedure,Elective,7,General,17343.11,No,Cash,4.7,Recovered
+P1798,2025-08-27,2025-09-02,Orthopedics,Dr. Deshmukh,Female,51,OPD,Arthritis,Therapy,Elective,6,General,16848.52,No,Debit Card,3.2,Recovered
+P1799,2025-02-12,2025-02-13,Dermatology,Dr. Kulkarni,Male,63,OPD,Psoriasis,Minor Procedure,Emergency,1,Private,8946.25,Yes,Cash,4.8,Recovered
+P1800,2025-01-08,2025-01-15,Orthopedics,Dr. Patil,Male,33,Emergency,Arthritis,Observation,Elective,7,General,14206.44,Yes,Insurance,4.7,Follow-up
+P1801,2025-09-04,2025-09-18,Gynecology,Dr. Gupta,Male,56,Emergency,Anemia,Surgery,Emergency,14,General,41354.75,No,Debit Card,3.5,Follow-up
+P1802,2025-02-22,2025-03-03,Dermatology,Dr. Kulkarni,Male,2,Emergency,Eczema,Minor Procedure,Elective,9,Private,50023.16,Yes,Insurance,3.8,Recovered
+P1803,2025-08-31,2025-09-08,ENT,Dr. Mishra,Female,34,Emergency,Hearing Problem,Minor Procedure,Emergency,8,ICU,102212.11,No,UPI,4.6,Recovered
+P1804,2025-04-14,2025-04-23,Cardiology,Dr. Sharma,Male,66,OPD,Arrhythmia,Medication,Elective,9,Private,44899.18,No,Credit Card,4.4,Recovered
+P1805,2025-11-11,2025-11-14,ENT,Dr. Mishra,Male,78,OPD,Hearing Problem,Medication,Elective,3,General,6299.58,No,Cash,3.8,Recovered
+P1806,2025-04-01,2025-04-08,Orthopedics,Dr. Patil,Male,62,OPD,Back Pain,Chemotherapy,Emergency,7,General,34742.5,Yes,Insurance,3.4,Recovered
+P1807,2025-01-26,2025-02-09,Cardiology,Dr. Mehta,Female,39,Emergency,Arrhythmia,Medication,Elective,14,Private,69950.15,Yes,Insurance,3.8,Follow-up
+P1808,2025-10-05,2025-10-09,Neurology,Dr. Kapoor,Female,15,OPD,Migraine,Medication,Emergency,4,General,9400.66,No,UPI,5.0,Follow-up
+P1809,2025-08-03,2025-08-12,Pediatrics,Dr. Joshi,Male,51,OPD,Infection,Surgery,Elective,9,General,31869.0,No,Cash,3.9,Transferred
+P1810,2025-01-10,2025-01-11,Oncology,Dr. Reddy,Female,88,Emergency,Lung Cancer,Medication,Elective,1,General,4214.58,No,Cash,3.5,Recovered
+P1811,2025-01-10,2025-01-21,General Medicine,Dr. Singh,Female,31,Emergency,Diabetes,Observation,Elective,11,General,21578.51,Yes,Insurance,4.1,Recovered
+P1812,2025-11-17,2025-11-22,Oncology,Dr. Chavan,Female,42,OPD,Lymphoma,Chemotherapy,Elective,5,General,31139.4,Yes,Insurance,4.3,Recovered
+P1813,2025-12-31,2026-01-05,Orthopedics,Dr. Patil,Female,65,OPD,Joint Pain,Medication,Elective,5,General,9342.56,No,Debit Card,2.8,Under Treatment
+P1814,2025-06-16,2025-06-21,Cardiology,Dr. Mehta,Male,28,Emergency,Arrhythmia,Medication,Elective,5,General,9429.86,No,Debit Card,4.8,Follow-up
+P1815,2025-12-01,2025-12-02,Oncology,Dr. Reddy,Female,45,OPD,Lung Cancer,Observation,Emergency,1,Semi-Private,4463.77,Yes,Insurance,3.2,Recovered
+P1816,2025-08-10,2025-08-12,Pediatrics,Dr. Iyer,Male,47,OPD,Fever,Medication,Elective,2,Private,10785.75,Yes,Insurance,4.4,Recovered
+P1817,2025-11-16,2025-11-22,Dermatology,Dr. Shah,Male,45,OPD,Eczema,Surgery,Elective,6,General,26359.8,Yes,Insurance,4.1,Transferred
+P1818,2025-09-01,2025-09-02,Orthopedics,Dr. Patil,Male,32,Emergency,Joint Pain,Minor Procedure,Emergency,1,General,9638.86,No,Debit Card,4.3,Recovered
+P1819,2025-01-15,2025-01-17,ENT,Dr. Bansal,Male,29,OPD,Ear Infection,Observation,Emergency,2,Semi-Private,8915.3,No,Credit Card,3.9,Recovered
+P1820,2025-07-27,2025-08-09,Neurology,Dr. Rao,Female,69,Emergency,Migraine,Medication,Emergency,13,Semi-Private,41115.34,No,Cash,4.1,Follow-up
+P1821,2025-12-18,2025-12-21,ENT,Dr. Bansal,Female,53,OPD,Ear Infection,Therapy,Elective,3,Semi-Private,13042.71,Yes,UPI,3.7,Recovered
+P1822,2025-09-09,2025-09-13,Gynecology,Dr. Gupta,Male,7,OPD,PCOS,Chemotherapy,Emergency,4,General,29157.53,Yes,Insurance,3.9,Follow-up
+P1823,2025-02-21,2025-02-26,Neurology,Dr. Kapoor,Male,89,Emergency,Migraine,Medication,Elective,5,Private,28377.0,No,UPI,4.3,Recovered
+P1824,2025-01-16,2025-01-20,General Medicine,Dr. Singh,Male,25,Emergency,Fever,Minor Procedure,Emergency,4,Private,25885.82,Yes,Insurance,3.7,Under Treatment
+P1825,2025-07-09,2025-07-18,Emergency,Dr. Thomas,Female,28,OPD,Chest Pain,Medication,Emergency,9,General,18278.22,Yes,Insurance,2.5,Recovered
+P1826,2025-05-16,2025-05-25,Neurology,Dr. Rao,Male,38,OPD,Stroke,Chemotherapy,Elective,9,Semi-Private,50997.03,Yes,Insurance,3.7,Recovered
+P1827,2025-12-25,2025-12-29,Gynecology,Dr. Nair,Male,22,OPD,Pregnancy Care,Surgery,Elective,4,General,24179.68,Yes,Insurance,4.9,Recovered
+P1828,2025-11-12,2025-11-15,General Medicine,Dr. Verma,Male,38,OPD,Hypertension,Chemotherapy,Elective,3,Semi-Private,30506.25,No,Credit Card,3.6,Under Treatment
+P1829,2025-01-14,2025-01-23,Neurology,Dr. Kapoor,Male,4,Emergency,Stroke,Surgery,Emergency,9,Private,64296.39,Yes,UPI,4.0,Recovered
+P1830,2025-11-09,2025-11-16,Emergency,Dr. Thomas,Female,39,Emergency,Severe Fever,Medication,Emergency,7,General,13461.73,Yes,Credit Card,4.3,Recovered
+P1831,2025-05-30,2025-06-01,Gynecology,Dr. Gupta,Female,20,OPD,Pregnancy Care,Medication,Elective,2,General,2545.76,Yes,Insurance,2.6,Recovered
+P1832,2025-02-24,2025-03-06,Oncology,Dr. Chavan,Male,63,Emergency,Lymphoma,Surgery,Elective,10,Private,65689.32,Yes,Insurance,5.0,Recovered
+P1833,2025-05-09,2025-05-13,Emergency,Dr. Khan,Male,28,Emergency,Severe Fever,Therapy,Elective,4,General,10503.08,No,Cash,3.3,Recovered
+P1834,2025-11-01,2025-11-07,Orthopedics,Dr. Patil,Male,62,Emergency,Joint Pain,Minor Procedure,Elective,6,Private,37372.28,Yes,Cash,4.1,Follow-up
+P1835,2025-12-19,2025-12-26,Cardiology,Dr. Sharma,Female,50,OPD,Heart Disease,Observation,Elective,7,General,14570.19,Yes,Insurance,5.0,Recovered
+P1836,2025-12-29,2026-01-06,Cardiology,Dr. Mehta,Female,22,Emergency,Heart Disease,Therapy,Emergency,8,Private,44054.45,Yes,Insurance,3.2,Recovered
+P1837,2025-08-29,2025-09-07,Oncology,Dr. Chavan,Male,58,OPD,Lymphoma,Chemotherapy,Elective,9,Private,67447.41,Yes,Credit Card,3.1,Follow-up
+P1838,2025-09-15,2025-09-23,Emergency,Dr. Thomas,Male,85,Emergency,Breathing Difficulty,Chemotherapy,Emergency,8,Private,62599.84,Yes,Insurance,3.4,Follow-up
+P1839,2025-10-06,2025-10-11,Dermatology,Dr. Shah,Female,32,OPD,Acne,Medication,Emergency,5,Private,25039.87,Yes,Insurance,5.0,Under Treatment
+P1840,2025-03-26,2025-04-02,Gynecology,Dr. Gupta,Female,11,OPD,Anemia,Chemotherapy,Emergency,7,General,34639.33,No,UPI,4.0,Recovered
+P1841,2025-11-23,2025-12-01,Emergency,Dr. Khan,Female,42,OPD,Chest Pain,Medication,Elective,8,Semi-Private,24605.88,Yes,Cash,4.3,Recovered
+P1842,2025-09-27,2025-10-06,ENT,Dr. Mishra,Female,72,OPD,Sinusitis,Medication,Elective,9,Private,45819.56,Yes,Insurance,4.1,Follow-up
+P1843,2025-01-30,2025-01-31,Neurology,Dr. Rao,Female,1,OPD,Migraine,Observation,Elective,1,Private,4124.41,Yes,Insurance,4.3,Recovered
+P1844,2025-05-15,2025-05-16,Pediatrics,Dr. Joshi,Male,28,Emergency,Fever,Observation,Elective,1,Semi-Private,3643.25,Yes,Credit Card,3.9,Follow-up
+P1845,2025-07-07,2025-07-12,General Medicine,Dr. Singh,Male,67,OPD,Hypertension,Surgery,Elective,5,Semi-Private,33296.96,Yes,Credit Card,3.8,Recovered
+P1846,2025-03-16,2025-03-27,General Medicine,Dr. Verma,Female,37,Emergency,Fever,Therapy,Elective,11,General,25369.34,Yes,Insurance,4.8,Recovered
+P1847,2025-08-10,2025-08-24,Pediatrics,Dr. Iyer,Male,10,Emergency,Fever,Minor Procedure,Elective,14,General,30951.22,No,UPI,3.4,Recovered
+P1848,2025-11-28,2025-12-05,Dermatology,Dr. Shah,Male,38,Emergency,Eczema,Observation,Emergency,7,General,13555.27,Yes,Insurance,4.6,Recovered
+P1849,2025-12-13,2025-12-21,Neurology,Dr. Kapoor,Male,59,Emergency,Neuropathy,Observation,Emergency,8,General,16136.45,No,Cash,4.5,Recovered
+P1850,2025-05-25,2025-06-03,Orthopedics,Dr. Patil,Male,49,OPD,Joint Pain,Minor Procedure,Elective,9,Semi-Private,30711.84,Yes,Insurance,5.0,Recovered
+P1851,2025-09-16,2025-09-23,Gynecology,Dr. Gupta,Male,49,Emergency,Hormonal Disorder,Observation,Elective,7,Semi-Private,22300.26,No,UPI,4.5,Recovered
+P1852,2025-09-01,2025-09-03,Neurology,Dr. Kapoor,Male,43,OPD,Migraine,Chemotherapy,Elective,2,Private,32491.03,Yes,Insurance,3.8,Under Treatment
+P1853,2025-02-09,2025-02-11,Dermatology,Dr. Shah,Female,29,OPD,Psoriasis,Observation,Elective,2,Semi-Private,8607.29,Yes,Insurance,2.5,Follow-up
+P1854,2025-06-04,2025-06-11,General Medicine,Dr. Verma,Female,42,Emergency,Viral Infection,Surgery,Emergency,7,Semi-Private,39082.71,Yes,Credit Card,3.8,Follow-up
+P1855,2025-09-16,2025-09-25,Cardiology,Dr. Mehta,Male,23,OPD,Heart Disease,Observation,Emergency,9,Semi-Private,27048.68,Yes,Insurance,3.0,Recovered
+P1856,2025-03-14,2025-03-22,Orthopedics,Dr. Patil,Male,49,Emergency,Joint Pain,Surgery,Emergency,8,Private,56668.88,Yes,Insurance,3.8,Under Treatment
+P1857,2025-05-31,2025-06-07,Orthopedics,Dr. Deshmukh,Female,33,OPD,Arthritis,Medication,Emergency,7,Semi-Private,21850.42,Yes,Insurance,3.9,Recovered
+P1858,2025-09-19,2025-09-24,Oncology,Dr. Reddy,Male,27,OPD,Lung Cancer,Therapy,Emergency,5,General,13326.56,No,Debit Card,3.7,Recovered
+P1859,2025-09-14,2025-09-24,Neurology,Dr. Rao,Female,19,Emergency,Migraine,Minor Procedure,Elective,10,General,25206.52,Yes,Credit Card,4.4,Recovered
+P1860,2025-04-30,2025-05-11,Emergency,Dr. Thomas,Female,48,OPD,Chest Pain,Chemotherapy,Elective,11,Semi-Private,53143.5,Yes,Debit Card,4.1,Recovered
+P1861,2025-06-30,2025-07-06,Orthopedics,Dr. Patil,Female,13,Emergency,Joint Pain,Therapy,Elective,6,General,16556.47,No,UPI,4.3,Recovered
+P1862,2025-05-20,2025-05-30,Emergency,Dr. Khan,Male,66,OPD,Chest Pain,Medication,Emergency,10,ICU,120267.41,No,Cash,2.9,Recovered
+P1863,2025-04-21,2025-04-22,Gynecology,Dr. Gupta,Female,38,OPD,Pregnancy Care,Surgery,Elective,1,ICU,29139.75,Yes,Debit Card,4.7,Follow-up
+P1864,2025-10-21,2025-10-24,Oncology,Dr. Chavan,Female,48,OPD,Leukemia,Medication,Emergency,3,General,6883.71,Yes,Credit Card,3.8,Recovered
+P1865,2025-10-20,2025-10-27,Emergency,Dr. Khan,Female,59,Emergency,Accident Injury,Minor Procedure,Elective,7,General,20429.57,Yes,Insurance,4.6,Under Treatment
+P1866,2025-08-25,2025-09-03,ENT,Dr. Mishra,Female,41,Emergency,Sinusitis,Minor Procedure,Elective,9,Semi-Private,33221.96,Yes,Insurance,5.0,Under Treatment
+P1867,2025-02-25,2025-03-06,Orthopedics,Dr. Patil,Male,82,OPD,Arthritis,Chemotherapy,Elective,9,Semi-Private,48883.23,Yes,Insurance,3.5,Recovered
+P1868,2025-07-28,2025-08-02,ENT,Dr. Mishra,Male,1,OPD,Sinusitis,Observation,Emergency,5,General,11185.47,Yes,UPI,5.0,Follow-up
+P1869,2025-03-15,2025-03-16,Pediatrics,Dr. Joshi,Male,25,OPD,Infection,Chemotherapy,Emergency,1,General,24270.2,Yes,Cash,3.2,Recovered
+P1870,2025-10-05,2025-10-17,Cardiology,Dr. Mehta,Male,54,Emergency,Chest Pain,Medication,Elective,12,Semi-Private,36361.27,Yes,Insurance,5.0,Recovered
+P1871,2025-10-30,2025-10-31,Emergency,Dr. Thomas,Male,45,OPD,Severe Fever,Chemotherapy,Emergency,1,Private,27466.11,Yes,Debit Card,4.2,Recovered
+P1872,2025-06-16,2025-06-30,Dermatology,Dr. Shah,Female,41,Emergency,Acne,Chemotherapy,Elective,14,General,47178.24,Yes,Insurance,4.2,Recovered
+P1873,2025-01-15,2025-01-26,Emergency,Dr. Thomas,Female,37,OPD,Chest Pain,Chemotherapy,Elective,11,Semi-Private,54043.62,No,Credit Card,4.4,Recovered
+P1874,2025-05-16,2025-05-21,General Medicine,Dr. Verma,Female,42,OPD,Fever,Minor Procedure,Elective,5,General,14921.83,Yes,Insurance,4.3,Under Treatment
+P1875,2025-10-05,2025-10-10,Neurology,Dr. Kapoor,Female,54,OPD,Epilepsy,Chemotherapy,Emergency,5,General,31784.17,Yes,Insurance,4.6,Recovered
+P1876,2025-01-19,2025-01-20,Neurology,Dr. Rao,Male,52,Emergency,Epilepsy,Medication,Elective,1,Private,6468.52,Yes,Credit Card,3.2,Transferred
+P1877,2025-02-26,2025-03-12,Dermatology,Dr. Kulkarni,Female,53,Emergency,Eczema,Surgery,Elective,14,General,42538.81,Yes,Insurance,4.0,Recovered
+P1878,2025-04-15,2025-04-18,Cardiology,Dr. Sharma,Male,25,OPD,Hypertension,Minor Procedure,Elective,3,General,12547.58,Yes,Credit Card,5.0,Recovered
+P1879,2025-05-01,2025-05-05,Neurology,Dr. Kapoor,Male,13,OPD,Migraine,Observation,Elective,4,Semi-Private,13245.06,Yes,Cash,4.6,Follow-up
+P1880,2025-03-22,2025-03-29,ENT,Dr. Mishra,Female,49,Emergency,Sinusitis,Therapy,Emergency,7,General,17477.68,Yes,Debit Card,3.1,Follow-up
+P1881,2025-03-10,2025-03-21,Gynecology,Dr. Nair,Female,28,Emergency,Pregnancy Care,Therapy,Elective,11,Private,57710.27,No,UPI,4.1,Recovered
+P1882,2025-01-24,2025-01-25,Oncology,Dr. Reddy,Male,41,OPD,Lung Cancer,Observation,Elective,1,Semi-Private,4688.82,No,Debit Card,4.7,Recovered
+P1883,2025-08-20,2025-08-30,ENT,Dr. Mishra,Male,49,Emergency,Sinusitis,Medication,Emergency,10,Semi-Private,32144.82,No,Cash,3.2,Transferred
+P1884,2025-04-18,2025-04-20,Dermatology,Dr. Shah,Female,64,OPD,Skin Allergy,Medication,Emergency,2,Private,9933.43,No,Credit Card,4.7,Recovered
+P1885,2025-01-01,2025-01-10,Dermatology,Dr. Kulkarni,Male,73,Emergency,Acne,Surgery,Elective,9,Semi-Private,45962.59,Yes,Insurance,3.0,Recovered
+P1886,2025-08-19,2025-08-27,Neurology,Dr. Kapoor,Female,26,OPD,Neuropathy,Therapy,Emergency,8,Semi-Private,29210.06,Yes,Cash,4.4,Recovered
+P1887,2025-08-14,2025-08-21,Neurology,Dr. Rao,Female,73,Emergency,Epilepsy,Chemotherapy,Emergency,7,General,34896.08,No,UPI,4.1,Follow-up
+P1888,2025-10-28,2025-11-08,Dermatology,Dr. Kulkarni,Male,41,Emergency,Eczema,Medication,Elective,11,Semi-Private,34191.52,No,UPI,4.6,Transferred
+P1889,2025-09-08,2025-09-15,Orthopedics,Dr. Patil,Female,38,OPD,Fracture,Chemotherapy,Emergency,7,General,34640.31,No,Cash,3.9,Recovered
+P1890,2025-06-22,2025-06-29,General Medicine,Dr. Verma,Male,35,OPD,Hypertension,Minor Procedure,Elective,7,Semi-Private,26165.5,Yes,Insurance,2.8,Follow-up
+P1891,2025-01-25,2025-01-29,General Medicine,Dr. Singh,Male,30,OPD,Viral Infection,Minor Procedure,Emergency,4,Semi-Private,19897.44,Yes,Cash,3.5,Follow-up
+P1892,2025-03-28,2025-04-03,Dermatology,Dr. Shah,Female,61,OPD,Eczema,Chemotherapy,Elective,6,General,30737.28,Yes,Insurance,4.7,Recovered
+P1893,2025-10-02,2025-10-05,ENT,Dr. Bansal,Female,37,Emergency,Hearing Problem,Therapy,Emergency,3,General,9012.19,Yes,Debit Card,3.2,Recovered
+P1894,2025-03-23,2025-03-24,Emergency,Dr. Khan,Female,56,Emergency,Breathing Difficulty,Observation,Elective,1,General,4710.19,Yes,Insurance,3.7,Recovered
+P1895,2025-04-07,2025-04-08,Cardiology,Dr. Mehta,Female,36,OPD,Arrhythmia,Medication,Elective,1,Semi-Private,3417.48,Yes,Insurance,4.3,Follow-up
+P1896,2025-09-22,2025-09-28,Emergency,Dr. Thomas,Female,21,OPD,Breathing Difficulty,Medication,Emergency,6,Private,31588.27,Yes,Debit Card,2.7,Recovered
+P1897,2025-08-10,2025-08-14,General Medicine,Dr. Verma,Male,61,Emergency,Fever,Surgery,Elective,4,Private,36801.43,No,Cash,4.5,Recovered
+P1898,2025-06-09,2025-06-12,ENT,Dr. Bansal,Male,20,Emergency,Sinusitis,Surgery,Emergency,3,Private,34720.35,No,Credit Card,4.1,Recovered
+P1899,2025-05-05,2025-05-10,Gynecology,Dr. Gupta,Male,62,OPD,PCOS,Medication,Elective,5,Semi-Private,15251.17,Yes,Insurance,4.3,Follow-up
+P1900,2025-04-20,2025-04-26,ENT,Dr. Mishra,Female,59,OPD,Sinusitis,Minor Procedure,Emergency,6,Semi-Private,25666.11,No,Debit Card,4.5,Recovered
+P1901,2025-08-08,2025-08-16,Orthopedics,Dr. Patil,Male,28,OPD,Arthritis,Observation,Elective,8,ICU,97929.06,Yes,Insurance,4.6,Follow-up
+P1902,2025-02-12,2025-02-26,Neurology,Dr. Kapoor,Male,25,Emergency,Neuropathy,Chemotherapy,Elective,14,Semi-Private,64046.51,Yes,Insurance,3.5,Recovered
+P1903,2025-02-10,2025-02-11,Oncology,Dr. Chavan,Male,42,Emergency,Leukemia,Surgery,Emergency,1,Semi-Private,20387.62,Yes,Insurance,4.8,Recovered
+P1904,2025-11-18,2025-11-26,Orthopedics,Dr. Patil,Female,12,OPD,Fracture,Minor Procedure,Emergency,8,General,20068.4,Yes,Cash,4.3,Recovered
+P1905,2025-12-01,2025-12-09,Gynecology,Dr. Gupta,Female,61,Emergency,Pregnancy Care,Minor Procedure,Emergency,8,Semi-Private,30551.05,Yes,Cash,5.0,Follow-up
+P1906,2025-12-05,2025-12-12,ENT,Dr. Bansal,Male,15,OPD,Tonsillitis,Therapy,Elective,7,Semi-Private,22550.2,Yes,UPI,3.3,Recovered
+P1907,2025-06-07,2025-06-12,General Medicine,Dr. Verma,Female,55,OPD,Viral Infection,Minor Procedure,Elective,5,General,15366.1,No,Credit Card,4.0,Recovered
+P1908,2025-12-31,2026-01-03,Dermatology,Dr. Kulkarni,Male,48,Emergency,Psoriasis,Minor Procedure,Elective,3,Private,19382.62,Yes,Insurance,3.5,Recovered
+P1909,2025-06-22,2025-06-28,Cardiology,Dr. Sharma,Male,48,OPD,Heart Disease,Chemotherapy,Elective,6,Private,50638.04,Yes,Insurance,4.1,Under Treatment
+P1910,2025-09-18,2025-09-25,Gynecology,Dr. Gupta,Female,1,OPD,Anemia,Chemotherapy,Emergency,7,General,35330.32,Yes,Credit Card,3.5,Recovered
+P1911,2025-07-15,2025-07-18,Dermatology,Dr. Shah,Male,33,Emergency,Skin Allergy,Observation,Emergency,3,General,5564.75,No,Credit Card,3.6,Transferred
+P1912,2025-03-14,2025-03-21,Orthopedics,Dr. Patil,Female,25,OPD,Fracture,Medication,Elective,7,Private,35251.61,Yes,Insurance,3.0,Transferred
+P1913,2025-04-17,2025-04-23,Orthopedics,Dr. Patil,Male,52,Emergency,Fracture,Surgery,Emergency,6,ICU,91454.51,No,UPI,4.4,Follow-up
+P1914,2025-10-26,2025-11-04,General Medicine,Dr. Singh,Male,1,OPD,Fever,Medication,Elective,9,General,18054.98,Yes,Credit Card,4.1,Follow-up
+P1915,2025-12-02,2025-12-11,Neurology,Dr. Kapoor,Female,29,OPD,Migraine,Surgery,Elective,9,General,37696.93,No,Credit Card,4.1,Recovered
+P1916,2025-04-22,2025-04-26,Dermatology,Dr. Shah,Female,23,OPD,Acne,Therapy,Emergency,4,General,11385.95,No,Credit Card,4.3,Transferred
+P1917,2025-05-01,2025-05-10,Emergency,Dr. Thomas,Male,57,OPD,Severe Fever,Surgery,Elective,9,Private,60824.21,Yes,Insurance,3.6,Recovered
+P1918,2025-05-13,2025-05-16,Dermatology,Dr. Shah,Male,44,OPD,Skin Allergy,Chemotherapy,Elective,3,General,28597.65,Yes,Insurance,4.1,Follow-up
+P1919,2025-11-16,2025-11-25,Neurology,Dr. Kapoor,Female,29,Emergency,Migraine,Observation,Emergency,9,Semi-Private,28705.91,Yes,Credit Card,4.5,Recovered
+P1920,2025-03-11,2025-03-19,Pediatrics,Dr. Iyer,Female,76,OPD,Fever,Surgery,Elective,8,Private,58495.75,Yes,Insurance,4.0,Recovered
+P1921,2025-05-26,2025-05-27,General Medicine,Dr. Singh,Female,71,OPD,Diabetes,Medication,Emergency,1,General,4938.18,No,Debit Card,3.8,Recovered
+P1922,2025-04-23,2025-05-01,Orthopedics,Dr. Deshmukh,Female,45,OPD,Back Pain,Therapy,Emergency,8,Private,45747.98,Yes,Insurance,3.5,Recovered
+P1923,2025-01-14,2025-01-23,Dermatology,Dr. Kulkarni,Female,45,Emergency,Skin Allergy,Surgery,Emergency,9,ICU,126436.77,Yes,UPI,3.6,Transferred
+P1924,2025-11-27,2025-11-30,Orthopedics,Dr. Deshmukh,Male,27,OPD,Back Pain,Minor Procedure,Elective,3,Private,19875.12,Yes,Cash,3.4,Recovered
+P1925,2025-05-26,2025-05-28,Emergency,Dr. Thomas,Female,40,OPD,Severe Fever,Surgery,Elective,2,General,21611.07,No,Cash,3.3,Recovered
+P1926,2025-12-21,2025-12-28,Gynecology,Dr. Nair,Female,4,OPD,Anemia,Observation,Elective,7,Semi-Private,22191.92,No,UPI,4.8,Follow-up
+P1927,2025-06-19,2025-06-22,Oncology,Dr. Chavan,Male,44,OPD,Lung Cancer,Surgery,Emergency,3,Semi-Private,27935.02,Yes,Insurance,3.6,Follow-up
+P1928,2025-06-01,2025-06-09,Pediatrics,Dr. Iyer,Female,58,OPD,Infection,Chemotherapy,Emergency,8,Semi-Private,47103.75,Yes,Debit Card,3.2,Recovered
+P1929,2025-07-23,2025-07-25,Gynecology,Dr. Gupta,Male,34,Emergency,Anemia,Therapy,Elective,2,ICU,29302.78,No,Cash,3.3,Under Treatment
+P1930,2025-06-22,2025-06-25,Orthopedics,Dr. Deshmukh,Male,24,Emergency,Joint Pain,Minor Procedure,Elective,3,General,12288.62,Yes,Cash,4.7,Follow-up
+P1931,2025-02-04,2025-02-08,Dermatology,Dr. Shah,Male,28,OPD,Skin Allergy,Minor Procedure,Elective,4,General,12898.73,Yes,Credit Card,4.4,Recovered
+P1932,2025-11-04,2025-11-18,Gynecology,Dr. Nair,Male,47,Emergency,Hormonal Disorder,Minor Procedure,Elective,14,General,32277.04,Yes,Insurance,3.3,Follow-up
+P1933,2025-04-17,2025-05-01,Gynecology,Dr. Nair,Female,26,Emergency,Anemia,Observation,Elective,14,Semi-Private,41732.31,Yes,Insurance,4.4,Follow-up
+P1934,2025-01-17,2025-01-25,General Medicine,Dr. Verma,Female,46,OPD,Viral Infection,Chemotherapy,Emergency,8,General,39218.93,No,Cash,4.7,Recovered
+P1935,2025-08-29,2025-09-12,Emergency,Dr. Khan,Female,17,Emergency,Severe Fever,Surgery,Emergency,14,Semi-Private,59505.69,No,Cash,3.7,Follow-up
+P1936,2025-06-12,2025-06-18,General Medicine,Dr. Verma,Female,52,OPD,Fever,Chemotherapy,Emergency,6,Semi-Private,41438.04,No,Cash,4.0,Recovered
+P1937,2025-08-08,2025-08-14,Orthopedics,Dr. Deshmukh,Female,33,OPD,Back Pain,Minor Procedure,Elective,6,General,18054.07,Yes,Cash,3.3,Recovered
+P1938,2025-09-01,2025-09-05,Cardiology,Dr. Sharma,Female,31,OPD,Chest Pain,Therapy,Elective,4,General,12211.96,No,UPI,4.6,Recovered
+P1939,2025-10-31,2025-11-05,Oncology,Dr. Chavan,Male,3,OPD,Lung Cancer,Medication,Emergency,5,ICU,60335.42,No,UPI,4.4,Recovered
+P1940,2025-05-31,2025-06-02,Neurology,Dr. Kapoor,Female,8,OPD,Stroke,Medication,Elective,2,ICU,24975.33,Yes,UPI,4.1,Recovered
+P1941,2025-03-07,2025-03-15,Cardiology,Dr. Sharma,Male,22,OPD,Heart Disease,Observation,Elective,8,General,15310.95,Yes,Insurance,3.5,Recovered
+P1942,2025-09-22,2025-09-28,Dermatology,Dr. Kulkarni,Female,25,OPD,Eczema,Observation,Emergency,6,ICU,73455.72,Yes,Debit Card,4.2,Follow-up
+P1943,2025-10-30,2025-11-05,Oncology,Dr. Reddy,Female,50,OPD,Lymphoma,Chemotherapy,Elective,6,Private,49674.43,Yes,Insurance,4.2,Under Treatment
+P1944,2025-03-20,2025-03-27,ENT,Dr. Bansal,Female,11,Emergency,Tonsillitis,Therapy,Emergency,7,General,16253.09,Yes,Insurance,3.8,Recovered
+P1945,2025-10-21,2025-10-25,ENT,Dr. Bansal,Female,72,OPD,Ear Infection,Minor Procedure,Elective,4,General,14800.8,No,Cash,4.3,Recovered
+P1946,2025-08-31,2025-09-10,ENT,Dr. Bansal,Male,19,Emergency,Ear Infection,Medication,Elective,10,General,18306.49,Yes,Insurance,4.1,Recovered
+P1947,2025-04-09,2025-04-22,Oncology,Dr. Reddy,Female,30,Emergency,Lung Cancer,Medication,Elective,13,Private,64664.12,No,Debit Card,3.4,Recovered
+P1948,2025-08-18,2025-08-31,Oncology,Dr. Chavan,Female,10,Emergency,Lung Cancer,Therapy,Elective,13,Semi-Private,44626.11,Yes,Insurance,4.0,Recovered
+P1949,2025-11-04,2025-11-15,General Medicine,Dr. Singh,Female,19,Emergency,Hypertension,Surgery,Emergency,11,Semi-Private,51872.63,Yes,Debit Card,4.7,Recovered
+P1950,2025-06-25,2025-06-27,Dermatology,Dr. Kulkarni,Female,11,OPD,Eczema,Medication,Elective,2,Private,10899.45,Yes,Credit Card,4.2,Follow-up
+P1951,2025-01-18,2025-01-23,Neurology,Dr. Kapoor,Male,1,OPD,Neuropathy,Surgery,Emergency,5,Private,42884.99,Yes,Insurance,4.5,Follow-up
+P1952,2025-11-26,2025-11-30,Oncology,Dr. Chavan,Male,43,OPD,Lung Cancer,Observation,Emergency,4,Semi-Private,14749.59,Yes,Insurance,4.5,Transferred
+P1953,2025-04-07,2025-04-16,Orthopedics,Dr. Patil,Male,55,OPD,Arthritis,Surgery,Elective,9,General,35376.13,No,UPI,2.6,Recovered
+P1954,2025-03-07,2025-03-19,General Medicine,Dr. Verma,Female,37,Emergency,Diabetes,Minor Procedure,Elective,12,Private,66219.5,Yes,Insurance,2.7,Recovered
+P1955,2025-10-28,2025-11-08,Cardiology,Dr. Mehta,Male,37,Emergency,Heart Disease,Minor Procedure,Elective,11,General,27146.64,Yes,Credit Card,4.9,Follow-up
+P1956,2025-02-13,2025-02-15,General Medicine,Dr. Verma,Male,4,OPD,Viral Infection,Minor Procedure,Elective,2,Private,17559.85,Yes,Insurance,3.5,Follow-up
+P1957,2025-08-14,2025-08-23,Cardiology,Dr. Sharma,Male,47,OPD,Hypertension,Observation,Emergency,9,General,15432.68,Yes,Insurance,4.2,Recovered
+P1958,2025-08-26,2025-08-27,Orthopedics,Dr. Deshmukh,Female,29,OPD,Arthritis,Therapy,Emergency,1,ICU,17322.69,Yes,UPI,4.0,Recovered
+P1959,2025-03-04,2025-03-07,Neurology,Dr. Kapoor,Female,40,OPD,Stroke,Minor Procedure,Elective,3,General,10877.4,No,Debit Card,4.1,Recovered
+P1960,2025-09-11,2025-09-14,Neurology,Dr. Kapoor,Female,36,OPD,Stroke,Observation,Emergency,3,General,5618.56,Yes,Insurance,4.0,Under Treatment
+P1961,2025-01-26,2025-01-30,Oncology,Dr. Reddy,Male,45,OPD,Lymphoma,Surgery,Emergency,4,General,25714.23,Yes,Insurance,3.9,Recovered
+P1962,2025-10-22,2025-10-29,Emergency,Dr. Khan,Male,57,Emergency,Chest Pain,Chemotherapy,Elective,7,General,34865.07,Yes,UPI,4.4,Transferred
+P1963,2025-02-17,2025-02-23,Pediatrics,Dr. Joshi,Male,36,OPD,Dehydration,Medication,Elective,6,Private,29908.48,Yes,Insurance,3.8,Recovered
+P1964,2025-12-07,2025-12-09,Pediatrics,Dr. Iyer,Female,45,OPD,Infection,Medication,Emergency,2,General,4455.45,Yes,Debit Card,4.5,Recovered
+P1965,2025-11-19,2025-11-21,ENT,Dr. Bansal,Female,58,OPD,Ear Infection,Surgery,Elective,2,General,21961.17,Yes,Debit Card,3.7,Under Treatment
+P1966,2025-07-12,2025-07-15,Gynecology,Dr. Gupta,Male,12,OPD,Anemia,Minor Procedure,Elective,3,Semi-Private,15618.5,Yes,Insurance,4.2,Recovered
+P1967,2025-10-18,2025-10-19,Neurology,Dr. Kapoor,Male,35,OPD,Neuropathy,Minor Procedure,Elective,1,General,8678.36,Yes,Insurance,4.0,Recovered
+P1968,2025-08-02,2025-08-10,Pediatrics,Dr. Joshi,Female,31,OPD,Asthma,Observation,Elective,8,General,17405.69,Yes,Insurance,4.9,Transferred
+P1969,2025-12-29,2025-12-31,Emergency,Dr. Khan,Female,1,OPD,Chest Pain,Observation,Elective,2,General,6994.73,Yes,Insurance,5.0,Under Treatment
+P1970,2025-12-31,2026-01-07,General Medicine,Dr. Verma,Female,41,OPD,Diabetes,Minor Procedure,Elective,7,General,18713.18,No,Cash,3.0,Recovered
+P1971,2025-11-25,2025-12-05,Emergency,Dr. Thomas,Female,36,OPD,Severe Fever,Surgery,Elective,10,Semi-Private,47403.54,Yes,UPI,4.0,Follow-up
+P1972,2025-03-29,2025-03-30,Gynecology,Dr. Nair,Female,66,OPD,Anemia,Medication,Emergency,1,Private,4631.41,Yes,Insurance,3.5,Recovered
+P1973,2025-07-16,2025-07-25,Pediatrics,Dr. Iyer,Female,71,OPD,Infection,Chemotherapy,Elective,9,Semi-Private,49567.21,No,Credit Card,4.3,Recovered
+P1974,2025-02-28,2025-03-02,Cardiology,Dr. Mehta,Male,32,Emergency,Arrhythmia,Therapy,Elective,2,General,7478.63,Yes,Cash,4.4,Recovered
+P1975,2025-08-05,2025-08-19,ENT,Dr. Bansal,Male,55,Emergency,Ear Infection,Therapy,Elective,14,General,30760.95,No,Credit Card,4.2,Follow-up
+P1976,2025-06-15,2025-06-17,Gynecology,Dr. Gupta,Female,29,OPD,Hormonal Disorder,Therapy,Elective,2,Semi-Private,9671.43,No,UPI,3.6,Recovered
+P1977,2025-11-03,2025-11-11,Cardiology,Dr. Sharma,Male,41,Emergency,Heart Disease,Medication,Elective,8,General,14806.01,No,Debit Card,5.0,Recovered
+P1978,2025-01-04,2025-01-05,Cardiology,Dr. Sharma,Male,52,OPD,Chest Pain,Surgery,Emergency,1,General,18633.94,No,Cash,3.4,Recovered
+P1979,2025-03-30,2025-04-01,Gynecology,Dr. Gupta,Female,20,Emergency,PCOS,Medication,Elective,2,General,5398.72,Yes,Insurance,4.6,Under Treatment
+P1980,2025-12-23,2026-01-02,Neurology,Dr. Kapoor,Male,24,Emergency,Neuropathy,Medication,Elective,10,Private,48693.09,Yes,Insurance,4.2,Under Treatment
+P1981,2025-03-24,2025-04-07,Neurology,Dr. Rao,Female,24,Emergency,Epilepsy,Surgery,Elective,14,General,42152.95,No,Debit Card,5.0,Recovered
+P1982,2025-04-28,2025-05-07,Orthopedics,Dr. Patil,Male,9,OPD,Fracture,Observation,Emergency,9,ICU,111530.78,Yes,Insurance,3.8,Recovered
+P1983,2025-03-20,2025-03-29,Orthopedics,Dr. Patil,Female,21,Emergency,Joint Pain,Therapy,Emergency,9,ICU,112249.3,No,Credit Card,4.5,Recovered
+P1984,2025-02-03,2025-02-11,Orthopedics,Dr. Patil,Male,34,OPD,Fracture,Minor Procedure,Elective,8,Private,45591.6,Yes,Insurance,4.0,Under Treatment
+P1985,2025-04-14,2025-04-24,Dermatology,Dr. Kulkarni,Male,37,Emergency,Skin Allergy,Therapy,Elective,10,General,23631.62,Yes,Insurance,4.0,Follow-up
+P1986,2025-01-05,2025-01-09,ENT,Dr. Mishra,Male,19,OPD,Ear Infection,Surgery,Emergency,4,Semi-Private,31372.72,No,Cash,4.7,Transferred
+P1987,2025-01-03,2025-01-11,Cardiology,Dr. Sharma,Male,57,OPD,Arrhythmia,Minor Procedure,Emergency,8,Semi-Private,29294.27,Yes,UPI,4.4,Recovered
+P1988,2025-09-13,2025-09-18,Gynecology,Dr. Gupta,Male,33,OPD,Pregnancy Care,Medication,Elective,5,ICU,61019.14,Yes,Insurance,3.2,Recovered
+P1989,2025-04-18,2025-04-25,General Medicine,Dr. Verma,Male,57,OPD,Fever,Medication,Elective,7,Private,35458.25,Yes,Insurance,4.3,Follow-up
+P1990,2025-04-01,2025-04-08,General Medicine,Dr. Verma,Female,37,OPD,Diabetes,Chemotherapy,Emergency,7,General,33981.0,Yes,Credit Card,4.2,Recovered
+P1991,2025-05-06,2025-05-15,ENT,Dr. Mishra,Male,15,Emergency,Tonsillitis,Observation,Elective,9,ICU,111069.56,Yes,Insurance,4.5,Follow-up
+P1992,2025-03-10,2025-03-12,General Medicine,Dr. Singh,Female,18,Emergency,Fever,Observation,Elective,2,Private,11221.69,Yes,Insurance,3.9,Transferred
+P1993,2025-12-18,2025-12-21,ENT,Dr. Mishra,Female,59,OPD,Ear Infection,Minor Procedure,Elective,3,General,11971.63,Yes,Insurance,3.9,Recovered
+P1994,2025-03-31,2025-04-03,Neurology,Dr. Kapoor,Female,29,Emergency,Stroke,Therapy,Emergency,3,Semi-Private,14531.7,Yes,UPI,4.5,Under Treatment
+P1995,2025-05-09,2025-05-23,Emergency,Dr. Khan,Male,45,OPD,Chest Pain,Surgery,Emergency,14,Semi-Private,58902.92,Yes,Insurance,4.7,Recovered
+P1996,2025-10-06,2025-10-11,Emergency,Dr. Thomas,Female,88,Emergency,Accident Injury,Therapy,Elective,5,Private,28546.94,No,UPI,2.8,Recovered
+P1997,2025-11-11,2025-11-20,General Medicine,Dr. Verma,Female,1,Emergency,Diabetes,Therapy,Emergency,9,General,18785.58,Yes,Insurance,5.0,Recovered
+P1998,2025-05-13,2025-05-20,Dermatology,Dr. Shah,Male,21,OPD,Acne,Surgery,Elective,7,Private,55355.74,No,Cash,2.6,Transferred
+P1999,2025-03-29,2025-04-03,Neurology,Dr. Rao,Male,45,Emergency,Neuropathy,Surgery,Elective,5,General,25054.41,No,Debit Card,3.3,Recovered
+P2000,2025-01-30,2025-02-09,Pediatrics,Dr. Joshi,Male,46,Emergency,Infection,Surgery,Elective,10,General,36703.98,No,Cash,4.0,Recovered
